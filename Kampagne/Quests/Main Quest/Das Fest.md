@@ -28,7 +28,7 @@ Seid bereit eure eigene Geschichte zu schreiben.
 - Spieler haben auf ihrem Weg vom Dorf und dem Stadtfest gehört.
 Weil es quasi direkt auf dem Weg ist habt ihr .. also ich .. beschlossen sich das anzuschauen und kommen am Tag davor an.
 - Alles wird festlich geschmückt.
-- **Dorfvorsitzende** begrüßt sie herzlich und klärt darüber auf was sie erwartet.
+- **Dorfvorsitzender** begrüßt sie herzlich und klärt darüber auf was sie erwartet.
 - **Kräuterhexe (Mira)** sammelt am Dorfrand Kräuter. Gibt evtl. Ratschläge zu lokalen Pflanzen und Heilung. Erwähnt beiläufig, wie wichtig das Ritual ist.
 - **Der Fremde** hält sich im Gasthaus auf. TODO klären was er macht.
 
@@ -55,14 +55,6 @@ Der Vorsitzende hält eine Rede.
 ##### Feuerwerk 
 ##### Ritual
 
-
-
-
-
-## Belohnungen
-- **Gegenstände:** 
-- **Gold:** 
-- **Andere Belohnungen:** 
 
 ## Beteiligte NPCs
 
