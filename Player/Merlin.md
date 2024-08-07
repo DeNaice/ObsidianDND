@@ -35,7 +35,7 @@ HE IS A DRAGON
 
 ## Hintergrundgeschichte
 
-Merlin wuchs in einem friedlichen Dorf auf. Als er noch klein war, wurde sein Zuhause zerstört, sein Vater getötet und seine Mutter durch eine mysteriöse Magie tödlich krank. Um seine Mutter zu heilen und herauszufinden, was hinter dem Angriff steckte, wurde Merlin ein Magier. Nun reist er durch die Welt, getrieben von dem Wunsch, seine Mutter zu retten und die Wahrheit über die Ereignisse seiner Vergangenheit zu erfahren.
+Merlin wuchs in einem friedlichen Dorf auf. Als er noch klein war, wurde sein Zuhause zerstört, sein Vater getötet und seine Mutter durch eine mysteriöse Magie tödlich krank. Um seine Mutter zu heilen und herauszufinden, was hinter dem Angriff steckte, wurde Merlin ein Magier. Nun reist er durch die Welt, getrieben von dem Wunsch, seine Mutter zu retten und die Wahrheit über die Ereignisse seiner Vergangenheit zu erfahren. Im Laufe der Hintergrundgeschichte soll er sich langsam in einen Drachen verwandeln.
 
 
 ## Bindungen

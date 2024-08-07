@@ -77,27 +77,28 @@ _Auf ein unvergessliches Fest! Lasst die Feierlichkeiten beginnen!"_
 #####  Talentwettbewerb
 ##### Tanzwettbewerb 
 ##### Kuchenwettessen
-##### Wahrseherin
-##### Markstände
-##### Zelt der Kuriositäten
-##### Feuerwerk 
-##### Ritual
+#### Wahrseherin
+##### [[Babsi]]
+
+- **Vision:** Du befindest dich plötzlich tief unter Wasser in einer gewaltigen Höhle, die von einem unheimlichen blauen Licht erfüllt ist. Vor dir schwebt ein uraltes Artefakt, umgeben von beweglichen, schwarzen Tentakeln. Plötzlich siehst du eine hochgewachsene, majestätische Frau mit einer Krone aus Korallen – sie sieht aus wie du, aber älter und unheimlich. Ihr Blick ist streng und durchdringend. Du spürst, wie etwas Dunkles in dir erwacht, das dich zu diesem Artefakt zieht. Dann verschwindet die Vision.
+
+##### [[Der Geigenspieler]] 
+
+- **Vision:** Die Welt um dich herum verschwimmt, und du findest dich in einem düsteren Wald wieder. Die Bäume wirken verzerrt, als ob sie sich bewegen und atmen. Plötzlich taucht die kleine Eidechse auf, die sich in deiner Gegenwart immer wieder zeigt. Sie bewegt sich auf dich zu und spricht mit einer seltsam vertrauten Stimme: "Du bist nicht allein. Die Wahrheit liegt im Wasser, wo alles begann." Die Eidechse springt in einen nahegelegenen See, und du siehst im klaren Wasser die Umrisse eines Waisenhauses. Als du näher trittst, siehst du Schatten, die durch die Ruinen huschen, und in der Ferne erklingt die Melodie deiner Geige. Ein unsichtbarer Sog zieht dich näher, als die Vision plötzlich endet und du dich wieder bei der Hellseherin befindest.
+
+##### [[Merlin]]
+
+- **Vision:** Du stehst in einem dichten Wald, umgeben von Nebel. Eine sanfte Stimme flüstert deinen Namen, und du folgst ihr, bis du an einen alten, verwitterten Baum kommst. An den Wurzeln des Baumes ruht eine winzige, schillernde Eidechse – doch sie wirkt nicht wie ein einfaches Tier. Plötzlich hebt sie den Kopf und ihre Augen leuchten in einem tiefen, unergründlichen Violett. "Die Antwort auf dein Schicksal liegt nicht in der Magie, die du suchst, sondern in den Erinnerungen, die du verdrängt hast," sagt die Eidechse in einer altmodischen, doch klaren Stimme. Dann löst sich die Eidechse auf und hinterlässt einen silbernen Schlüssel, den du in die Hand nimmst. Der Nebel verdichtet sich, und du hörst das Flüstern von Stimmen, die aus allen Richtungen zu kommen scheinen. Bevor du weiterforschen kannst, endet die Vision abrupt.
 
 
-## Beteiligte NPCs
+#### Markstände
+#### Zelt der Kuriositäten
+#### Feuerwerk 
+#### Ritual
 
 
 
-## Hintergrund
-- **Geschichte:** 
-- **Wichtige Ereignisse:** 
-
-## Beziehungen
-- **Verbundene Quests:** 
-- **Verbundene Orte:** 
-
-
-## Notizen
+### Notizen
 - **Gerüchte:** 
 - **Geheimnisse:** 
 - **Zusätzliche Informationen:** 

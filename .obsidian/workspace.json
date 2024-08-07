@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "16c5c8911b96a8fd",
+        "id": "455c469f2ce6d3bb",
         "type": "tabs",
         "children": [
           {
-            "id": "48307d152c7cfcdf",
+            "id": "1991fbbe4c02da09",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 291.5,
-    "collapsed": true
+    "width": 291.5
   },
   "right": {
     "id": "89a5c9141e72ce63",
@@ -167,23 +166,23 @@
       "obsidian-kanban:Erstelle ein neues Board": false
     }
   },
-  "active": "48307d152c7cfcdf",
+  "active": "1991fbbe4c02da09",
   "lastOpenFiles": [
     "Kampagne/Quests/Main Quest/Das Fest-Kanban.md",
+    "Kampagne/Quests/Main Quest/Das Fest.md",
+    "Player/Babsi.md",
     "Player/Templates/Homepage.md",
+    "Player/Der Geigenspieler.md",
+    "Player/Merlin.md",
     "Kampagne/Sessions/Start.md",
     "Kampagne/NPC`s/Important/Sunny.md",
     "Assets/Obsidian Markdown.pdf",
     "Kampagne/Places/Continent/Faerun.md",
-    "Kampagne/Quests/Main Quest/Das Fest.md",
     "Kampagne/Places/Locations/Grünwald.md",
     "Kampagne/Items/Mysterious Bone Artifact.md",
     "Player/Senshi.md",
     "2024-08-03.md",
     "Untitled Kanban.md",
-    "Player/Babsi.md",
-    "Player/Der Geigenspieler.md",
-    "Player/Merlin.md",
     "Player/Senshi.md",
     "Player/Templates/NPCTemplate.md",
     "Kampagne/Places/Locations/Phandalin.md",
