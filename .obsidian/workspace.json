@@ -145,8 +145,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
@@ -167,7 +166,7 @@
       "obsidian-kanban:Erstelle ein neues Board": false
     }
   },
-  "active": "1991fbbe4c02da09",
+  "active": "0b9402b5a45f292f",
   "lastOpenFiles": [
     "Kampagne/NPC`s/Important/Vespera.md",
     "Kampagne/Quests/Main Quest/Das Fest.md",
