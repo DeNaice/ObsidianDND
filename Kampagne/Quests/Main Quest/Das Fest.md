@@ -97,6 +97,35 @@ _Auf ein unvergessliches Fest! Lasst die Feierlichkeiten beginnen!"_
 #### Ritual
 ##### Vorbereitung und Ablauf des Rituals
 
+-  Der Dorfplatz wird für das Ritual aufwendig geschmückt. In der Mitte steht ein großer, kunstvoll geschnitzter Holzmond, der in einem Kreis aus brennenden Fackeln ruht. Um den Platz herum hängen Girlanden aus getrockneten Kräutern und Blumen.
+    - Ein Steintisch dient als Altar, auf dem verschiedene Gaben wie Obst, Brot und eine Schale mit klarem Quellwasser dargebracht werden.
+- **Teilnehmer:**
+    - Fast das ganze Dorf nimmt teil, angeführt von der Kräuterhexe. Ältere Dorfbewohner singen alte Lieder, während die Jüngeren im Kreis stehen und die Fackeln halten.
+    - Die Spielercharaktere könnten eingeladen werden, besondere Rollen zu übernehmen, etwa das Entzünden der Fackeln, das Halten einer Schutzrune oder das Aufsagen einer vorbereiteten Formel.
+- **Ritualgegenstände:**
+
+    - Die Kräuterhexe bringt eine spezielle Mischung von Kräutern mit, darunter Johanniskraut, Beifuß und eine seltene Pflanze, die nur im tiefen Wald wächst. Diese sollen dem Feuer magische Eigenschaften verleihen und den Kontakt zum Mond und den Naturgeistern herstellen.
+    - Ein altes, verziertes Horn, das der Dorfvorsteher bläst, um das Ritual einzuleiten. Es soll den Klang des Mondes symbolisieren und wird in der Legende mit Schutz und Fruchtbarkeit in Verbindung gebracht.
+- **Eröffnung:**
+
+    - Die Kräuterhexe spricht eine uralte Formel, um die Geister der Natur und den Segen des Mondes herbeizurufen. Die Dorfbewohner wiederholen die letzten Worte in einem Singsang.
+    - Die Kräuter werden nacheinander in das Feuer geworfen, wodurch die Flammen in intensiven Farben auflodern und Funken in die Luft steigen.
+    
+- **Das schiefgehende Element:**
+
+    - Ein unscheinbares Mitglied des Dorfes (vielleicht ein NPC, den die Spieler bereits kennengelernt haben) hat eine der Zutaten unbewusst oder absichtlich gegen eine ähnliche, aber giftige Pflanze ausgetauscht.
+    - Während die letzte Zutat ins Feuer geworfen wird, ändert sich die Farbe der Flammen plötzlich von leuchtendem Grün zu einem unheimlichen, dunklen Violett. Ein kalter Wind erhebt sich, und das Feuer beginnt unnatürlich zu flackern.
+    
+- **Vorzeichen des Unheils:**
+    
+    - Die Kräuterhexe bemerkt sofort, dass etwas schiefgelaufen ist, und versucht, das Ritual zu stoppen. Doch es ist zu spät – eine dunkle Wolke beginnt sich am Himmel zu bilden, verdeckt den Mond und zieht alle Aufmerksamkeit auf sich.
+    
+- **Beschwörung der Kreaturen:**
+
+	 - Unwetter, riesiger Nebel, mit Schemen. 
+	 - Fremde ehrt den BBEG und geht auf die Füße.
+
+
 
 ### Notizen
 - **Gerüchte:** 
