@@ -123,7 +123,9 @@ _Auf ein unvergessliches Fest! Lasst die Feierlichkeiten beginnen!"_
 - **Beschwörung der Kreaturen:**
 
 	 - Unwetter, riesiger Nebel, mit Schemen. 
-	 - Fremde ehrt den BBEG und geht auf die Füße.
+	 - Fremde ehrt [[Vespera]] und geht auf die Füße.
+
+
 
 
 

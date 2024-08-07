@@ -145,7 +145,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -168,8 +169,9 @@
   },
   "active": "1991fbbe4c02da09",
   "lastOpenFiles": [
-    "Kampagne/Quests/Main Quest/Das Fest-Kanban.md",
+    "Kampagne/NPC`s/Important/Vespera.md",
     "Kampagne/Quests/Main Quest/Das Fest.md",
+    "Kampagne/Quests/Main Quest/Das Fest-Kanban.md",
     "Player/Babsi.md",
     "Player/Templates/Homepage.md",
     "Player/Der Geigenspieler.md",
@@ -201,7 +203,6 @@
     "Player/Templates/MagicItemTemplate.md",
     "Player/Templates/PlayerTemplate.md",
     "Player/Templates/LocationTemplate.md",
-    "Player/Templates/DM SCREEN.md",
     "Continente",
     "Kampagne/Places/Region",
     "Kampagne/Places/Locations",
