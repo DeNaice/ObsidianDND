@@ -124,9 +124,8 @@ _Auf ein unvergessliches Fest! Lasst die Feierlichkeiten beginnen!"_
 
 	 - Unwetter, riesiger Nebel, mit Schemen. 
 	 - Fremde ehrt [[Vespera]] und geht auf die Füße.
-
-
-
+	 
+	Oh Vespera, mächtige Traumweberin. Hier spricht dein treuer Diener, ich habe Jahre gebraucht, bis es mir möglich war dich zu befreien. Nun ist es endlich soweit, bring den Schleier des Traumes über uns und 
 
 
 ### Notizen
