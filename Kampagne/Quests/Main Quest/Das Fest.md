@@ -95,7 +95,7 @@ _Auf ein unvergessliches Fest! Lasst die Feierlichkeiten beginnen!"_
 #### Zelt der Kuriositäten
 #### Feuerwerk 
 #### Ritual
-
+##### Vorbereitung und Ablauf des Rituals
 
 
 ### Notizen
