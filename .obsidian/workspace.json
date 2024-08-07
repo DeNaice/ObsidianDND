@@ -11,17 +11,11 @@
             "id": "1991fbbe4c02da09",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "Kampagne/Quests/Main Quest/Das Fest-Kanban.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false
-                  ]
-                }
+                "file": "Kampagne/Quests/Main Quest/Das Fest.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -99,7 +93,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Kampagne/Quests/Main Quest/Das Fest-Kanban.md",
+                "file": "Kampagne/Quests/Main Quest/Das Fest.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -111,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kampagne/Quests/Main Quest/Das Fest-Kanban.md",
+                "file": "Kampagne/Quests/Main Quest/Das Fest.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kampagne/Quests/Main Quest/Das Fest-Kanban.md"
+                "file": "Kampagne/Quests/Main Quest/Das Fest.md"
               }
             }
           },
@@ -155,7 +149,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 349.5
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -174,9 +168,9 @@
   },
   "active": "1991fbbe4c02da09",
   "lastOpenFiles": [
+    "Kampagne/Quests/Main Quest/Das Fest-Kanban.md",
     "Kampagne/Quests/Main Quest/Das Fest.md",
     "Kampagne/NPC`s/Important/Vespera.md",
-    "Kampagne/Quests/Main Quest/Das Fest-Kanban.md",
     "Player/Babsi.md",
     "Player/Templates/Homepage.md",
     "Player/Der Geigenspieler.md",

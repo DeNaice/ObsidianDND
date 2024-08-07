@@ -6,7 +6,13 @@ Ihr werdet auf mystische Wesen und gefährliche Kreaturen treffen – von majest
 
 In dieser Welt sind die Möglichkeiten grenzenlos. Ihr könnt mutige Helden werden, die gegen das Böse kämpfen oder .. was auch immer ihr wollt die Möglichkeiten sind grenzenlos. 
 
-Seid bereit eure eigene Geschichte zu schreiben.
+Es liegt an euch, eure eigene Geschichte zu schreiben. 
+PS: Langsam fange ich an eure Persönliche Geschichte mit einzubeziehen also wäre es hilfreich wenn ihr langsam anfängt euch Notizen zu machen :) 
+
+Einleitung: 
+
+- Spieler sind auf dem Weg: Finden Flyer
+- 
 
 ---
 ## Allgemeine Informationen
