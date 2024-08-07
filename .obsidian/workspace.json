@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "455c469f2ce6d3bb",
+        "id": "3be548ff79aa8bc3",
         "type": "tabs",
         "children": [
           {
-            "id": "1991fbbe4c02da09",
+            "id": "53571c5409caeaac",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kampagne/Quests/Main Quest/Das Fest.md",
+                "file": "Player/Templates/Homepage.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Kampagne/Quests/Main Quest/Das Fest.md",
+                "file": "Player/Templates/Homepage.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kampagne/Quests/Main Quest/Das Fest.md",
+                "file": "Player/Templates/Homepage.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kampagne/Quests/Main Quest/Das Fest.md"
+                "file": "Player/Templates/Homepage.md"
               }
             }
           },
@@ -166,10 +166,10 @@
       "obsidian-kanban:Erstelle ein neues Board": false
     }
   },
-  "active": "1991fbbe4c02da09",
+  "active": "53571c5409caeaac",
   "lastOpenFiles": [
-    "Kampagne/Quests/Main Quest/Das Fest-Kanban.md",
     "Kampagne/Quests/Main Quest/Das Fest.md",
+    "Kampagne/Quests/Main Quest/Das Fest-Kanban.md",
     "Kampagne/NPC`s/Important/Vespera.md",
     "Player/Babsi.md",
     "Player/Templates/Homepage.md",
