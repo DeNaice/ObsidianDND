@@ -6,7 +6,6 @@ kanban-plugin: board
 
 ## TO DO
 
-- [ ] Karo einplanen
 - [ ] NPC`s ausarbeiten
 - [ ] Ritual beschreiben
 - [ ] Evtl. temporäre magische Items
@@ -15,13 +14,14 @@ kanban-plugin: board
 
 ## In Bearbeitung
 
-- [ ] Stände aufschreiben
 
 
 ## Done
 
 - [ ] Eine Einführung in die große Welt
+- [ ] Stände aufschreiben
 - [ ] Dorf beschreiben
+- [ ] Karo einplanen
 
 
 

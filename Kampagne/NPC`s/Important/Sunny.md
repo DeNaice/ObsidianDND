@@ -1,6 +1,3 @@
----
-tags: npc
----
 
 
 ## Allgemeine Informationen
