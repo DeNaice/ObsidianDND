@@ -28,13 +28,26 @@ Seid bereit eure eigene Geschichte zu schreiben.
 Weil es quasi direkt auf dem Weg ist habt ihr .. also ich .. beschlossen sich das anzuschauen und kommen am Tag davor an.
 - Alles wird festlich geschmückt.
 - **Dorfvorsitzender** begrüßt sie herzlich und klärt darüber auf was sie erwartet.
-- **Kräuterhexe (Mira)** sammelt am Dorfrand Kräuter. Gibt evtl. Ratschläge zu lokalen Pflanzen und Heilung. Erwähnt beiläufig, wie wichtig das Ritual ist.
+	- Alrik - Normaler Mensch - Liebt seine Gemeinschaft alles füs eise - opfert sich auf
+	- Frau starb - Sohn hat Dorf verlassen um sein Glück in der Welt zu probieren
+- **Kräuterhexe (Mira)** sammelt am Dorfrand Kräuter. Gibt evtl. Ratschläge zu lokalen 
+	- Mira Mensch - Alt, langer geflochtener Zopf, alles iwie selbstgemacht was sie anhat
+	- 
+- Pflanzen und Heilung. Erwähnt beiläufig, wie wichtig das Ritual ist.
 - **Der Fremde** hält sich im Gasthaus auf. TODO klären was er macht.
 
 #### Mögliche Hinweise
 
 - Bewohner tuscheln darüber, das mehr als jemals zuvor für das Ritual nötig ist. 
 - Alle vermeiden den See und wirken bei Themen um den See nervös.
+
+#### Mögliche Geheimnisse 
+Dorfvorsteher: Das Ritual wurde überliefert, aber er weiß absolut nicht was er da tut. Tatsächlich vermutet er, das es eine tiefere Bedeutung hat aber traut sich nicht, einfach aufzuhören.
+Kräuterhexe: Kennt das Ritual, sie glaubt das die Macht lauert und auf eine Chance wartet
+Schreiner(Geschichtenerzähler): Linke Hand ist gelähmt und erzählt eine Sage.
+Wirtin: Entlaufene Adelin - Erbin hinter sich gelassen - Heiratsantrag abgelehnt
+unterm Tresen eine Kiste mit Erinnerungen aus ihrer alten Zeit
+
 
 ### Der Tag des Festes
 
