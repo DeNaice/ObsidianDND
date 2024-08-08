@@ -101,6 +101,10 @@ Lasst uns heute lachen, tanzen und das Leben feiern. Auf ein unvergessliches Fes
 - **Vision:** Du stehst in einem dichten Wald, umgeben von Nebel. Eine sanfte Stimme flüstert deinen Namen, und du folgst ihr, bis du an einen alten, verwitterten Baum kommst. An den Wurzeln des Baumes ruht eine winzige, schillernde Eidechse – doch sie wirkt nicht wie ein einfaches Tier. Plötzlich hebt sie den Kopf und ihre Augen leuchten in einem tiefen, unergründlichen Violett. "Die Antwort auf dein Schicksal liegt nicht in der Magie, die du suchst, sondern in den Erinnerungen, die du verdrängt hast," sagt die Eidechse in einer altmodischen, doch klaren Stimme. Dann löst sich die Eidechse auf und hinterlässt einen silbernen Schlüssel, den du in die Hand nimmst. Der Nebel verdichtet sich, und du hörst das Flüstern von Stimmen, die aus allen Richtungen zu kommen scheinen. Bevor du weiterforschen kannst, endet die Vision abrupt.
 
 
+Kenna -> Sie hatten keine andere Wahl aber sie sind stolz auf dich
+
+
+
 #### Markstände
 #### Zelt der Kuriositäten
 #### Feuerwerk 
