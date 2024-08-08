@@ -39,7 +39,7 @@ Einleitung:
 Weil es quasi direkt auf dem Weg ist habt ihr .. also ich .. beschlossen sich das anzuschauen und kommen am Tag davor an.
 - Alles wird festlich geschmückt.
 - **Dorfvorsitzender** begrüßt sie herzlich und klärt darüber auf was sie erwartet.
-	- Alrik - Normaler Mensch - Liebt seine Gemeinschaft alles füs eise - opfert sich auf
+	- Alfrik - Normaler Mensch - Liebt seine Gemeinschaft alles füs eise - opfert sich auf
 	- Frau starb - Sohn hat Dorf verlassen um sein Glück in der Welt zu probieren
 - **Kräuterhexe (Mira)** sammelt am Dorfrand Kräuter. Gibt evtl. Ratschläge zu lokalen 
 	- Mira Mensch - Alt, langer geflochtener Zopf, alles iwie selbstgemacht was sie anhat
