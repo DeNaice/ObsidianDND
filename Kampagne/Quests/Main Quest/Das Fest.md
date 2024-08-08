@@ -1,12 +1,17 @@
+
 Wir befinden uns auf dem Kontinent Faerun, eine Welt in der Magie, Abenteuer, Gefahren allgegenwärtig sind. 
 
-In Faerûn erstrecken sich mächtige Königreiche, uralte Wälder und tiefe Dungeons, in denen Schätze und Geheimnisse verborgen liegen. Von den geschäftigen Straßen der Stadt Waterdeep bis zu den eisigen Gipfeln des Nordens bietet dieser Kontinent unzählige Orte zum Erkunden.
+In Faerûn erstrecken sich mächtige Königreiche, uralte Wälder und tiefe Dungeons, in denen Schätze und Geheimnisse verborgen liegen. 
+Von den geschäftigen Straßen der Stadt Waterdeep bis zu den eisigen Gipfeln des Nordens bietet dieser Kontinent unzählige Orte zum Erkunden.
 
-Ihr werdet auf mystische Wesen und gefährliche Kreaturen treffen – von majestätischen Drachen, die über Berge herrschen, bis hin zu finsteren Untoten, die in vergessenen Ruinen lauern. Magie durchzieht die Luft, und die mächtigen Götter der Welt greifen oft in das Leben der Sterblichen ein.
+Ihr werdet auf mystische Wesen und gefährliche Kreaturen treffen – von majestätischen Drachen, die über Berge herrschen, bis hin zu finsteren Untoten, die in vergessenen Ruinen lauern. 
+Magie durchzieht die Luft, und die mächtigen Götter der Welt greifen oft in das Leben der Sterblichen ein.
 
 In dieser Welt sind die Möglichkeiten grenzenlos. Ihr könnt mutige Helden werden, die gegen das Böse kämpfen oder .. was auch immer ihr wollt die Möglichkeiten sind grenzenlos. 
 
 Es liegt an euch, eure eigene Geschichte zu schreiben. 
+
+
 PS: Langsam fange ich an eure Persönliche Geschichte mit einzubeziehen also wäre es hilfreich wenn ihr langsam anfängt euch Notizen zu machen :) 
 
 Einleitung: 
