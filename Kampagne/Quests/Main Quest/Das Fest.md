@@ -60,20 +60,18 @@ unterm Tresen eine Kiste mit Erinnerungen aus ihrer alten Zeit
 
 #### Die Rede
 
-Am morgen werden alle durch tanzende Hühner geweckt. Diese laufen selbstständig zu jedem Haus picken an der Tür und tanzen für die Bewohner. 
-Der Vorsitzende hält eine Rede.
+**Liebe Dorfbewohner, liebe Freunde,**
 
-_Es ist wieder diese besondere Zeit im Jahr, in der wir uns alle versammeln, um das Leben, die Gemeinschaft und unsere schönen Traditionen zu feiern. Willkommen zum diesjährigen Dorffest in Grünwalt!_
+**Herzlich willkommen zum diesjährigen Dorffest in Grünwalt!**
+Heute ist ein Tag der Freude, des Lachens und des Zusammenseins. Lasst uns die einfachen Freuden des Lebens genießen, bei Wettkämpfen, Musik und gutem Essen.
 
-_Heute ist ein Tag der Freude, des Lachens und des Zusammenseins. Ein Tag, an dem wir all unsere Sorgen beiseitelegen und die einfachen Freuden des Lebens genießen. Wir haben Wettkämpfe, Musik, Tanz und genug Essen, um selbst den hungrigsten unter uns satt zu machen._
+Ein herzliches Dankeschön an alle, die dieses Fest möglich gemacht haben – eure Mühe ist es, die uns heute hier zusammenbringt.
 
-_Ich möchte allen danken, die geholfen haben, dieses Fest möglich zu machen. Von den fleißigen Händen, die die Stände aufgebaut haben, bis zu unseren talentierten Köchen, die den Duft frischer Speisen durch die Straßen tragen. Ihr alle habt dazu beigetragen, dass wir heute hier stehen und feiern können._
+Am Abend, wenn die Sonne untergeht, versammeln wir uns auf dem Dorfplatz, um unser altes Ritual der Jahreswende durchzuführen. Es schützt unser Dorf und bringt Glück für das kommende Jahr.
 
-_Doch so wie wir den Tag mit Fröhlichkeit und Lachen beginnen, so wollen wir ihn auch gebührend beschließen. Sobald die Sonne sich über den Horizont senkt und der Mond am Himmel emporsteigt, werden wir uns alle auf dem Dorfplatz versammeln, um unser altes Ritual der Jahreswende durchzuführen. Dieses Ritual schützt unser Dorf, bringt uns Glück und segnet unsere Felder für die kommende Zeit. Es ist eine Tradition, die wir von unseren Vorfahren geerbt haben, und sie verbindet uns mit der Vergangenheit ebenso wie mit der Zukunft._
+Lasst uns heute lachen, tanzen und das Leben feiern. Auf ein unvergessliches Fest!
 
-_Also lasst uns heute lachen, tanzen und fröhlich sein. Lasst uns alte Freundschaften pflegen und neue schließen. Und wenn die Nacht anbricht, lasst uns gemeinsam das Ritual vollziehen, das unser Dorf durch die Zeiten hindurch getragen hat._
-
-_Auf ein unvergessliches Fest! Lasst die Feierlichkeiten beginnen!"_
+**Lasst die Feierlichkeiten beginnen!**
 
 ### Stände 
 

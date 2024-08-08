@@ -11,8 +11,12 @@
             "id": "55d2a7fd53e2c7e5",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Kampagne/Quests/Main Quest/Das Fest.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -165,13 +169,13 @@
   "active": "55d2a7fd53e2c7e5",
   "lastOpenFiles": [
     "Player/Templates/Homepage.md",
+    "Kampagne/Quests/Main Quest/Das Fest.md",
     "Kampagne/NPC`s/Important/Vespera.md",
     "Kampagne/Quests/Main Quest/Das Fest-Kanban.md",
     "Kampagne/Sessions/Start.md",
     "Kampagne/NPC`s/Important/Sunny.md",
     "Assets/Obsidian Markdown.pdf",
     "Kampagne/Places/Continent/Faerun.md",
-    "Kampagne/Quests/Main Quest/Das Fest.md",
     "Kampagne/Places/Locations/Grünwald.md",
     "Kampagne/Items/Mysterious Bone Artifact.md",
     "Player/Senshi.md",
