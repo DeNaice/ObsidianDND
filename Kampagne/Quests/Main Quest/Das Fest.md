@@ -54,6 +54,7 @@ Weil es quasi direkt auf dem Weg ist habt ihr .. also ich .. beschlossen sich da
 
 #### Mögliche Geheimnisse 
 Dorfvorsteher: Das Ritual wurde überliefert, aber er weiß absolut nicht was er da tut. Tatsächlich vermutet er, das es eine tiefere Bedeutung hat aber traut sich nicht, einfach aufzuhören.
+
 Kräuterhexe: Kennt das Ritual, sie glaubt das die Macht lauert und auf eine Chance wartet
 Schreiner(Geschichtenerzähler): Linke Hand ist gelähmt und erzählt eine Sage.
 Wirtin: Entlaufene Adelin - Erbin hinter sich gelassen - Heiratsantrag abgelehnt
