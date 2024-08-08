@@ -60,7 +60,7 @@ Wirtin: Entlaufene Adelin - Erbin hinter sich gelassen - Heiratsantrag abgelehnt
 unterm Tresen eine Kiste mit Erinnerungen aus ihrer alten Zeit
 
 
-### Der Tag des Festes
+### Der Tag des2 Festes
 
 
 #### Die Rede
