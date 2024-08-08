@@ -1,4 +1,4 @@
-
+ 
 Wir befinden uns auf dem Kontinent Faerun, eine Welt in der Magie, Abenteuer, Gefahren allgegenwärtig sind. 
 
 In Faerûn erstrecken sich mächtige Königreiche, uralte Wälder und tiefe Dungeons, in denen Schätze und Geheimnisse verborgen liegen. 
