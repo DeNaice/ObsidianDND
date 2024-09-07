@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "db26797897ab54cc",
+        "id": "99c692d0a150f996",
         "type": "tabs",
         "children": [
           {
-            "id": "0a43451576eed89e",
+            "id": "1937d5fa19a8f637",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -166,7 +166,7 @@
       "templates:Insert template": false
     }
   },
-  "active": "0a43451576eed89e",
+  "active": "1937d5fa19a8f637",
   "lastOpenFiles": [
     "Kampagne/Quests/Main Quest/Das Fest.md",
     "Kampagne/Quests/Main Quest/Das Fest-Kanban.md",
