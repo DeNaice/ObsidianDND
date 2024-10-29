@@ -52,9 +52,25 @@ Wer seid ihr? Warum seid ihr hier? Und vor allem: Wie könnt ihr diesem verfluch
 
 ### Glockenturm  
 
-- Beschrei
+- Beschreibung: Der Glockenturm ragt hoch in den Nachthimmel. Eine große, alte Glocke hängt über den Spielern.
+- Auf einer Tafel steht: „Läute die Glocke, und du wirst die Dunkelheit rufen.“
+- Kann geläutet werden zum Ablenken, Fokus auf sich ziehen
+- (Geht evtl. beim Nutzen in die Brüche?)
 
+### Kirche 
 
+- Beschreibung: Die Kirche ist alt und in Verfall geraten. Inmitten der Bänke steht ein Altar, auf dem blutige Kerzen brennen. Unter der Kirche befindet sich die Krypta, in der die dunklen Geheimnisse des Anwesens verborgen liegen.
+- Altar: Ein Text auf dem Altar weist die Spieler an, in die Krypta hinabzusteigen. „Dort, wo die Dunkelheit geboren wurde, muss sie auch sterben.“
+
+### Krypta 
+
+- Beschreibung: **:** Die Krypta ist ein Labyrinth aus alten Grabkammern, in denen die Vorfahren der Familie Avorio begraben liegen. Der steinerne Sarg, in dem das **Artefakt** liegt, befindet sich tief in der Krypta.
+- Gefahr: Kreaturen wachen über das Artefakt und greifen an, sobald die Spieler versuchen, es zu berühren. Jeder Schritt durch die Krypta wird von drohenden Schatten begleitet, die das Wesen ankündigen. Es kommt immer näher.
+- Ende: Das Artefakt ist eine uralte, in Stein gehauene Statue, die die Dunkelheit in sich trägt. Um das Portal zu öffnen, müssen die Spieler die Statue zerstören – jedoch wird dies das Wesen herbeirufen. Sie müssen schnell handeln und bereit sein, gegen das Wesen zu fliehen.
+
+## Dienerwaschräume
+
+- Beschreibung: - **:** Die Waschräume der Diener sind leer und staubig. Das Wasser in den alten Becken ist abgestanden und riecht modrig.
 
 ## Mediallon
 
