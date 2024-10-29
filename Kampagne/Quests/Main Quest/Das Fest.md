@@ -1,12 +1,17 @@
+ 
 Wir befinden uns auf dem Kontinent Faerun, eine Welt in der Magie, Abenteuer, Gefahren allgegenwärtig sind. 
 
-In Faerûn erstrecken sich mächtige Königreiche, uralte Wälder und tiefe Dungeons, in denen Schätze und Geheimnisse verborgen liegen. Von den geschäftigen Straßen der Stadt Waterdeep bis zu den eisigen Gipfeln des Nordens bietet dieser Kontinent unzählige Orte zum Erkunden.
+In Faerûn erstrecken sich mächtige Königreiche, uralte Wälder und tiefe Dungeons, in denen Schätze und Geheimnisse verborgen liegen. 
+Von den geschäftigen Straßen der Stadt Waterdeep bis zu den eisigen Gipfeln des Nordens bietet dieser Kontinent unzählige Orte zum Erkunden.
 
-Ihr werdet auf mystische Wesen und gefährliche Kreaturen treffen – von majestätischen Drachen, die über Berge herrschen, bis hin zu finsteren Untoten, die in vergessenen Ruinen lauern. Magie durchzieht die Luft, und die mächtigen Götter der Welt greifen oft in das Leben der Sterblichen ein.
+Ihr werdet auf mystische Wesen und gefährliche Kreaturen treffen – von majestätischen Drachen, die über Berge herrschen, bis hin zu finsteren Untoten, die in vergessenen Ruinen lauern. 
+Magie durchzieht die Luft, und die mächtigen Götter der Welt greifen oft in das Leben der Sterblichen ein.
 
 In dieser Welt sind die Möglichkeiten grenzenlos. Ihr könnt mutige Helden werden, die gegen das Böse kämpfen oder .. was auch immer ihr wollt die Möglichkeiten sind grenzenlos. 
 
 Es liegt an euch, eure eigene Geschichte zu schreiben. 
+
+
 PS: Langsam fange ich an eure Persönliche Geschichte mit einzubeziehen also wäre es hilfreich wenn ihr langsam anfängt euch Notizen zu machen :) 
 
 Einleitung: 
@@ -34,7 +39,7 @@ Einleitung:
 Weil es quasi direkt auf dem Weg ist habt ihr .. also ich .. beschlossen sich das anzuschauen und kommen am Tag davor an.
 - Alles wird festlich geschmückt.
 - **Dorfvorsitzender** begrüßt sie herzlich und klärt darüber auf was sie erwartet.
-	- Alrik - Normaler Mensch - Liebt seine Gemeinschaft alles füs eise - opfert sich auf
+	- Alfrik - Normaler Mensch - Liebt seine Gemeinschaft alles füs eise - opfert sich auf
 	- Frau starb - Sohn hat Dorf verlassen um sein Glück in der Welt zu probieren
 - **Kräuterhexe (Mira)** sammelt am Dorfrand Kräuter. Gibt evtl. Ratschläge zu lokalen 
 	- Mira Mensch - Alt, langer geflochtener Zopf, alles iwie selbstgemacht was sie anhat
@@ -49,13 +54,14 @@ Weil es quasi direkt auf dem Weg ist habt ihr .. also ich .. beschlossen sich da
 
 #### Mögliche Geheimnisse 
 Dorfvorsteher: Das Ritual wurde überliefert, aber er weiß absolut nicht was er da tut. Tatsächlich vermutet er, das es eine tiefere Bedeutung hat aber traut sich nicht, einfach aufzuhören.
+
 Kräuterhexe: Kennt das Ritual, sie glaubt das die Macht lauert und auf eine Chance wartet
 Schreiner(Geschichtenerzähler): Linke Hand ist gelähmt und erzählt eine Sage.
 Wirtin: Entlaufene Adelin - Erbin hinter sich gelassen - Heiratsantrag abgelehnt
 unterm Tresen eine Kiste mit Erinnerungen aus ihrer alten Zeit
 
 
-### Der Tag des Festes
+### Der Tag des2 Festes
 
 
 #### Die Rede
@@ -93,6 +99,10 @@ Lasst uns heute lachen, tanzen und das Leben feiern. Auf ein unvergessliches Fes
 ##### [[Merlin]]
 
 - **Vision:** Du stehst in einem dichten Wald, umgeben von Nebel. Eine sanfte Stimme flüstert deinen Namen, und du folgst ihr, bis du an einen alten, verwitterten Baum kommst. An den Wurzeln des Baumes ruht eine winzige, schillernde Eidechse – doch sie wirkt nicht wie ein einfaches Tier. Plötzlich hebt sie den Kopf und ihre Augen leuchten in einem tiefen, unergründlichen Violett. "Die Antwort auf dein Schicksal liegt nicht in der Magie, die du suchst, sondern in den Erinnerungen, die du verdrängt hast," sagt die Eidechse in einer altmodischen, doch klaren Stimme. Dann löst sich die Eidechse auf und hinterlässt einen silbernen Schlüssel, den du in die Hand nimmst. Der Nebel verdichtet sich, und du hörst das Flüstern von Stimmen, die aus allen Richtungen zu kommen scheinen. Bevor du weiterforschen kannst, endet die Vision abrupt.
+
+
+Kenna -> Sie hatten keine andere Wahl aber sie sind stolz auf dich
+
 
 
 #### Markstände
