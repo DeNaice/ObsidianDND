@@ -6,6 +6,7 @@
       {
         "id": "cf37ea9dabba2ad1",
         "type": "tabs",
+        "dimension": 80.39806996381182,
         "children": [
           {
             "id": "16beec620cc3e09e",
@@ -24,6 +25,7 @@
       {
         "id": "397dd83addea16a9",
         "type": "tabs",
+        "dimension": 19.60193003618818,
         "children": [
           {
             "id": "dfb70ded8eaa89b5",
@@ -33,7 +35,7 @@
               "state": {
                 "file": "Kampagne/Quests/Side Quests/Halloween.md",
                 "kanbanViewState": {
-                  "kanban-plugin": "board",
+                  "kanban-plugin": "list",
                   "list-collapse": [
                     false,
                     false,

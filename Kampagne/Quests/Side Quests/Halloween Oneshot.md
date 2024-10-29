@@ -123,6 +123,9 @@ Beschreibung: Der Vogelgarten ist seltsam still. Keine Vögel sind zu sehen, abe
 
 ## Medaillon
 
+- Lederne Schnur zum am Hals tragen
+- Fühlt sich eiskalt an
+- 
 
 ### Roll Tabelle
 
@@ -158,9 +161,9 @@ Beschreibung: Der Vogelgarten ist seltsam still. Keine Vögel sind zu sehen, abe
 |---|---|
 |8|**Seelenqual**: Du spürst für 1 Stunde einen ständigen Schmerz in deiner Brust, der dich daran hindert, dich zu entspannen. Du erhältst Nachteil auf alle Ruhe-Proben.|
 
-|   |   |
-|---|---|
-|9|**Vergessene Erinnerungen**: Du vergisst für die nächste Stunde einen wichtigen Aspekt deines Charakters (z.B. eine Fähigkeit oder einen Verbündeten), der dir nicht mehr zur Verfügung steht.|
+|     |                                                                                                                                                                                                |
+| --- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 9   | **Vergessene Erinnerungen**: Du vergisst für die nächste Stunde einen wichtigen Aspekt deines Charakters (z.B. eine Fähigkeit oder einen Verbündeten), der dir nicht mehr zur Verfügung steht. |
 
 |     |                                                                                                                                                                                      |
 | --- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
