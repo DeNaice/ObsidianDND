@@ -68,10 +68,30 @@ Wer seid ihr? Warum seid ihr hier? Und vor allem: Wie könnt ihr diesem verfluch
 - Gefahr: Kreaturen wachen über das Artefakt und greifen an, sobald die Spieler versuchen, es zu berühren. Jeder Schritt durch die Krypta wird von drohenden Schatten begleitet, die das Wesen ankündigen. Es kommt immer näher.
 - Ende: Das Artefakt ist eine uralte, in Stein gehauene Statue, die die Dunkelheit in sich trägt. Um das Portal zu öffnen, müssen die Spieler die Statue zerstören – jedoch wird dies das Wesen herbeirufen. Sie müssen schnell handeln und bereit sein, gegen das Wesen zu fliehen.
 
-## Dienerwaschräume
+### Dienerwaschräume
 
-- Beschreibung: - **:** Die Waschräume der Diener sind leer und staubig. Das Wasser in den alten Becken ist abgestanden und riecht modrig.
+- Beschreibung: Die Waschräume der Diener sind leer und staubig. Das Wasser in den alten Becken ist abgestanden und riecht modrig.
+- Besonderheit: Ein kleiner Spiegel hängt schief an der Wand. Wenn sich ein Spieler darin betrachtet, sieht er sich selbst, aber im Spiegelbild fehlen seine Augen. (Verliert sich?)
 
-## Mediallon
+
+### Lagerhaus
+
+- Beschreibung: Das Lagerhaus ist voll mit verstaubten Kisten und alten Möbeln, die längst nicht mehr benutzt werden. Ein modriger Geruch liegt in der Luft.
+- Besonderheit: Findet magisches Item ? 
+
+### Pferdestall
+
+- Beschreibung: - ist leer, das Gras ist überwuchert und verfault. Die Überreste eines alten Karrens stehen in der Mitte. Ein Skelettpferd steht da
+- Besonderheit: - **:** In der Nähe des Karrens liegt ein alter, zerrissener Sattel. Wer den Sattel untersucht, findet eine Nachricht eingenäht, die von einem ehemaligen Stallmeister stammt:
+	- „Nichtmal die Pferde können von ihm rennen. Versteckt euch. Ihr werdet eh sterben."
+
+### Vogelgarten
+
+Beschreibung: Der Vogelgarten ist seltsam still. Keine Vögel sind zu sehen, aber leere Käfige hängen an den Bäumen. Der Wind bewegt sie, sodass sie sanft klingeln.
+- Besonderheit: - In einem der Käfige liegt ein zerrupfter, schwarzer Vogel mit leuchtenden Augen, der plötzlich lebendig wird und aufgeregt nach draußen starrt. Der Vogel gibt kryptische Ratschläge, die schwer zu verstehen sind.
+- „Die Dunkelheit kommt… Flieg, bevor sie dich verschlingt.“
+- „Schutz gibt es nicht… nur die Medaille.“
+
+## Medaillon
 
 ## Fight Encounter

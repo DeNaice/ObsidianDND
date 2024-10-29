@@ -4,24 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "d7a1b1759c70d694",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "2005f05539a7ee00",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Kampagne/Quests/Side Quests/Halloween Oneshot.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
         "id": "9c9b33dc73f9eb5e",
         "type": "tabs",
         "children": [
@@ -29,17 +11,11 @@
             "id": "4fe23f7b998d9b32",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "Kampagne/Quests/Side Quests/Halloween.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false
-                  ]
-                }
+                "file": "Kampagne/Quests/Side Quests/Halloween Oneshot.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -170,12 +146,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 349.5,
-    "collapsed": true
+    "width": 349.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -192,10 +168,13 @@
       "templates:Insert template": false
     }
   },
-  "active": "2005f05539a7ee00",
+  "active": "d1a142513227de49",
   "lastOpenFiles": [
     "Kampagne/Quests/Side Quests/Halloween.md",
+    "Untitled Kanban.md",
     "Kampagne/Quests/Side Quests/Halloween Oneshot.md",
+    "Untitled.md",
+    "Untitled",
     "Kampagne/Quests/Main Quest/Das Fest.md",
     "Player/Templates/Homepage.md",
     "Player/Templates/Session Planing Board.md",
@@ -210,7 +189,6 @@
     "Kampagne/Items/Mysterious Bone Artifact.md",
     "Player/Senshi.md",
     "2024-08-03.md",
-    "Untitled Kanban.md",
     "Player/Babsi.md",
     "Player/Der Geigenspieler.md",
     "Player/Merlin.md",
@@ -224,13 +202,11 @@
     "Kampagne/Quests/Side Quests",
     "Kampagne/Quests/Main Quest",
     "Kampagne/Quests/Unbenannt.md",
-    "Kampagne/NPC`s/Important/Mushmush.md",
     "Kampagne/NPC`s/Side",
     "Kampagne/NPC`s/Important",
     "Kampagne/Quests",
     "Continente",
     "Kampagne/Places/Region",
-    "Kampagne/Places/Locations",
     "Untitled.canvas"
   ]
 }
