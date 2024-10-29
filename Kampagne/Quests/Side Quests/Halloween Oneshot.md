@@ -88,9 +88,33 @@ Wer seid ihr? Warum seid ihr hier? Und vor allem: Wie könnt ihr diesem verfluch
 ### Vogelgarten
 
 Beschreibung: Der Vogelgarten ist seltsam still. Keine Vögel sind zu sehen, aber leere Käfige hängen an den Bäumen. Der Wind bewegt sie, sodass sie sanft klingeln.
-- Besonderheit: - In einem der Käfige liegt ein zerrupfter, schwarzer Vogel mit leuchtenden Augen, der plötzlich lebendig wird und aufgeregt nach draußen starrt. Der Vogel gibt kryptische Ratschläge, die schwer zu verstehen sind.
-- „Die Dunkelheit kommt… Flieg, bevor sie dich verschlingt.“
-- „Schutz gibt es nicht… nur die Medaille.“
+- Besonderheit: In einem der Käfige liegt ein zerrupfter, schwarzer Rabe mit leuchtenden Augen, der plötzlich lebendig wird und aufgeregt nach draußen starrt. Der Vogel gibt kryptische Ratschläge, die schwer zu verstehen sind.
+	- „Die Dunkelheit kommt… Flieg, bevor sie dich verschlingt.“
+	- „Schutz gibt es nicht… nur die Medaille.“
+
+### Friedhof
+
+- **Beschreibung:** Der Friedhof ist überwachsen, und die Grabsteine sind alt und brüchig. Nebelschwaden ziehen über den Boden.
+- **Besonderheit:** Ein altes Grab ist geöffnet. Der Grabstein trägt den Namen eines Verstorbenen, der vor vielen Jahren in Verbindung mit der dunklen Magie der Villa stand.
+- Ein Spieler, der nachforscht, findet alte Aufzeichnungen (mit einer erfolgreichen **Geschichtsprobe**), die besagen, dass der Fluch der Villa seinen Ursprung in einem dunklen Ritual hatte, das in der Krypta stattfand.
+
+### Krankenstation
+
+- **Beschreibung:** Die Krankenstation ist verlassen, und die Betten sind überwuchert mit Ranken. Einige alte medizinische Instrumente liegen verstreut herum.
+- **Besonderheit:** Ein altes, vergilbtes Rezeptbuch liegt auf einem der Tische. Es enthält Anweisungen zur Herstellung eines Gegengifts, das im **Kräutergarten** gesammelte Pflanzen verwendet.
+
+### Kutschhaus
+- **Beschreibung:** Das Kutschhaus ist voller verrottender Kutschen und alten, abgenutzten Geschirren. Die Kutschen scheinen schon seit Jahren nicht mehr benutzt worden zu sein.
+- **Besonderheit:** In einer der Kutschen liegt ein altes, verschlüsseltes Tagebuch des Kutschers. Es enthält einige kryptische Hinweise auf Fluchtversuche früherer Bewohner.
+	- „Sie versuchten zu entkommen… Aber der Nebel wird niemals vergehen…“
+	- „Die Medaille… ein flüchtiger Schutz. Doch das Böse sieht alles.“
+
+### Regenwasser Sammelbecken
+
+- **Beschreibung:** Ein altes Becken, das einst Regenwasser sammelte, ist verstopft und schimmelig. Wasser tropft langsam von der Decke.
+- **Besonderheit:** Am Boden des Beckens befindet sich ein merkwürdig glänzender Gegenstand. Wenn ein Spieler hineingreift, findet er eine alte verrotenden Kopf.
+	- Evtl. hat der Kopf etwas in seinem Mund
+
 
 ## Medaillon
 
