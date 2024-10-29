@@ -11,12 +11,10 @@
             "id": "16beec620cc3e09e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Kampagne/Quests/Side Quests/Halloween Oneshot.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -39,7 +37,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -54,7 +54,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -62,15 +64,16 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 291.5,
-    "collapsed": true
+    "width": 291.5
   },
   "right": {
     "id": "89a5c9141e72ce63",
@@ -85,7 +88,9 @@
             "type": "leaf",
             "state": {
               "type": "git-view",
-              "state": {}
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           },
           {
@@ -94,7 +99,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kampagne/Quests/Side Quests/Halloween Oneshot.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +106,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
             }
           },
           {
@@ -111,10 +117,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Kampagne/Quests/Side Quests/Halloween Oneshot.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
             }
           },
           {
@@ -125,7 +132,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -133,9 +142,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Kampagne/Quests/Side Quests/Halloween Oneshot.md"
-              }
+              "state": {},
+              "icon": "lucide-list",
+              "title": "Outline"
             }
           },
           {
@@ -143,7 +152,9 @@
             "type": "leaf",
             "state": {
               "type": "advanced-tables-toolbar",
-              "state": {}
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
             }
           }
         ],
@@ -155,7 +166,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "homepage:Open homepage": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "templater-obsidian:Templater": false,
@@ -168,11 +178,11 @@
       "templates:Insert template": false
     }
   },
-  "active": "18065efe690e6531",
+  "active": "16beec620cc3e09e",
   "lastOpenFiles": [
-    "Kampagne/Quests/Side Quests/Halloween.md",
-    "Kampagne/Quests/Side Quests/Halloween Oneshot.md",
     "Player/Templates/Homepage.md",
+    "Kampagne/Quests/Side Quests/Halloween Oneshot.md",
+    "Kampagne/Quests/Side Quests/Halloween.md",
     "Untitled Kanban.md",
     "Untitled.md",
     "Untitled",
