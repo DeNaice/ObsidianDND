@@ -18,9 +18,6 @@ Wer seid ihr? Warum seid ihr hier? Und vor allem: Wie könnt ihr diesem verfluch
 ### Der Gärtner
 - Ein alter, untoter Gärtner taucht aus dem Nebel auf. Er ist verwirrt, spricht in Rätseln und gibt kryptische Hinweise
 	- Ihr wollt fliehen? Ihr seid nicht die Ersten… aber alle sind tot. Es jagt euch, es tötet euch... nur die Medaille kann euch helfen
-	- ?
-	- ?
-
 
 ## Räume
 
@@ -210,4 +207,10 @@ Beschreibung: Der Vogelgarten ist seltsam still. Keine Vögel sind zu sehen, abe
 |20|**Körperliche Manifestation**: Du bekommst eine auffällige physische Veränderung (z.B. blasse Haut, leuchtende Augen), die andere abschreckt. Du erhältst Nachteil auf alle Charisma-Proben und bist für den Rest des Abenteuers als „verflucht“ bekannt.|
 
 
-## Fight Encounter
+## Das Sterben
+
+- Gibt denen das Geräusch von brechenden und knackenden Knochen wenn es sich in umschaut und seine Gelenke in unmöglichen Winkeln bewegt
+- Luke: Gib ihnen einen stillen Tod bei dem plötzlich jeder Ton verschwindet und jemand in purer Dunkelheit verschlungen wird
+- Geb ihnen das Bild einer Kakophonie der Schmerzensschreie oder das Flüstern aller bisherigen Opfer und wenn es soweit schon dazu gekommen ist auch ihre eigenen Stimmen die unheilvolle Versprechen und Drohungen flüstern
+- Beschreibe ihm detail das wie in einem flüssigen Ruck die Haut von den Knochen gerissen wird und das einzige verbleibende Gefühl eine Grabeskälte am jeweiligen Körperteil ist
+
