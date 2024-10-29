@@ -10,9 +10,15 @@ Vor euch liegt das große Herrenhaus mit seinen zugenagelten Fenstern und der sc
 
 Wer seid ihr? Warum seid ihr hier? Und vor allem: Wie könnt ihr diesem verfluchten Ort entkommen?
 
-## Einstieg und Setup
+## Einstieg und Setup (Garten)
 
 - Wachen im Garten (bei der Kirche auf) 
 - Bei Versuch zu fliehen -> Dichter Nebel + Schauer!
 
 ### Der Gärtner
+- Ein alter, untoter Gärtner taucht aus dem Nebel auf. Er ist verwirrt, spricht in Rätseln und gibt kryptische Hinweise
+	- Ihr wollt fliehen? Ihr seid nicht die Ersten… aber alle sind tot. Es jagt euch, es tötet euch... nur die Medaille kann euch helfen
+	- ?
+	- ?
+
+## Erkundung und Ressourcen sammlen+
