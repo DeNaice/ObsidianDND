@@ -21,4 +21,11 @@ Wer seid ihr? Warum seid ihr hier? Und vor allem: Wie könnt ihr diesem verfluch
 	- ?
 	- ?
 
-## Erkundung und Ressourcen sammlen+
+## Erkundung und Ressourcen sammlen
+
+
+## Verfolgen des Monsters
+
+
+## Räume
+
