@@ -115,7 +115,14 @@ Beschreibung: Der Vogelgarten ist seltsam still. Keine Vögel sind zu sehen, abe
 - **Besonderheit:** Am Boden des Beckens befindet sich ein merkwürdig glänzender Gegenstand. Wenn ein Spieler hineingreift, findet er eine alte verrotenden Kopf.
 	- Evtl. hat der Kopf etwas in seinem Mund
 
+### Bibliothek 
+
+- Beschreibung: Chaotischer Raum gefüllt mit alten verwesenden Büchern mit modrigem Geruch
+- Besonderheit: Sobald sie suchen flüstern die Bücher
+- Falle: Das dickste Buch -> Hände aus dem Buch das einen erwürgt
 
 ## Medaillon
+
+
 
 ## Fight Encounter

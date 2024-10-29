@@ -6,12 +6,9 @@ kanban-plugin: board
 
 ## ToDo
 
-- [ ] DM Screen
 - [ ] Erzählart festlegen
-- [ ] Orte mit Events füllen
 - [ ] NPC´s
 - [ ] Monster
-- [ ] Rätsel?
 - [ ] Kämpfe
 - [ ] Magische Halloween Items?
 - [ ] Musik
@@ -20,12 +17,15 @@ kanban-plugin: board
 ## In Bearbeitung
 
 - [ ] Kostüm fertig machen
-- [ ] Karte ausdrucken
 - [ ] Handouts ausdrucken und beschriften
 
 
 ## DONE
 
+- [ ] Rätsel?
+- [ ] DM Screen
+- [ ] Orte mit Events füllen
+- [ ] Karte ausdrucken
 
 
 
