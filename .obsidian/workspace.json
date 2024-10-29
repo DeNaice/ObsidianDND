@@ -13,7 +13,25 @@
             "state": {
               "type": "kanban",
               "state": {
-                "file": "Kampagne/Quests/Side Quests/Untitled Kanban.md",
+                "file": "Kampagne/Quests/Side Quests/Halloween.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": [
+                    false,
+                    false,
+                    false
+                  ]
+                }
+              }
+            }
+          },
+          {
+            "id": "10c4a979df1c3d38",
+            "type": "leaf",
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "Kampagne/Quests/Side Quests/Halloween.md",
                 "kanbanViewState": {
                   "kanban-plugin": "board",
                   "list-collapse": [
@@ -25,7 +43,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -99,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Kampagne/Quests/Side Quests/Untitled Kanban.md",
+                "file": "Kampagne/Quests/Side Quests/Halloween.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -111,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kampagne/Quests/Side Quests/Untitled Kanban.md",
+                "file": "Kampagne/Quests/Side Quests/Halloween.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kampagne/Quests/Side Quests/Untitled Kanban.md"
+                "file": "Kampagne/Quests/Side Quests/Halloween.md"
               }
             }
           },
@@ -172,11 +191,12 @@
       "templates:Insert template": false
     }
   },
-  "active": "4fe23f7b998d9b32",
+  "active": "10c4a979df1c3d38",
   "lastOpenFiles": [
     "Kampagne/Quests/Side Quests/Halloween Oneshot.md",
+    "Kampagne/Quests/Side Quests/Halloween.md",
+    "conflict-files-obsidian-git.md",
     "Kampagne/Quests/Main Quest/Das Fest-Kanban.md",
-    "Kampagne/Quests/Side Quests/Untitled Kanban.md",
     "Kampagne/Quests/Main Quest/Das Fest.md",
     "Kampagne/Sessions/Start.md",
     "Player/Templates/Session Planing Board.md",
@@ -206,7 +226,6 @@
     "Kampagne/NPC`s/Important/Mushmush.md",
     "Kampagne/NPC`s/Side",
     "Kampagne/NPC`s/Important",
-    "Player/Templates/QuestTemplate.md",
     "Kampagne/Quests",
     "Continente",
     "Kampagne/Places/Region",
