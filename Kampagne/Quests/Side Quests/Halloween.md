@@ -14,6 +14,7 @@ kanban-plugin: board
 - [ ] Rätsel?
 - [ ] Kämpfe
 - [ ] Magische Halloween Items?
+- [ ] Musik
 
 
 ## In Bearbeitung

@@ -24,8 +24,17 @@ Wer seid ihr? Warum seid ihr hier? Und vor allem: Wie könnt ihr diesem verfluch
 ## Erkundung und Ressourcen sammlen
 
 
-## Verfolgen des Monsters
+## Verfolgung vom Monster
 
 
 ## Räume
 
+### Küche 
+
+- Beschreibung: - In der Küche hängen große, alte Töpfe an den Wänden. Überreste von einstigen Mahlzeiten sind überall verstreut, und es riecht faulig.
+- Auf einem der großen Holztische liegt ein altes, in Leder gebundenes Tagebuch des Küchenchefs.
+- 
+
+
+
+## Fight Encounter
