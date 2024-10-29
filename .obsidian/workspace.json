@@ -73,7 +73,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 291.5
+    "width": 291.5,
+    "collapsed": true
   },
   "right": {
     "id": "89a5c9141e72ce63",
@@ -162,7 +163,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 349.5
+    "width": 349.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -180,11 +182,11 @@
   },
   "active": "16beec620cc3e09e",
   "lastOpenFiles": [
+    "Untitled Kanban.md",
+    "Untitled.md",
     "Player/Templates/Homepage.md",
     "Kampagne/Quests/Side Quests/Halloween Oneshot.md",
     "Kampagne/Quests/Side Quests/Halloween.md",
-    "Untitled Kanban.md",
-    "Untitled.md",
     "Untitled",
     "Kampagne/Quests/Main Quest/Das Fest.md",
     "Player/Templates/Session Planing Board.md",
