@@ -124,5 +124,87 @@ Beschreibung: Der Vogelgarten ist seltsam still. Keine Vögel sind zu sehen, abe
 ## Medaillon
 
 
+### Roll Tabelle
+
+|   |   |
+|---|---|
+|1|**Flüstern der Verstorbenen**: Du hörst für 1 Stunde die Stimmen der verlorenen Seelen, die um Hilfe rufen. Es lenkt dich ab und gibt dir Nachteil auf Intelligenz- und Weisheitsproben.|
+
+|   |   |
+|---|---|
+|2|**Schattige Präsenz**: Du bist für 1 Stunde von einem schattenhaften Wesen verfolgt, das dir Angst einjagt. Du erleidest bei jeder Interaktion mit anderen einen Nachteil auf Charisma-Proben.|
+
+|   |   |
+|---|---|
+|3|**Seelenverlust**: Du fühlst dich innerlich leer. Für die nächste Stunde hast du Schwierigkeiten, dich auf deine Ziele zu konzentrieren und erhältst Nachteil auf alle Fertigkeitswürfe.|
+
+|   |   |
+|---|---|
+|4|**Traumhafte Halluzinationen**: Du siehst für 1d4 Minuten schreckliche Visionen von deinem eigenen Tod. Du bist für diese Zeit handlungsunfähig.|
+
+|   |   |
+|---|---|
+|5|**Unerklärliche Kälte**: Eine unerklärliche Kälte umgibt dich, und andere fühlen sich unwohl in deiner Nähe. Du bekommst Nachteil auf Charisma-Proben, da andere dich meiden.|
+
+|   |   |
+|---|---|
+|6|**Angst vor dem Unbekannten**: Du entwickelst für 1 Stunde eine Phobie gegen ein beliebiges Element deiner Umgebung (z.B. Dunkelheit, Wasser). Du kannst dich nicht in der Nähe davon aufhalten.|
+
+|   |   |
+|---|---|
+|7|**Unheilsvolle Vorzeichen**: Für den Rest des Abenteuers wird dir nachgesagt, dass du Unglück bringst. Du bekommst Nachteil auf alle sozialen Interaktionen.|
+
+|   |   |
+|---|---|
+|8|**Seelenqual**: Du spürst für 1 Stunde einen ständigen Schmerz in deiner Brust, der dich daran hindert, dich zu entspannen. Du erhältst Nachteil auf alle Ruhe-Proben.|
+
+|   |   |
+|---|---|
+|9|**Vergessene Erinnerungen**: Du vergisst für die nächste Stunde einen wichtigen Aspekt deines Charakters (z.B. eine Fähigkeit oder einen Verbündeten), der dir nicht mehr zur Verfügung steht.|
+
+|     |                                                                                                                                                                                      |
+| --- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| 10  | **Sicht der Seelen**: Du siehst für 1 Stunde die Seelen der Verstorbenen um dich herum, die ständig nach Hilfe rufen. Du kannst nicht schlafen und bekommst Nachteil auf Ruheproben. |
+
+|   |   |
+|---|---|
+|11|**Unheimliches Verhalten**: Du handelst für 1 Stunde unberechenbar und sprichst ohne Grund. Deine Gefährten müssen einen Charisma-Save ablegen, um deine Gesellschaft zu ertragen.|
+
+|   |   |
+|---|---|
+|12|**Dunkle Auren**: Deine Anwesenheit wird von einem düsteren Schatten umgeben, der dir eine unheimliche Ausstrahlung verleiht. Du hast Nachteil auf Charisma-Proben und wirst von anderen misstrauisch betrachtet.|
+
+|   |   |
+|---|---|
+|13|**Trauriger Geist**: Du bist von einer melancholischen Stimmung ergriffen und musst für die nächste Stunde einen Willenswurf ablegen, um nicht in Trübsinn zu verfallen.|
+
+|   |   |
+|---|---|
+|14|**Schrecken aus der Vergangenheit**: Erinnerungen an eine traumatische Erfahrung kommen zurück und stören deinen Geist. Du hast Nachteil auf Weisheitswürfe für die nächsten 10 Minuten.|
+
+|   |   |
+|---|---|
+|15|**Spukhaftes Gefühl**: Du fühlst dich von einem unsichtbaren Wesen beobachtet. Du kannst nicht entspannen und bekommst Nachteil auf alle Fertigkeitsproben, die Konzentration erfordern.|
+
+|   |   |
+|---|---|
+|16|**Eisige Berührung**: Dein Körper wird von einem eisigen Hauch umgeben, der dich das Gefühl gibt, als würdest du nie wirklich warm werden. Du hast Nachteil auf Fortbewegungsproben für die nächste Stunde.|
+
+|   |   |
+|---|---|
+|17|**Stille des Todes**: Du bist für 10 Minuten in einen tiefen Schweigen gehüllt, der jede Kommunikation unmöglich macht. Du kannst keine Verbündeten um Hilfe bitten.|
+
+|   |   |
+|---|---|
+|18|**Einsame Seele**: Du spürst ein tiefes Gefühl der Einsamkeit. Deine Fähigkeit, mit anderen zu interagieren, wird beeinträchtigt, und du bekommst Nachteil auf soziale Proben für den Rest des Abenteuers.|
+
+|   |   |
+|---|---|
+|19|**Besessenheit**: Du wirst von einem Gedanken besessen, dass du das Medaillon nicht benutzen solltest. Du kannst dich nicht davon abhalten, darüber nachzudenken und erhältst Nachteil auf alle Proben, die Fokus erfordern.|
+
+|   |   |
+|---|---|
+|20|**Körperliche Manifestation**: Du bekommst eine auffällige physische Veränderung (z.B. blasse Haut, leuchtende Augen), die andere abschreckt. Du erhältst Nachteil auf alle Charisma-Proben und bist für den Rest des Abenteuers als „verflucht“ bekannt.|
+
 
 ## Fight Encounter
