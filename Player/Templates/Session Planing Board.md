@@ -10,7 +10,6 @@ kanban-plugin: board
 
 ## To Do
 
-- [ ] Devis Charakter ausbauen (Drache?)
 
 
 ## In Progress
