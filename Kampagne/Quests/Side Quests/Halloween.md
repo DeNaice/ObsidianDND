@@ -6,9 +6,6 @@ kanban-plugin: board
 
 ## ToDo
 
-- [ ] Handouts ausdrucken und beschriften
-- [ ] Kostüm fertig machen
-- [ ] Karte ausdrucken
 - [ ] DM Screen
 - [ ] Erzählart festlegen
 - [ ] Orte mit Events füllen
@@ -21,6 +18,9 @@ kanban-plugin: board
 
 ## In Bearbeitung
 
+- [ ] Kostüm fertig machen
+- [ ] Karte ausdrucken
+- [ ] Handouts ausdrucken und beschriften
 
 
 ## DONE
