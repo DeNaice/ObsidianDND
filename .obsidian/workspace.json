@@ -11,10 +11,14 @@
             "id": "16beec620cc3e09e",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Kampagne/Quests/Side Quests/Halloween Oneshot.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Halloween Oneshot"
             }
           }
         ]
@@ -182,11 +186,11 @@
   },
   "active": "16beec620cc3e09e",
   "lastOpenFiles": [
+    "Kampagne/Quests/Side Quests/Halloween.md",
     "Untitled Kanban.md",
     "Untitled.md",
     "Player/Templates/Homepage.md",
     "Kampagne/Quests/Side Quests/Halloween Oneshot.md",
-    "Kampagne/Quests/Side Quests/Halloween.md",
     "Untitled",
     "Kampagne/Quests/Main Quest/Das Fest.md",
     "Player/Templates/Session Planing Board.md",
