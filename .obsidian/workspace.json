@@ -147,9 +147,11 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {},
+              "state": {
+                "file": "Kampagne/Quests/Side Quests/Halloween Oneshot.md"
+              },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Halloween Oneshot"
             }
           },
           {
@@ -162,13 +164,11 @@
               "title": "Advanced Tables"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 349.5,
-    "collapsed": true
+    "width": 349.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -184,7 +184,7 @@
       "templates:Insert template": false
     }
   },
-  "active": "16beec620cc3e09e",
+  "active": "0b9402b5a45f292f",
   "lastOpenFiles": [
     "Kampagne/Quests/Side Quests/Halloween.md",
     "Untitled Kanban.md",
