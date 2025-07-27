@@ -11,21 +11,14 @@
             "id": "c6107d5ec5135861",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "Player/Templates/Session Planing Board.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false,
-                    false
-                  ]
-                }
+                "file": "Kampagne/Places/Continent/Untitled.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-trello",
-              "title": "Session Planing Board"
+              "icon": "lucide-file",
+              "title": "Untitled"
             }
           }
         ]
@@ -85,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 291.5
+    "width": 291.5,
+    "collapsed": true
   },
   "right": {
     "id": "89a5c9141e72ce63",
@@ -195,18 +189,20 @@
       "templates:Insert template": false
     }
   },
-  "active": "0b9402b5a45f292f",
+  "active": "c6107d5ec5135861",
   "lastOpenFiles": [
+    "Player/Templates/Homepage.md",
+    "Kampagne/Places/Continent/Untitled.md",
+    "Kampagne/Places/Continent/Faerun.md",
+    "Start.md",
+    "Player/Templates/Session Planing Board.md",
     "Untitled Kanban.md",
     "Player/Senshi.md",
     "Player/Merlin.md",
     "Player/Der Geigenspieler.md",
     "Player/Babsi.md",
-    "Player/Templates/Session Planing Board.md",
     "Player/Templates/LocationTemplate.md",
-    "Player/Templates/Homepage.md",
     "Player/Templates/DM SCREEN.md",
-    "Kampagne/Places/Continent/Faerun.md",
     "Kampagne/Sessions/Start.md",
     "Kampagne/Quests/Side Quests/Halloween.md",
     "Kampagne/Quests/Main Quest/Das Fest.md",
@@ -223,7 +219,6 @@
     "Kampagne/NPC`s/Important/Sunny.md",
     "2024-08-03.md",
     "Player/Templates/NPCTemplate.md",
-    "Kampagne/Places/Locations/Phandalin.md",
     "Kampagne/Rituale",
     "Kampagne/Quests/Side Quests/Das Fest.canvas",
     "Kampagne/Quests/Side Quests",
