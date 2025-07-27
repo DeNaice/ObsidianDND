@@ -11,12 +11,14 @@
             "id": "7c490ba0cd9a1811",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Assets/Obsidian Markdown.pdf"
+                "file": "Templates/QuestTemplate.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "Obsidian Markdown"
+              "icon": "lucide-file",
+              "title": "QuestTemplate"
             }
           }
         ]
@@ -186,8 +188,9 @@
       "templates:Insert template": false
     }
   },
-  "active": "d1a142513227de49",
+  "active": "7c490ba0cd9a1811",
   "lastOpenFiles": [
+    "Assets/Obsidian Markdown.pdf",
     "A World/Races & Cultures",
     "A World/Magic",
     "A World/Factions",
@@ -206,7 +209,6 @@
     "A World/Places/Citys",
     "A World/Places/Regions",
     "Templates/ContinentTemplate.md",
-    "Kampagne/Preperation",
     "Ort 1.md",
     "{{Hauptstadt}}.md",
     "A World/Places/Continent/Name des Kontinents.md",
