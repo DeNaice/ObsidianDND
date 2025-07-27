@@ -11,14 +11,12 @@
             "id": "7c490ba0cd9a1811",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Templates/ContinentTemplate.md",
-                "mode": "source",
-                "source": false
+                "file": "Assets/Obsidian Markdown.pdf"
               },
-              "icon": "lucide-file",
-              "title": "ContinentTemplate"
+              "icon": "lucide-file-text",
+              "title": "Obsidian Markdown"
             }
           }
         ]
@@ -190,17 +188,26 @@
   },
   "active": "d1a142513227de49",
   "lastOpenFiles": [
-    "Kampagne/Vorbereitung",
+    "Items",
+    "Templates/QuestTemplate.md",
+    "Templates/LocationTemplate.md",
+    "Templates/DM SCREEN.md",
+    "Templates/Homepage.md",
+    "Templates/MagicItemTemplate.md",
+    "Templates/NPCTemplate.md",
+    "Kampagne/Preperation/Encounters",
+    "Kampagne/Preperation/Quests",
+    "Templates/JournalTemplate.md",
+    "Places/Important Places",
+    "Places/Citys",
+    "Places/Regions",
+    "Templates/ContinentTemplate.md",
+    "Kampagne/Preperation",
     "People",
     "People/NPC´s",
     "Kampagne/Journal",
     "Ort 1.md",
-    "Templates/ContinentTemplate.md",
     "{{Hauptstadt}}.md",
-    "Templates/LocationTemplate.md",
-    "Templates/DM SCREEN.md",
-    "Templates/Homepage.md",
-    "Templates/NPCTemplate.md",
     "Places/Continent/Name des Kontinents.md",
     "Kampagne/Places/Continent/Faerun.md",
     "Start.md",
@@ -217,16 +224,7 @@
     "Kampagne/NPC`s/Important/Mushmush.md",
     "Kampagne/Items/Mysterious Bone Artifact.md",
     "Assets/Obsidian Markdown.pdf",
-    "Kampagne/Quests/Side Quests/Halloween Oneshot.md",
-    "Untitled.md",
-    "Kampagne/Quests/Main Quest/Das Fest-Kanban.md",
-    "Kampagne/Rituale",
     "Kampagne/Quests/Side Quests/Das Fest.canvas",
-    "Kampagne/Quests/Side Quests",
-    "Kampagne/Quests/Main Quest",
-    "Kampagne/NPC`s/Side",
-    "Kampagne/NPC`s/Important",
-    "Kampagne/Quests",
     "Untitled.canvas"
   ]
 }
