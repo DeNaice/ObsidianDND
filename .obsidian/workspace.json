@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kampagne/Places/Continent/Untitled.md",
+                "file": "Player/Templates/LocationTemplate.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "LocationTemplate"
             }
           }
         ]
@@ -190,8 +190,8 @@
   },
   "active": "c6107d5ec5135861",
   "lastOpenFiles": [
+    "Kampagne/Places/Continent/Name des Kontinents.md",
     "Player/Templates/Homepage.md",
-    "Kampagne/Places/Continent/Untitled.md",
     "Kampagne/Places/Continent/Faerun.md",
     "Start.md",
     "Player/Templates/Session Planing Board.md",
