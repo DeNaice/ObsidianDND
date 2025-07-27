@@ -11,21 +11,14 @@
             "id": "c6107d5ec5135861",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "Player/Templates/Session Planing Board.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false,
-                    false
-                  ]
-                }
+                "file": "Kampagne/Places/Continent/Faerun.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-trello",
-              "title": "Session Planing Board"
+              "icon": "lucide-file",
+              "title": "Faerun"
             }
           }
         ]
@@ -195,17 +188,17 @@
       "templates:Insert template": false
     }
   },
-  "active": "0b9402b5a45f292f",
+  "active": "d1a142513227de49",
   "lastOpenFiles": [
+    "Templates/Session Planing Board.md",
+    "Player/Templates/Homepage.md",
     "Untitled Kanban.md",
     "Player/Senshi.md",
     "Player/Merlin.md",
     "Player/Der Geigenspieler.md",
     "Player/Babsi.md",
-    "Player/Templates/Session Planing Board.md",
-    "Player/Templates/LocationTemplate.md",
-    "Player/Templates/Homepage.md",
-    "Player/Templates/DM SCREEN.md",
+    "Templates/LocationTemplate.md",
+    "Templates/DM SCREEN.md",
     "Kampagne/Places/Continent/Faerun.md",
     "Kampagne/Sessions/Start.md",
     "Kampagne/Quests/Side Quests/Halloween.md",
@@ -222,7 +215,7 @@
     "Kampagne/NPC`s/Important/Vespera.md",
     "Kampagne/NPC`s/Important/Sunny.md",
     "2024-08-03.md",
-    "Player/Templates/NPCTemplate.md",
+    "Templates/NPCTemplate.md",
     "Kampagne/Places/Locations/Phandalin.md",
     "Kampagne/Rituale",
     "Kampagne/Quests/Side Quests/Das Fest.canvas",
