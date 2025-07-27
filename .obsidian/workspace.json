@@ -76,7 +76,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 291.5
+    "width": 200
   },
   "right": {
     "id": "89a5c9141e72ce63",
@@ -188,6 +188,10 @@
   },
   "active": "d1a142513227de49",
   "lastOpenFiles": [
+    "A World/Races & Cultures",
+    "A World/Magic",
+    "A World/Factions",
+    "A World",
     "Items",
     "Templates/QuestTemplate.md",
     "Templates/LocationTemplate.md",
@@ -198,17 +202,14 @@
     "Kampagne/Preperation/Encounters",
     "Kampagne/Preperation/Quests",
     "Templates/JournalTemplate.md",
-    "Places/Important Places",
-    "Places/Citys",
-    "Places/Regions",
+    "A World/Places/Important Places",
+    "A World/Places/Citys",
+    "A World/Places/Regions",
     "Templates/ContinentTemplate.md",
     "Kampagne/Preperation",
-    "People",
-    "People/NPC´s",
-    "Kampagne/Journal",
     "Ort 1.md",
     "{{Hauptstadt}}.md",
-    "Places/Continent/Name des Kontinents.md",
+    "A World/Places/Continent/Name des Kontinents.md",
     "Kampagne/Places/Continent/Faerun.md",
     "Start.md",
     "Templates/Session Planing Board.md",
@@ -223,7 +224,6 @@
     "Kampagne/Places/Locations/Grünwald.md",
     "Kampagne/NPC`s/Important/Mushmush.md",
     "Kampagne/Items/Mysterious Bone Artifact.md",
-    "Assets/Obsidian Markdown.pdf",
     "Kampagne/Quests/Side Quests/Das Fest.canvas",
     "Untitled.canvas"
   ]
