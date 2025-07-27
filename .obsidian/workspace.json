@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Player/Templates/ContinentTemplate.md",
+                "file": "Templates/ContinentTemplate.md",
                 "mode": "source",
                 "source": false
               },
@@ -188,19 +188,23 @@
       "templates:Insert template": false
     }
   },
-  "active": "7c490ba0cd9a1811",
+  "active": "d1a142513227de49",
   "lastOpenFiles": [
+    "Kampagne/Vorbereitung",
+    "People",
+    "People/NPC´s",
+    "Kampagne/Journal",
     "Ort 1.md",
-    "Player/Templates/ContinentTemplate.md",
+    "Templates/ContinentTemplate.md",
     "{{Hauptstadt}}.md",
-    "Player/Templates/LocationTemplate.md",
-    "Player/Templates/DM SCREEN.md",
-    "Player/Templates/Homepage.md",
-    "Player/Templates/NPCTemplate.md",
-    "Kampagne/Places/Continent/Name des Kontinents.md",
+    "Templates/LocationTemplate.md",
+    "Templates/DM SCREEN.md",
+    "Templates/Homepage.md",
+    "Templates/NPCTemplate.md",
+    "Places/Continent/Name des Kontinents.md",
     "Kampagne/Places/Continent/Faerun.md",
     "Start.md",
-    "Player/Templates/Session Planing Board.md",
+    "Templates/Session Planing Board.md",
     "Untitled Kanban.md",
     "Player/Senshi.md",
     "Player/Merlin.md",
@@ -215,9 +219,7 @@
     "Assets/Obsidian Markdown.pdf",
     "Kampagne/Quests/Side Quests/Halloween Oneshot.md",
     "Untitled.md",
-    "Untitled",
     "Kampagne/Quests/Main Quest/Das Fest-Kanban.md",
-    "conflict-files-obsidian-git.md",
     "Kampagne/Rituale",
     "Kampagne/Quests/Side Quests/Das Fest.canvas",
     "Kampagne/Quests/Side Quests",
@@ -225,8 +227,6 @@
     "Kampagne/NPC`s/Side",
     "Kampagne/NPC`s/Important",
     "Kampagne/Quests",
-    "Continente",
-    "Kampagne/Places/Region",
     "Untitled.canvas"
   ]
 }

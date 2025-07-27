@@ -1,7 +1,7 @@
 # 🗺️ Kontinent: {{Kontinentname}}
 
 ## 🧭 Überblick
-- **Lage:** 
+	- **Lage:** 
 - **Größe:** 
 - **Klima:** 
 - **Wichtige Merkmale:** 
