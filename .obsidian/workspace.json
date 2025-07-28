@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/QuestTemplate.md",
+                "file": "A World/Factions/test.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "QuestTemplate"
+              "title": "test"
             }
           }
         ]
@@ -188,15 +188,16 @@
       "templates:Insert template": false
     }
   },
-  "active": "7c490ba0cd9a1811",
+  "active": "0b9402b5a45f292f",
   "lastOpenFiles": [
+    "Templates/QuestTemplate.md",
+    "A World/Factions/test.md",
     "Assets/Obsidian Markdown.pdf",
     "A World/Races & Cultures",
     "A World/Magic",
     "A World/Factions",
     "A World",
     "Items",
-    "Templates/QuestTemplate.md",
     "Templates/LocationTemplate.md",
     "Templates/DM SCREEN.md",
     "Templates/Homepage.md",
@@ -207,7 +208,6 @@
     "Templates/JournalTemplate.md",
     "A World/Places/Important Places",
     "A World/Places/Citys",
-    "A World/Places/Regions",
     "Templates/ContinentTemplate.md",
     "Ort 1.md",
     "{{Hauptstadt}}.md",
