@@ -1,4 +1,4 @@
-# {{Beregost}}  
+# {{title}}  
 *Typ: Dorf*  
 *Region: {{region}}*  
 *Bevölkerung: {{population}}*  
