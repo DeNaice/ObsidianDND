@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#One-Shot",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,8 +74,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -195,8 +194,8 @@
   },
   "active": "7c490ba0cd9a1811",
   "lastOpenFiles": [
-    "Kampagne/Preperation/Quests/Session 0.md",
     "A World/Places/Citys/Beregost.md",
+    "Kampagne/Preperation/Quests/Session 0.md",
     "Beregost.md",
     "Templates/VillageTemplate.md",
     "A World/Places/Continent/Name des Kontinents.md",
