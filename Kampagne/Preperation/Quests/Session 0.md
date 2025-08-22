@@ -4,18 +4,22 @@
 - **Name:** 
 - **Typ:** #One-Shot
 - **Startort:** [[Beregost]]
-- **Beschreibung:** Die Spieler starten in einem Gefängnis - Es gibt einen Vorfall der Sie dazu bringt sich zu entscheiden. Fliehen Sie oder helfen sie doch dem Dorf.
+- **Beschreibung:** Die Spieler starten in einem Gefängnis - Es gibt einen Vorfall der Sie dazu bringt eine Entscheidung zu treffen. Fliehen Sie oder helfen sie doch dem Dorf.
 
 ## Ziele
-- **Hauptziel:** Finde heraus, was 
+- **Hauptziel:** Finde heraus, was es mit dem Dorf auf sich hat
 - **Nebenziele:** 
   - **Ziel 1:** Beschreibung
   - **Ziel 2:** Beschreibung
 
 ## Schritte
-1. **Schritt 1:** Beschreibung
-2. **Schritt 2:** Beschreibung
-3. **Schritt 3:** Beschreibung
+
+### Einführung in die Welt
+Es freut mich sehr, dass wir heute eine Runde DND spielen.
+
+
+### Gefängnis
+
 
 ## Belohnungen
 - **Gegenstände:** 
