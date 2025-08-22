@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "A World/Places/Citys/Beregost.md",
+                "file": "A World/Places/Continent/Faerun.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Beregost"
+              "title": "Faerun"
             }
           }
         ]
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "A World/Places/Citys/Beregost.md",
+                "file": "A World/Places/Continent/Faerun.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Beregost"
+              "title": "Backlinks for Faerun"
             }
           },
           {
@@ -123,12 +123,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "A World/Places/Citys/Beregost.md",
+                "file": "A World/Places/Continent/Faerun.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Beregost"
+              "title": "Outgoing links from Faerun"
             }
           },
           {
@@ -192,17 +192,17 @@
       "templates:Insert template": false
     }
   },
-  "active": "7c490ba0cd9a1811",
+  "active": "d1a142513227de49",
   "lastOpenFiles": [
+    "Templates/ContinentTemplate.md",
+    "Templates/VillageTemplate.md",
+    "A World/Places/Continent/Faerun.md",
     "A World/Places/Citys/Beregost.md",
     "Kampagne/Preperation/Quests/Session 0.md",
     "Beregost.md",
-    "Templates/VillageTemplate.md",
-    "A World/Places/Continent/Name des Kontinents.md",
     "Templates/QuestTemplate.md",
     "Kampagne/Preperation/Encounters/Untitled.md",
     "().md",
-    "Templates/ContinentTemplate.md",
     "A World/Factions/testffff.md",
     "Assets/Obsidian Markdown.pdf",
     "A World/Races & Cultures",
