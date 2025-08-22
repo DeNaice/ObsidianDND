@@ -1,11 +1,13 @@
-# {{Beregost}}  
+## Allgemeines
 *Typ: Dorf*  
 *Region: {{region}}*  
 *Bevölkerung: {{population}}*  
 *Dominante Spezies: {{species}}*  
 *Wichtige Ressourcen: {{resources}}*  
 
----
+## Beschreibung
+
+
 
 ## Überblick  
 Kurze Zusammenfassung des Dorfs (Atmosphäre, Stimmung, Besonderheiten).
