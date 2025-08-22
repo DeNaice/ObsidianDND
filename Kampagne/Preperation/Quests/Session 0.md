@@ -2,12 +2,12 @@
 
 ## Allgemeine Informationen
 - **Name:** 
-- **Typ:** 
+- **Typ:** #One-Shot
 - **Startort:** [[Beregost]]
 - **Beschreibung:** Die Spieler starten in einem Gefängnis - Es gibt einen Vorfall der Sie dazu bringt sich zu entscheiden. Fliehen Sie oder helfen sie doch dem Dorf.
 
 ## Ziele
-- **Hauptziel:** 
+- **Hauptziel:** Finde heraus, was 
 - **Nebenziele:** 
   - **Ziel 1:** Beschreibung
   - **Ziel 2:** Beschreibung
