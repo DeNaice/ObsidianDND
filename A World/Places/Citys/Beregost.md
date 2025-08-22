@@ -6,6 +6,7 @@
 *Wichtige Ressourcen: {{resources}}*  
 
 ## Beschreibung
+Beregost ist eine Stadt an der Schwertküste auf der Strecke des [[Küstenweges]] 
 
 
 

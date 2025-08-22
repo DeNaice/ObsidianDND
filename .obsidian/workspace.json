@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kampagne/Preperation/Quests/Session 0.md",
+                "file": "A World/Places/Citys/Beregost.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Session 0"
+              "title": "Beregost"
             }
           }
         ]
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kampagne/Preperation/Quests/Session 0.md",
+                "file": "A World/Places/Citys/Beregost.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Session 0"
+              "title": "Backlinks for Beregost"
             }
           },
           {
@@ -124,12 +124,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Kampagne/Preperation/Quests/Session 0.md",
+                "file": "A World/Places/Citys/Beregost.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Session 0"
+              "title": "Outgoing links from Beregost"
             }
           },
           {
@@ -193,10 +193,10 @@
       "templates:Insert template": false
     }
   },
-  "active": "002435b5a91c3f54",
+  "active": "7c490ba0cd9a1811",
   "lastOpenFiles": [
-    "A World/Places/Citys/Beregost.md",
     "Kampagne/Preperation/Quests/Session 0.md",
+    "A World/Places/Citys/Beregost.md",
     "Beregost.md",
     "Templates/VillageTemplate.md",
     "A World/Places/Continent/Name des Kontinents.md",
