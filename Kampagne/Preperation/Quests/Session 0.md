@@ -3,8 +3,8 @@
 ## Allgemeine Informationen
 - **Name:** 
 - **Typ:** 
-- **Startort:** {{Beregost}}
-- **Beschreibung:** Die Spieler starten in einem Gefängnis - Es g
+- **Startort:** [[Beregost]]
+- **Beschreibung:** Die Spieler starten in einem Gefängnis - Es gibt einen Vorfall der Sie dazu bringt sich zu entscheiden. Fliehen Sie oder helfen sie doch dem Dorf.
 
 ## Ziele
 - **Hauptziel:** 

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kampagne/Preperation/Quests/Session 0.md",
+                "file": "A World/Places/Citys/{{Beregost}}.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Session 0"
+              "title": "{{Beregost}}"
             }
           }
         ]
@@ -188,12 +188,14 @@
       "templates:Insert template": false
     }
   },
-  "active": "d1a142513227de49",
+  "active": "7c490ba0cd9a1811",
   "lastOpenFiles": [
-    "Templates/QuestTemplate.md",
+    "Beregost.md",
     "Kampagne/Preperation/Quests/Session 0.md",
-    "Kampagne/Preperation/Encounters/Untitled.md",
+    "A World/Places/Citys/{{Beregost}}.md",
     "A World/Places/Continent/Name des Kontinents.md",
+    "Templates/QuestTemplate.md",
+    "Kampagne/Preperation/Encounters/Untitled.md",
     "().md",
     "Templates/ContinentTemplate.md",
     "A World/Factions/testffff.md",
@@ -224,8 +226,6 @@
     "Player/Der Geigenspieler.md",
     "Player/Babsi.md",
     "Kampagne/Sessions/Start.md",
-    "Kampagne/Quests/Side Quests/Halloween.md",
-    "Kampagne/Quests/Main Quest/Das Fest.md",
     "Kampagne/Quests/Side Quests/Das Fest.canvas",
     "Untitled.canvas"
   ]
