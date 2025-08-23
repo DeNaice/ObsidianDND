@@ -32,20 +32,27 @@
 >Babsi, Merlin, Kenna ihr seid beim Reisen durch die Stadt [[Beregost]] durch als ihr plötzlich ohne große Erklärung von Wachen übermannt und ins Gefängnis gesteckt wurdet. Ihr werdet wohl scheinbar des Diebstahls eines gefährlichen Artefakts beschuldigt.
 >2 Wachen fesseln euch und schmeißen euch mit einem Arschtritt in einen dunklen, modriken Kerker. Doch in dem Kerker sind noch 2 weitere Gefangene. STELLT EUCH VOR
 
+
+
+
+### Gerichtsverfahren
+
 >Ihr werdet von schwer bewaffneten Wachen in einen hohen Saal gezerrt. Kalte Fackeln werfen lange Schatten über die steinernen Wände. Vor euch thront ein alter Mann mit strengem Blick – Magister Corven Dargan. Neben ihm steht eine Priesterin in silberner Robe, deren Augen hellblau aufglimmen.
 Die Angeklagten stehen unter Verdacht, ein verbotenenes Werk der schwarzen Künste gestohlen zu haben. Dieses Buch, das _Grimoire Noctis_, wurde aus der Obhut der Magiergilde von Beregost entwendet. Das Gesetz verlangt Gerechtigkeit.
 Die Priesterin hebt ihre Hände, murmelt einen Zauber und ein schwaches, bläuliches Leuchten breitet sich über den Boden des Saals aus.
 Eine **Zone der Wahrheit** liegt nun über diesem Ort. Ihr könnt euch weigern zu sprechen – doch jede Lüge wird euren Mund verschließen.“
 Die Verhandlung soll beginnen!
 
+>- **Zone of Truth (RAW):**
+    - 15-Fuß-Radius, Dauer 10 Minuten.
+    - Charisma Save DC 15 (oder passend anpassen).
+    - Die SC wissen, ob sie erfolgreich widerstehen.
+    - Wenn sie **retten**, dürfen sie lügen – aber: die Priesterin kann Insight würfeln, um Verdacht zu schöpfen.
+    Wenn sie **versagen**, können sie nicht lügen.
 
+#### ⚖️ Gerichtsverfahren – Fragenkatalog
 
-
-### Gerichtsverfahren
-
-# ⚖️ Gerichtsverfahren – Fragenkatalog
-
-## 📜 Allgemeine Fragen (für alle SC)
+##### 📜 Allgemeine Fragen (für alle SC)
 1. **„Habt ihr das *Grimoire Noctis* entwendet?“**  
    - **Reaktion:** Sie können ehrlich „Nein“ sagen, aber ohne Beweise klingt es wie eine Ausrede.  
    - **Wirkung:** *„Behauptungen ohne Belege sind wertlos.“*  
@@ -66,7 +73,7 @@ Die Verhandlung soll beginnen!
 
 ---
 
-## 🪓 Babsi die Barbarin
+##### 🪓 Babsi die Barbarin
 1. **„Habt ihr schon einmal jemanden ohne Zögern getötet, nur weil er euch im Weg stand?“**  
    - **Reaktion:** Muss Gewalt eingestehen.  
    - **Wirkung:** *„Eine Schlächterin – was soll sie mit einem solchen Artefakt anderes tun?“*  
@@ -77,7 +84,7 @@ Die Verhandlung soll beginnen!
 
 ---
 
-## 🔮 Merlin der Zauberer
+##### 🔮 Merlin der Zauberer
 1. **„Habt ihr jemals verbotenes oder gefährliches Wissen studiert?“**  
    - **Reaktion:** Selbst wenn er nur gelesen hat → verdächtig.  
    - **Wirkung:** *„Er kennt die dunklen Künste, das reicht als Beweis.“*  
@@ -88,7 +95,7 @@ Die Verhandlung soll beginnen!
 
 ---
 
-## 🏹 Kenna die Jägerin
+##### 🏹 Kenna die Jägerin
 1. **„Es heißt, ihr sprecht mit Stimmen, die niemand sonst hört. Habt ihr mit Geistern oder Dämonen Kontakt aufgenommen?“**  
    - **Reaktion:** Muss Selbstgespräche zugeben.  
    - **Wirkung:** Publikum lacht, Richter hält sie für verrückt → unglaubwürdig.  
@@ -101,7 +108,7 @@ Die Verhandlung soll beginnen!
 
 ---
 
-## Giggles 🎶 Der Barde
+##### 🎶Giggles  Der Barde
 1. **„Habt ihr jemals die Wahrheit verdreht, um euch Vorteile zu verschaffen?“**  
    - **Reaktion:** Muss wohl „Ja“ sagen – er ist Barde.  
    - **Wirkung:** *„Ein geborener Lügner! Warum sollte man ihm jetzt glauben?“*  
@@ -112,7 +119,7 @@ Die Verhandlung soll beginnen!
 
 ---
 
-## 🌿 Der Druide
+##### 🌿 Der Druide
 1. **„Habt ihr je Magie gewirkt, die anderen schadete?“**  
    - **Reaktion:** Wahrscheinlich Ja (Kämpfe, Tiere beschworen etc.).  
    - **Wirkung:** *„Also gebt ihr zu, dass ihr gefährlich seid.“*  
@@ -123,22 +130,21 @@ Die Verhandlung soll beginnen!
 
 ---
 
-## 🎲 Ablauf-Idee
+#### 🎲 Ablauf-Idee
 - Stelle jedem SC **1 allgemeine + 2 persönliche Fragen**.  
 - Publikum reagiert (Raunen, Lachen, entsetztes Murmeln).  
 - Gericht ist voreingenommen: Wahrheiten werden verdreht.  
 - Skill-Checks (z. B. Charisma, Überzeugen, Täuschen, Religion) können das Misstrauen etwas abmildern.  
 
-### Urteil
+#### Urteil
 - **Milde:** Beobachter, keine Fesseln, längere Frist.  
 - **Normal:** Fluch + Beobachter.  
 - **Hart:** Magische Ketten, kurze Frist, Beobachter misstrauisch.  
 
 
 
-###
-
 ## Belohnungen
+
 - **Gegenstände:** 
 - **Gold:** 
 - **Andere Belohnungen:** 
