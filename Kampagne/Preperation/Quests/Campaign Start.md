@@ -60,23 +60,20 @@ Die Verhandlung soll beginnen!
 
 
 ##### 📜 Allgemeine Fragen (für alle SC)
-1. **„Habt ihr das *Grimoire Noctis* entwendet?“**  
-   - **Reaktion:** Sie können ehrlich „Nein“ sagen, aber ohne Beweise klingt es wie eine Ausrede.  
-   - **Wirkung:** *„Behauptungen ohne Belege sind wertlos.“*  
-
-2. **„Wart ihr in der Nacht des Diebstahls in der Nähe der Magiergilde?“**  
+  
+1. **„Wart ihr in der Nacht des Diebstahls in der Nähe der Magiergilde?“**  
    - **Reaktion:** Vielleicht ja (weil sie durch die Stadt liefen) → klingt belastend.  
    - **Wirkung:** Publikum murmelt: *„Sie waren dort!“*  
 
-3. **„Kennt ihr den Inhalt oder die Macht des Buches?“**  
+2. **„Kennt ihr den Inhalt oder die Macht des Buches?“**  
    - **Reaktion:** Auch ein bloßes „Ich habe davon gehört“ wirkt verdächtig.  
    - **Wirkung:** *„Ihr gebt also zu, euch für dunkles Wissen zu interessieren.“*  
 
-4. **„Würdet ihr das Buch nutzen, wenn es euch in die Hände fiele?“**  
+3. **„Würdet ihr das Buch nutzen, wenn es euch in die Hände fiele?“**  
    - **Reaktion:**  
      - „Ja“ → offen gierig.  
      - „Nein“ → unglaubwürdig.  
-   - **Wirkung:** Fangfrage, egal wie → Misstrauen bleibt.  
+   - **Wirkung:** "Tja vielleicht glaubt ihr das aber wir sehen wer ihr wirklich seid"
 
 ---
 
@@ -149,7 +146,7 @@ Die Verhandlung soll beginnen!
    - **Reaktion:** Wahrheitsgemäß oder lügen (falls möglich).  
    - **Wirkung:** Zeigt potentielle Schuld oder schlechte Kontakte.
 
-4. **„Wenn ein unschuldiger Mensch leidet, könntet ihr das Buch verwenden, um ihn zu retten, auch wenn es verboten ist?“**  
+1. **„Wenn ein unschuldiger Mensch leidet, würdet ihr das Buch verwenden, um ihn zu retten, auch wenn es verboten ist?“**  
    - **Reaktion:** Moralisch schwierige Entscheidung.  
    - **Wirkung:** Jede Antwort kann als Fehlentscheidung interpretiert werden.
 
