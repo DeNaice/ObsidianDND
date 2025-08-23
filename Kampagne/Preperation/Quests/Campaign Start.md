@@ -30,11 +30,18 @@
 > Diese Drei haben sich - wie so viele Abenteuer Gruppen es tun sich in einer Taverne kennengelernt und schon einiges miteinander erlebt
 
 >Babsi, Merlin, Kenna ihr seid beim Reisen durch die Stadt [[Beregost]] durch als ihr plötzlich ohne große Erklärung von Wachen übermannt und ins Gefängnis gesteckt wurdet. Ihr werdet wohl scheinbar des Diebstahls eines gefährlichen Artefakts beschuldigt.
+>2 Wachen fesseln euch und schmeißen euch mit einem Arschtritt in einen dunklen, modriken Kerker. Doch in dem Kerker sind noch 2 weitere Gefangene. STELLT EUCH VOR
 
->
+>Ihr werdet von schwer bewaffneten Wachen in einen hohen Saal gezerrt. Kalte Fackeln werfen lange Schatten über die steinernen Wände. Vor euch thront ein alter Mann mit strengem Blick – Magister Corven Dargan. Neben ihm steht eine Priesterin in silberner Robe, deren Augen hellblau aufglimmen.
+Die Angeklagten stehen unter Verdacht, ein verbotenenes Werk der schwarzen Künste gestohlen zu haben. Dieses Buch, das _Grimoire Noctis_, wurde aus der Obhut der Magiergilde von Beregost entwendet. Das Gesetz verlangt Gerechtigkeit.“
+Die Priesterin hebt ihre Hände, murmelt einen Zauber und ein schwaches, bläuliches Leuchten breitet sich über den Boden des Saals aus.
+„Eine **Zone der Wahrheit** liegt nun über diesem Ort. Ihr könnt euch weigern zu sprechen – doch jede Lüge wird euren Mund verschließen.“
 
 
 ### Gerichtsverfahren
+
+
+
 
 ###
 
