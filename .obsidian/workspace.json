@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "a0050aef0ce4ddc2",
+        "id": "d92f6d90395b3bfd",
         "type": "tabs",
         "children": [
           {
-            "id": "fa61395a0272d7fc",
+            "id": "0a894ebd014e2fc5",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Templates/MagicItemTemplate.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "MagicItemTemplate"
             }
           }
         ]
@@ -200,40 +204,40 @@
       "templates:Insert template": false
     }
   },
-  "active": "fa61395a0272d7fc",
+  "active": "0a894ebd014e2fc5",
   "lastOpenFiles": [
+    "Templates/LocationTemplate.md",
+    "Templates/JournalTemplate.md",
+    "A World/People/Player/Giggles.md",
     "A World/Gods/Mystra.md",
-    "A World/Gods/Bane.md",
     "A World/Gods/Lolth.md",
-    "A World/Gods/Ilmater.md",
-    "A World/Gods/Cyric.md",
-    "Kampagne/Preperation/Quests/Campaign Start.md",
-    "A World/Gods/Selûne.md",
-    "A World/Gods/Oghma.md",
-    "A World/Gods/Myrkul.md",
-    "A World/Gods/Mielikki.md",
-    "A World/Gods/Lathander.md",
     "A World/Gods/Kelemvor.md",
     "A World/Gods/Gond.md",
-    "A World/Gods/Chauntea.md",
+    "A World/Gods/Cyric.md",
+    "Assets/Obsidian Markdown.pdf",
+    "Kampagne/Preperation/Encounters/Untitled.md",
+    "Kampagne/Preperation/Quests/Campaign Start.md",
+    "Kampagne/Preperation/Quests/Session 0.md",
+    "A World/Gods/Torm.md",
+    "A World/Gods/Tyr.md",
     "A World/Gods/Bhaal.md",
+    "A World/Gods/Bane.md",
     "A World/Gods/Waukeen.md",
     "A World/Gods/Umberlee.md",
-    "A World/Gods/Tyr.md",
-    "A World/Gods/Torm.md",
     "A World/Gods/Tempus.md",
     "A World/Gods/Talos.md",
     "A World/Gods/Sune.md",
     "A World/Gods/Silvanus.md",
     "A World/Gods/Shar.md",
+    "A World/Gods/Selûne.md",
+    "A World/Gods/Oghma.md",
+    "A World/Gods/Myrkul.md",
+    "A World/Gods/Mielikki.md",
     "A World/Gods",
-    "Kampagne/Preperation/Quests/Session 0.md",
-    "A World/Places/Citys/Beregost.md",
     "Untitled.base",
     "Untitled 3.base",
     "Untitled 2.base",
     "Untitled 1.base",
-    "Assets/Obsidian Markdown.pdf",
     "A World/Races & Cultures",
     "A World/Magic",
     "A World/Factions",
