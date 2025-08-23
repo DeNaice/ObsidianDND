@@ -200,9 +200,22 @@ Unter euch öffnet sich eine **große, natürliche Höhle**, die als Trainingsar
 - Richter Corven Dargan ruft von oben:  
   > „Ihr wolltet eure Unschuld beweisen? Zeigt mir, dass ihr es wert seid! Überlebt unten, und ihr bekommt die Chance, das Buch zu suchen!“  
 
-#### Ambush Drakes
-- Mit einem Knall öffnet sich ein **Tor am Ende der Arena**, und aus den Schatten stürmen **zwei Ambush Drakes**.  
-- **Erscheinung:** Schuppige Körper, giftgrüne Augen, lautlos wie Schatten, bereit für Hinterhalte.  
+# 🐉 Auftauchen der Ambush Drakes – Spielerversion
+
+> Die Wachen treten zurück und die schwere, eiserne Tür am Ende der Arena beginnt knarrend zu schwingen. Alte Eisenbänder quietschen, ein kalter Luftzug fegt durch den Raum und lässt eure Haare erzittern. Aus der Dunkelheit schiebt sich etwas Bewegliches, Lautloses – Schatten, die sich elegant und gefährlich bewegen.  
+
+> Plötzlich treten die [[Ambush Drake]]s ins Licht. Ihre schlanken, muskulösen Körper schimmern dunkelgrün bis bräunlich im flackernden Licht der Fackeln. Die Augen der Drachen leuchten giftgrün und fixieren euch, als könnten sie eure Gedanken durchdringen. Ihre kurzen Flügel zucken leicht, bereit für Sprünge, während die kräftigen Schwänze bei jedem Schritt den Boden erschüttern.  
+
+> Die kleinen Drachen bewegen sich synchron, springen von Vorsprüngen und schleichen durch die Schatten. Ein leises Fauchen kündigt ihre Angriffe an, und jeder Schritt hallt dumpf über den Steinboden. Es ist, als würde die gesamte Arena lebendig werden – Schatten huschen über die Wände, das flackernde Licht spielt auf den Schuppen der Drachen, und das Publikum über euch verstummt, um jeden Moment gebannt zu beobachten.  
+
+> Richter Corven Dargan ruft von oben, seine Stimme hallt bedrohlich durch die Halle:  
+> „Seht, wie eure Herausforderer kommen! Zeigt mir eure Geschicklichkeit – jeder, der fällt, verliert seine Chance!“  
+
+> Unter euch spürt ihr die Spannung in der Luft. Die Drachen fauchen erneut und ihre giftgrünen Augen verfolgen jede eurer Bewegungen. Es gibt kein Entkommen:
+
+
+>Ihr müsst  überleben , wenn ihr jemals die Chance bekommen wollt, eure Unschuld zu beweisen.
+
 
 #### Arena-Terrain
 - **Hindernisse:** Tische, Felsbrocken, umgestürzte Regale, niedrige Brücken über kleine Wasserbecken  
