@@ -190,25 +190,56 @@ Die Verhandlung soll beginnen!
 >Ihr habt gesprochen, ihr habt euch erklärt – doch Worte allein retten euch nicht. Jetzt zeigt, ob ihr überlebt, wenn die Kreatur losgelassen wird. Jeder Fehler, jeder Fehltritt… könnte euer letzter sein. Die Bestie wartet – beweist eure Unschuld im Kampf!
 
 
-## Belohnungen
+### ⚡ Strafkampf – Ambush Drake
+
+> Die Wachen öffnen die schwere, eiserne Tür des Gerichtssaals. Ein schmaler Schacht unter dem Podium wird sichtbar, glühend von magischer Beleuchtung. Ihr werdet einzeln – oder zu zweit – über ein Gitter **hinuntergelassen**, Seile und Ketten halten euch, während die Dunkelheit unter euch sichtbar wird. Ein dumpfes Brummen hallt aus dem Schacht.  
+
+#### Arena-Beschreibung
+Unter euch öffnet sich eine **große, natürliche Höhle**, die als Trainingsarena für die Stadtbestien dient.  
+- **Atmosphäre:** Fackeln an den Wänden werfen flackernde Schatten auf feuchte Steine, das Grollen von Wasser oder geheimnisvolle Kamine gibt dem Ort eine unheimliche Stimmung.  
+- Richter Corven Dargan ruft von oben:  
+  > „Ihr wolltet eure Unschuld beweisen? Zeigt mir, dass ihr es wert seid! Überlebt unten, und ihr bekommt die Chance, das Buch zu suchen!“  
+
+#### Ambush Drakes
+- Mit einem Knall öffnet sich ein **Tor am Ende der Arena**, und aus den Schatten stürmen **zwei Ambush Drakes**.  
+- **Erscheinung:** Schuppige Körper, giftgrüne Augen, lautlos wie Schatten, bereit für Hinterhalte.  
+
+#### Arena-Terrain
+- **Hindernisse:** Tische, Felsbrocken, umgestürzte Regale, niedrige Brücken über kleine Wasserbecken  
+- **Verstecke:** Dunkle Ecken und Felsvorsprünge → ideal für **Ambush-Angriffe**  
+- **Gefahren:** Rutschige Steine, kleine Abhänge → Spieler können stolpern oder zurückgeschubst werden  
+
+#### Dramaturgie
+- Ein dumpfer Schlag ertönt, als der erste Drake den Boden berührt. Die zweite Bestie krümmt sich, faucht, die Zähne schimmern giftgrün – ihr wisst sofort: **das wird kein einfacher Kampf**, und jeder Fehltritt könnte euch den Weg zurück nach oben kosten.  
+- Unter euch hallt der Kampf: Geräusche von Tritten, Krallen auf Stein, Fauchen der Drachen – Richter und Publikum über euch beobachten, **ob ihr überlebt oder scheitert**.  
+
+#### DM-Tipps
+- **Geräusche & Licht:** Krallen auf Stein, Fauchen der Drachen, Tropfen → Spannung steigern  
+- **Hindernisse taktisch nutzen:** Deckung, Sprungangriffe, Stolperfallen  
+- **Richter-Kommentare:**  
+  - „Ihr bewegt euch geschickt, doch noch immer fehlt die vollständige Überzeugung!“  
+  - „Zu langsam! Die Bestie hätte euch fast überwältigt – eure Unschuld ist noch nicht bewiesen.“  
+
+
+### Belohnungen
 
 - **Gegenstände:** 
 - **Gold:** 
 - **Andere Belohnungen:** 
 
-## Beteiligte NPCs
+### Beteiligte NPCs
 
 
-## Hintergrund
+### Hintergrund
 - **Geschichte:** 
 - **Wichtige Ereignisse:** 
 
-## Beziehungen
+### Beziehungen
 - **Verbundene Quests:** 
 - **Verbundene Orte:** 
 
 
-## Notizen
+### Notizen
 - **Gerüchte:** 
 - **Geheimnisse:** 
 - **Zusätzliche Informationen:** 
