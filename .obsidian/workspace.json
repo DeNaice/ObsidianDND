@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "A World/Gods/Selûne.md",
+                "file": "Kampagne/Preperation/Quests/Campaign Start.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Selûne"
+              "title": "Campaign Start"
             }
           }
         ]
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "89a5c9141e72ce63",
@@ -207,8 +206,10 @@
   },
   "active": "0e995e23c0c61189",
   "lastOpenFiles": [
-    "Kampagne/Preperation/Quests/Campaign Start.md",
+    "A World/People/Player/Giggles.md",
     "Kampagne/Preperation/Quests/Session 0.md",
+    "A World/Gods/Selûne.md",
+    "Kampagne/Preperation/Quests/Campaign Start.md",
     "A World/Gods/Mask.md",
     "Küstenweges.md",
     "A World/Gods/Kelemvor.md",
@@ -230,9 +231,7 @@
     "A World/Gods/Sune.md",
     "A World/Gods/Silvanus.md",
     "A World/Gods/Shar.md",
-    "A World/Gods/Selûne.md",
     "A World/Gods/Oghma.md",
-    "A World/Gods/Mystra.md",
     "A World/Gods/Ao 1.mkd",
     "A World/Gods/Ao.mkd",
     "A World/Gods/Aomd 2",
