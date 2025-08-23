@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kampagne/Preperation/Quests/Session 0.md",
+                "file": "Kampagne/Preperation/Quests/Campaign Start.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Session 0"
+              "title": "Campaign Start"
             }
           }
         ]
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "89a5c9141e72ce63",
@@ -195,11 +196,12 @@
   },
   "active": "7c490ba0cd9a1811",
   "lastOpenFiles": [
+    "Kampagne/Preperation/Quests/Session 0.md",
+    "Kampagne/Preperation/Quests/Campaign Start.md",
     "A World/Places/Continent/Faerun.md",
     "Templates/ContinentTemplate.md",
     "Templates/VillageTemplate.md",
     "A World/Places/Citys/Beregost.md",
-    "Kampagne/Preperation/Quests/Session 0.md",
     "Beregost.md",
     "Templates/QuestTemplate.md",
     "Kampagne/Preperation/Encounters/Untitled.md",
@@ -230,7 +232,6 @@
     "Player/Senshi.md",
     "Player/Merlin.md",
     "Player/Der Geigenspieler.md",
-    "Player/Babsi.md",
     "Kampagne/Quests/Side Quests/Das Fest.canvas",
     "Untitled.canvas"
   ]
