@@ -23,8 +23,8 @@
 >  Eure Entscheidungen, so klein sie auch scheinen mögen, können Leben retten, ganze Städte verändern, Allianzen formen oder zerstören, und vielleicht sogar das Schicksal Faerûns selbst beeinflussen.*  
 > *Dies ist die Welt, in der ihr eure Spuren hinterlassen werdet – ein Kontinent voller Wunder, einem Ort an dem nichts unmöglich ist.
 > Willkommen in Faerûn. Willkommen an der Schwertküste.* 
-> 
->Doch heute - Heute fängt unsere Reise an einem nicht so magischen Ort an.   
+> Die Gruppe 
+>Doch heute - Heute fängt unsere Reise an einem nicht so magischen Ort an.  
 
 
 ### Gerichtsverfahren

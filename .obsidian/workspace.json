@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "d92f6d90395b3bfd",
+        "id": "03d8b27b8e4d8863",
         "type": "tabs",
         "children": [
           {
-            "id": "0a894ebd014e2fc5",
+            "id": "0e995e23c0c61189",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/MagicItemTemplate.md",
+                "file": "A World/Gods/Faerun/Umberlee.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "MagicItemTemplate"
+              "title": "Umberlee"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 236.5
+    "width": 200
   },
   "right": {
     "id": "89a5c9141e72ce63",
@@ -204,44 +204,44 @@
       "templates:Insert template": false
     }
   },
-  "active": "0a894ebd014e2fc5",
+  "active": "0e995e23c0c61189",
   "lastOpenFiles": [
-    "Templates/LocationTemplate.md",
-    "Templates/JournalTemplate.md",
-    "A World/People/Player/Giggles.md",
-    "A World/Gods/Mystra.md",
-    "A World/Gods/Lolth.md",
-    "A World/Gods/Kelemvor.md",
-    "A World/Gods/Gond.md",
-    "A World/Gods/Cyric.md",
-    "Assets/Obsidian Markdown.pdf",
-    "Kampagne/Preperation/Encounters/Untitled.md",
-    "Kampagne/Preperation/Quests/Campaign Start.md",
-    "Kampagne/Preperation/Quests/Session 0.md",
-    "A World/Gods/Torm.md",
-    "A World/Gods/Tyr.md",
-    "A World/Gods/Bhaal.md",
-    "A World/Gods/Bane.md",
-    "A World/Gods/Waukeen.md",
-    "A World/Gods/Umberlee.md",
-    "A World/Gods/Tempus.md",
-    "A World/Gods/Talos.md",
-    "A World/Gods/Sune.md",
-    "A World/Gods/Silvanus.md",
-    "A World/Gods/Shar.md",
-    "A World/Gods/Selûne.md",
-    "A World/Gods/Oghma.md",
-    "A World/Gods/Myrkul.md",
-    "A World/Gods/Mielikki.md",
-    "A World/Gods",
+    "A World/Gods/Faerun/Milil.md",
+    "A World/Gods/Faerun/Bane.md",
+    "A World/Gods/Faerun/Akadi.md",
     "Untitled.base",
+    "A World/Gods/Faerun/Auril.md",
+    "A World/Gods/Faerun/Ao.md",
+    "A World/Gods/Faerun/Waukeen.md",
+    "A World/Gods/Faerun/index.md",
+    "A World/Gods/Faerun/Valkur.md",
+    "A World/Gods/Faerun/Uthgar.md",
+    "A World/Gods/Faerun/Umberlee.md",
+    "A World/Gods/Faerun/Ubtao.md",
+    "A World/Gods/Faerun/Tyr.md",
+    "A World/Gods/Faerun/Tymora.md",
+    "A World/Gods/Faerun/Torm.md",
+    "A World/Gods/Faerun/Tempus.md",
+    "A World/Gods/Faerun/Talos.md",
+    "A World/Gods/Faerun/Talona.md",
+    "A World/Gods/Faerun/Sune.md",
+    "A World/Gods/Faerun/Silvanus.md",
+    "A World/Gods/Faerun/Shiallia.md",
+    "A World/Gods/Faerun/Shar.md",
+    "A World/Gods/Faerun/Selûne.md",
+    "A World/Gods/Faerun/Savras.md",
+    "A World/Gods/Faerun/Red Knight.md",
+    "A World/Gods/Faerun/Oghma.md",
+    "A World/Gods/Faerun/Mystra.md",
+    "A World/Gods/Faerun",
+    "Untitled 1.base",
+    "Assets/Obsidian Markdown.pdf",
+    "A World/Gods",
     "Untitled 3.base",
     "Untitled 2.base",
-    "Untitled 1.base",
     "A World/Races & Cultures",
     "A World/Magic",
     "A World/Factions",
-    "A World",
     "Kampagne/Quests/Side Quests/Das Fest.canvas",
     "Untitled.canvas"
   ]
