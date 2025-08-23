@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "6b73320fc397ac96",
+        "id": "a0050aef0ce4ddc2",
         "type": "tabs",
         "children": [
           {
-            "id": "7c490ba0cd9a1811",
+            "id": "fa61395a0272d7fc",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "89a5c9141e72ce63",
@@ -116,6 +115,16 @@
               },
               "icon": "links-coming-in",
               "title": "Backlinks for Session 0"
+            }
+          },
+          {
+            "id": "254a3d542e520b73",
+            "type": "leaf",
+            "state": {
+              "type": "fantasy-statblocks-creature-pane",
+              "state": {},
+              "icon": "skull",
+              "title": "Combatant"
             }
           },
           {
@@ -173,7 +182,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -194,9 +203,13 @@
       "templates:Insert template": false
     }
   },
-  "active": "7c490ba0cd9a1811",
+  "active": "fa61395a0272d7fc",
   "lastOpenFiles": [
     "Kampagne/Preperation/Quests/Session 0.md",
+    "Untitled.base",
+    "Untitled 3.base",
+    "Untitled 2.base",
+    "Untitled 1.base",
     "Kampagne/Preperation/Quests/Campaign Start.md",
     "A World/Places/Continent/Faerun.md",
     "Templates/ContinentTemplate.md",
@@ -218,11 +231,7 @@
     "Templates/Homepage.md",
     "Templates/MagicItemTemplate.md",
     "Templates/NPCTemplate.md",
-    "Kampagne/Preperation/Encounters",
-    "Kampagne/Preperation/Quests",
     "Templates/JournalTemplate.md",
-    "A World/Places/Important Places",
-    "A World/Places/Citys",
     "Ort 1.md",
     "{{Hauptstadt}}.md",
     "Kampagne/Places/Continent/Faerun.md",
@@ -231,7 +240,6 @@
     "Untitled Kanban.md",
     "Player/Senshi.md",
     "Player/Merlin.md",
-    "Player/Der Geigenspieler.md",
     "Kampagne/Quests/Side Quests/Das Fest.canvas",
     "Untitled.canvas"
   ]

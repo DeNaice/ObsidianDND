@@ -3,19 +3,23 @@
 ## Allgemeine Informationen
 - **Name:** 
 - **Typ:** 
-- **Startort:** 
-- **Beschreibung:** 
+- **Startort:** Im Gerichtssaal von Baldurs Gate??
+- **Beschreibung:** Gerichtsverhandlung in dem sie beschuldigt werden ein Buch über schwarze Magie gestohlen zu haben. Sie werden dannach in den Kerker geworden 
+- Um ihre Unschuld zu beweisen bekommen sie einen stillen Companion der sie beobachtet 
 
 ## Ziele
-- **Hauptziel:** 
+- **Hauptziel:** Unschuld beweisen
 - **Nebenziele:** 
-  - **Ziel 1:** Beschreibung
-  - **Ziel 2:** Beschreibung
+  - **Ziel 1:** Informationen sammeln
+  - **Ziel 2:** Sich der Schuld rein waschen
 
-## Schritte
-1. **Schritt 1:** Beschreibung
-2. **Schritt 2:** Beschreibung
-3. **Schritt 3:** Beschreibung
+## Quest
+
+### Einführung in die Welt
+
+### Gerichtsverfahren
+
+###
 
 ## Belohnungen
 - **Gegenstände:** 
