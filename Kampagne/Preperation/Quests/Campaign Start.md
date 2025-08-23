@@ -181,11 +181,13 @@ Die Verhandlung soll beginnen!
 - **Reaktion:** Spieler müssen entscheiden: Ja / Nein / ausweichen  
 - **Wirkung:** Setzt die Quest ein, zeigt Entschlossenheit oder Ablehnung; entscheidend für den Verlauf der Strafe / Belohnung.
 
-##### Urteil
+##### 🗣️Urteil
+
 - **Milde:** Beobachter, keine Fesseln, längere Frist.  
 - **Normal:** Fluch + Beobachter.  
 - **Hart:** Magische Ketten, kurze Frist, Beobachter misstrauisch.  
 
+>Ihr habt gesprochen, ihr habt euch erklärt – doch Worte allein retten euch nicht. Jetzt zeigt, ob ihr überlebt, wenn die Kreatur losgelassen wird. Jeder Fehler, jeder Fehltritt… könnte euer letzter sein. Die Bestie wartet – beweist eure Unschuld im Kampf!
 
 
 ## Belohnungen
