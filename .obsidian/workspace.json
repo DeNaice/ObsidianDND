@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 236.5
   },
   "right": {
     "id": "89a5c9141e72ce63",
@@ -186,7 +186,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 349.5
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -206,15 +207,15 @@
   "active": "fa61395a0272d7fc",
   "lastOpenFiles": [
     "Kampagne/Preperation/Quests/Session 0.md",
+    "Kampagne/Preperation/Quests/Campaign Start.md",
+    "A World/Places/Citys/Beregost.md",
     "Untitled.base",
     "Untitled 3.base",
     "Untitled 2.base",
     "Untitled 1.base",
-    "Kampagne/Preperation/Quests/Campaign Start.md",
     "A World/Places/Continent/Faerun.md",
     "Templates/ContinentTemplate.md",
     "Templates/VillageTemplate.md",
-    "A World/Places/Citys/Beregost.md",
     "Beregost.md",
     "Templates/QuestTemplate.md",
     "Kampagne/Preperation/Encounters/Untitled.md",
