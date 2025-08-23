@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "89a5c9141e72ce63",
@@ -104,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kampagne/Preperation/Quests/Session 0.md",
+                "file": "Kampagne/Preperation/Quests/Campaign Start.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +115,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Session 0"
+              "title": "Backlinks for Campaign Start"
             }
           },
           {
@@ -133,12 +134,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Kampagne/Preperation/Quests/Session 0.md",
+                "file": "Kampagne/Preperation/Quests/Campaign Start.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Session 0"
+              "title": "Outgoing links from Campaign Start"
             }
           },
           {
@@ -182,7 +183,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",

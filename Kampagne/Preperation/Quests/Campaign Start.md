@@ -50,7 +50,14 @@ Die Verhandlung soll beginnen!
     - Wenn sie **retten**, dürfen sie lügen – aber: die Priesterin kann Insight würfeln, um Verdacht zu schöpfen.
     Wenn sie **versagen**, können sie nicht lügen.
 
+#### 🎲 Ablauf-Idee
+- Stelle jedem SC **1 allgemeine + 2 persönliche Fragen**.  
+- Publikum reagiert (Raunen, Lachen, entsetztes Murmeln).  
+- Gericht ist voreingenommen: Wahrheiten werden verdreht.  
+- Skill-Checks (z. B. Charisma, Überzeugen, Täuschen, Religion) können das Misstrauen etwas abmildern.  
+
 #### ⚖️ Gerichtsverfahren – Fragenkatalog
+
 
 ##### 📜 Allgemeine Fragen (für alle SC)
 1. **„Habt ihr das *Grimoire Noctis* entwendet?“**  
@@ -129,14 +136,55 @@ Die Verhandlung soll beginnen!
    - **Wirkung:** *„Er gibt zu, dass er das Gesetz verachtet.“*  
 
 ---
+##### ⚔️ Zusätzliche Fragen (10 Stück)
+1. **„Habt ihr schon einmal einen Freund oder Verbündeten verraten, um eure eigenen Interessen zu schützen?“**  
+   - **Reaktion:** Müssen ehrlich antworten.  
+   - **Wirkung:** Publikum murmelt empört, Richter skeptisch.
 
-#### 🎲 Ablauf-Idee
-- Stelle jedem SC **1 allgemeine + 2 persönliche Fragen**.  
-- Publikum reagiert (Raunen, Lachen, entsetztes Murmeln).  
-- Gericht ist voreingenommen: Wahrheiten werden verdreht.  
-- Skill-Checks (z. B. Charisma, Überzeugen, Täuschen, Religion) können das Misstrauen etwas abmildern.  
+2. **„Wenn ihr das Grimoire nutzen könntet, um Macht zu erlangen, würdet ihr das Gesetz übertreten?“**  
+   - **Reaktion:** Selbst ein „Nein“ klingt zweifelhaft.  
+   - **Wirkung:** Stellt moralische Integrität der SC infrage.
 
-#### Urteil
+3. **„Habt ihr euch jemals mit illegalen Gruppen, Schmugglern oder Kultisten eingelassen?“**  
+   - **Reaktion:** Wahrheitsgemäß oder lügen (falls möglich).  
+   - **Wirkung:** Zeigt potentielle Schuld oder schlechte Kontakte.
+
+4. **„Wenn ein unschuldiger Mensch leidet, könntet ihr das Buch verwenden, um ihn zu retten, auch wenn es verboten ist?“**  
+   - **Reaktion:** Moralisch schwierige Entscheidung.  
+   - **Wirkung:** Jede Antwort kann als Fehlentscheidung interpretiert werden.
+
+5. **„Habt ihr jemals einen Ort betreten, den ihr nicht betreten durftet?“**  
+   - **Reaktion:** Muss zugeben, falls sie z. B. in Bibliotheken/Archiven unterwegs waren.  
+   - **Wirkung:** Verstärkt den Verdacht auf Diebstahl.
+
+6. **„Hattet ihr jemals Kontakt mit Wesen oder Kreaturen, die die Stadt bedrohen könnten?“**  
+   - **Reaktion:** Druide/Barde/Zauberer könnten antworten „Ja“.  
+   - **Wirkung:** Publikum und Richter sehen sie als gefährlich oder unkontrollierbar.
+
+7. **„Würdet ihr für Macht oder Wissen jemanden verletzen?“**  
+   - **Reaktion:** Ehrlich oder ausweichen.  
+   - **Wirkung:** Testet moralisches Rückgrat; egal was gesagt wird → Misstrauen.
+
+8. **„Habt ihr das Buch aus Neugier oder aus böser Absicht gestohlen?“**  
+   - **Reaktion:** Wenn sie lügen → Risiko in der Zone of Truth.  
+   - **Wirkung:** Richter wertet alles negativ, selbst harmlose Neugier.
+
+9. **„Habt ihr schon einmal Magie eingesetzt, die jemanden verletzt hat?“**  
+   - **Reaktion:** Zauberer, Druide oder Barde könnten ja sagen.  
+   - **Wirkung:** Macht sie direkt verdächtig; Publikum flüstert.
+
+10. **„Wenn ihr das Buch zurückgeben würdet, könntet ihr garantieren, dass ihr nie wieder damit in Kontakt kommt?“**  
+    - **Reaktion:** Schwer zu beantworten, da sie evtl. noch neugierig sind.  
+    - **Wirkung:** Richter könnte sagen: *„Wir glauben euch nicht.“* → harsche Strafe droht.
+
+---
+
+##### ✅ Finale Frage
+**„Seid ihr bereit, eure Unschuld zu beweisen, indem ihr das Buch sucht und zurückbringt?“**  
+- **Reaktion:** Spieler müssen entscheiden: Ja / Nein / ausweichen  
+- **Wirkung:** Setzt die Quest ein, zeigt Entschlossenheit oder Ablehnung; entscheidend für den Verlauf der Strafe / Belohnung.
+
+##### Urteil
 - **Milde:** Beobachter, keine Fesseln, längere Frist.  
 - **Normal:** Fluch + Beobachter.  
 - **Hart:** Magische Ketten, kurze Frist, Beobachter misstrauisch.  
