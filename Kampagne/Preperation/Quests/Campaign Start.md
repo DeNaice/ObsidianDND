@@ -226,13 +226,16 @@ Unter euch öffnet sich eine **große, natürliche Höhle**, die als Trainingsar
 - Ein dumpfer Schlag ertönt, als der erste Drake den Boden berührt. Die zweite Bestie krümmt sich, faucht, die Zähne schimmern giftgrün – ihr wisst sofort: **das wird kein einfacher Kampf**, und jeder Fehltritt könnte euch den Weg zurück nach oben kosten.  
 - Unter euch hallt der Kampf: Geräusche von Tritten, Krallen auf Stein, Fauchen der Drachen – Richter und Publikum über euch beobachten, **ob ihr überlebt oder scheitert**.  
 
+
+
+![[Pasted image 20250823201750.png]]
+
 #### DM-Tipps
 - **Geräusche & Licht:** Krallen auf Stein, Fauchen der Drachen, Tropfen → Spannung steigern  
 - **Hindernisse taktisch nutzen:** Deckung, Sprungangriffe, Stolperfallen  
 - **Richter-Kommentare:**  
   - „Ihr bewegt euch geschickt, doch noch immer fehlt die vollständige Überzeugung!“  
   - „Zu langsam! Die Bestie hätte euch fast überwältigt – eure Unschuld ist noch nicht bewiesen.“  
-
 
 ### Belohnungen
 

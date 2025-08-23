@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "Campaign Start"
             }
+          },
+          {
+            "id": "92ce951308e315f1",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Pasted image 20250823201750.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20250823201750"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -104,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kampagne/Preperation/Quests/Campaign Start.md",
+                "file": "Pasted image 20250823201750.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +127,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Campaign Start"
+              "title": "Backlinks for Pasted image 20250823201750"
             }
           },
           {
@@ -133,12 +146,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Kampagne/Preperation/Quests/Campaign Start.md",
+                "file": "Pasted image 20250823201750.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Campaign Start"
+              "title": "Outgoing links from Pasted image 20250823201750"
             }
           },
           {
@@ -204,10 +217,11 @@
       "templates:Insert template": false
     }
   },
-  "active": "0e995e23c0c61189",
+  "active": "92ce951308e315f1",
   "lastOpenFiles": [
-    "Kampagne/Preperation/Quests/Session 0.md",
     "Kampagne/Preperation/Quests/Campaign Start.md",
+    "Pasted image 20250823201750.png",
+    "Kampagne/Preperation/Quests/Session 0.md",
     "A World/Creatures/Ambush Drake.md",
     "Templates/CreatureTemplate.md",
     "A World/Creatures",
@@ -232,7 +246,6 @@
     "A World/Gods/Tempus.md",
     "A World/Gods/Talos.md",
     "A World/Gods/Sune.md",
-    "A World/Gods/Silvanus.md",
     "A World/Gods/Ao 1.mkd",
     "A World/Gods/Ao.mkd",
     "A World/Gods/Aomd 2",
