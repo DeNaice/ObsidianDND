@@ -24,8 +24,11 @@
 > *Dies ist die Welt, in der ihr eure Spuren hinterlassen werdet – ein Kontinent voller Wunder, einem Ort an dem nichts unmöglich ist.
 > Willkommen in Faerûn. Willkommen an der Schwertküste.* 
 > Ein Teil der Gruppe hat sich bereits kennengelernt 
-> Barbara  die Barbarin - doch man munkelt ihre freunde dürfen sie Babsi nennen
-> Merlin  
+> Barbara die Barbarin - groß, stark und gefährlich - doch man munkelt ihre freunde dürfen sie Babsi nennen
+> Merlin der Zauberer - Mystisch, Geheimnisvoll - doch man hört selbst seine physische Kraft soll äußerst beachtlich sein
+> Kenna die Jägerin - Immer ein Lächeln auf den Lippen - man erzählt sich das sie oft Selbstgespräche führt
+
+>
 
 
 ### Gerichtsverfahren
