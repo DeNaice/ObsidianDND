@@ -228,7 +228,7 @@ Unter euch öffnet sich eine **große, natürliche Höhle**, die als Trainingsar
 
 
 
-![[Pasted image 20250823201750.png]]
+![[Arena.png]]
 
 #### DM-Tipps
 - **Geräusche & Licht:** Krallen auf Stein, Fauchen der Drachen, Tropfen → Spannung steigern  
