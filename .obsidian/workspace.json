@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kampagne/Preperation/Quests/Campaign Start.md",
+                "file": "A World/People/NPC´s/Nebencharaktere/Darron Hiltbrand.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Campaign Start"
+              "title": "Darron Hiltbrand"
             }
           }
         ]
@@ -217,15 +217,16 @@
   },
   "active": "25cb53af59825f05",
   "lastOpenFiles": [
+    "A World/People/NPC´s/Nebencharaktere/Garrik Eisenfaust.md",
+    "A World/People/NPC´s/Nebencharaktere/Der Falsche Freund.md",
+    "A World/People/NPC´s/Nebencharaktere/Ilyra Morgenlied.md",
+    "Kampagne/Preperation/Quests/Campaign Start.md",
+    "A World/People/NPC´s/Nebencharaktere/Morthan der Flüsterer.md",
     "A World/People/NPC´s/Nebencharaktere/Tholgrim der Gebrochene.md",
     "A World/People/NPC´s/Nebencharaktere/Jerrik die Ratte.md",
-    "A World/People/NPC´s/Nebencharaktere/Ilyra Morgenlied.md",
-    "A World/People/NPC´s/Nebencharaktere/Der Falsche Freund.md",
     "A World/People/NPC´s/Nebencharaktere/Untitled",
     "A World/People/NPC´s/Nebencharaktere/Darron Hiltbrand.md",
-    "A World/People/NPC´s/Nebencharaktere/Morthan der Flüsterer.md",
     "A World/People/NPC´s/Wichtige NPC´s/Corven Dargan.md",
-    "A World/People/NPC´s/Nebencharaktere/Garrik Eisenfaust.md",
     "A World/People/NPC´s/Wichtige NPC´s/Selindra von Lathander.md",
     "A World/People/NPC´s/Wichtige NPC´s",
     "Templates/NPCTemplate.md",
@@ -235,7 +236,6 @@
     "A World/People/NPC´s/Nebencharaktere",
     "A World/People/NPC´s/Questgeber",
     "A World/People/NPC´s/Kerker",
-    "Kampagne/Preperation/Quests/Campaign Start.md",
     "Untitled.base",
     "Kampagne/Journal/Session 0.md",
     "Templates/JournalTemplate.md",
