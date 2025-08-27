@@ -44,7 +44,7 @@
 
 ### Gerichtsverfahren
 
->Ihr werdet von schwer bewaffneten Wachen in einen hohen Saal gezerrt. Kalte Fackeln werfen lange Schatten über die steinernen Wände. Vor euch thront ein alter Mann mit strengem Blick – Magister Corven Dargan. Neben ihm steht eine Priesterin in silberner Robe, deren Augen hellblau aufglimmen.
+>Ihr werdet von schwer bewaffneten Wachen in einen hohen Saal gezerrt. Kalte Fackeln werfen lange Schatten über die steinernen Wände. Vor euch thront ein alter Mann mit strengem Blick – [[]]Magister Corven Dargan. Neben ihm steht eine Priesterin in silberner Robe, deren Augen hellblau aufglimmen.
 Die Angeklagten stehen unter Verdacht, ein verbotenenes Werk der schwarzen Künste gestohlen zu haben. Dieses Buch, das _Grimoire Noctis_, wurde aus der Obhut der Magiergilde von Beregost entwendet. Das Gesetz verlangt Gerechtigkeit.
 Die Priesterin hebt ihre Hände, murmelt einen Zauber und ein schwaches, bläuliches Leuchten breitet sich über den Boden des Saals aus.
 Eine **Zone der Wahrheit** liegt nun über diesem Ort. Ihr könnt euch weigern zu sprechen – doch jede Lüge wird euren Mund verschließen.“

@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "03d8b27b8e4d8863",
+        "id": "adeea922e1457adf",
         "type": "tabs",
         "children": [
           {
-            "id": "0e995e23c0c61189",
+            "id": "25cb53af59825f05",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/NPCTemplate.md",
+                "file": "Kampagne/Preperation/Quests/Campaign Start.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "NPCTemplate"
+              "title": "Campaign Start"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 239.5
   },
   "right": {
     "id": "89a5c9141e72ce63",
@@ -215,8 +215,25 @@
       "obsidian-custom-frames:Open Giggles": false
     }
   },
-  "active": "d1a142513227de49",
+  "active": "25cb53af59825f05",
   "lastOpenFiles": [
+    "A World/People/NPC´s/Nebencharaktere/Tholgrim der Gebrochene.md",
+    "A World/People/NPC´s/Nebencharaktere/Jerrik die Ratte.md",
+    "A World/People/NPC´s/Nebencharaktere/Ilyra Morgenlied.md",
+    "A World/People/NPC´s/Nebencharaktere/Der Falsche Freund.md",
+    "A World/People/NPC´s/Nebencharaktere/Untitled",
+    "A World/People/NPC´s/Nebencharaktere/Darron Hiltbrand.md",
+    "A World/People/NPC´s/Nebencharaktere/Morthan der Flüsterer.md",
+    "A World/People/NPC´s/Wichtige NPC´s/Corven Dargan.md",
+    "A World/People/NPC´s/Nebencharaktere/Garrik Eisenfaust.md",
+    "A World/People/NPC´s/Wichtige NPC´s/Selindra von Lathander.md",
+    "A World/People/NPC´s/Wichtige NPC´s",
+    "Templates/NPCTemplate.md",
+    "A World/People/NPC´s/Zufall Begegnungen",
+    "A World/People/NPC´s/Verbündete",
+    "A World/People/NPC´s/Bösewichte",
+    "A World/People/NPC´s/Nebencharaktere",
+    "A World/People/NPC´s/Questgeber",
     "A World/People/NPC´s/Kerker",
     "Kampagne/Preperation/Quests/Campaign Start.md",
     "Untitled.base",
@@ -231,29 +248,12 @@
     "Assets/Battle Maps",
     "Kampagne/Preperation/Quests/Session 0.md",
     "Templates/CreatureTemplate.md",
-    "A World/Creatures",
     "A World/Gods/Selûne.md",
     "A World/Gods/Mask.md",
     "Küstenweges.md",
     "A World/Gods/Kelemvor.md",
     "Dead Three.md",
     "A World/Gods/Tyr.md",
-    "A World/Gods/Azuth.md",
-    "A World/Gods/Auril.md",
-    "A World/Gods/index.md",
-    "A World/Gods/Cyric.md",
-    "A World/Gods/Chauntea.md",
-    "A World/Gods/Bhaal.md",
-    "A World/Gods/Bane.md",
-    "A World/Gods/Waukeen.md",
-    "A World/Gods/Umberlee.md",
-    "A World/Gods/Ao 1.mkd",
-    "A World/Gods/Ao.mkd",
-    "A World/Gods/Aomd 2",
-    "A World/Gods/Sharmd 2",
-    "A World/Gods/Selûnemd 2",
-    "A World/Gods/Oghmamd 2",
-    "A World/Gods/Mystramd 2",
     "Kampagne/Quests/Side Quests/Das Fest.canvas",
     "Untitled.canvas"
   ]
