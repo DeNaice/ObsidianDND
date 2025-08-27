@@ -23,6 +23,8 @@
 >  Eure Entscheidungen, so klein sie auch scheinen mögen, können Leben retten, ganze Städte verändern, Allianzen formen oder zerstören, und vielleicht sogar das Schicksal Faerûns selbst beeinflussen.*  
 > *Dies ist die Welt, in der ihr eure Spuren hinterlassen werdet – ein Kontinent voller Wunder, einem Ort an dem nichts unmöglich ist.
 > Willkommen in Faerûn. Willkommen an der Schwertküste.* 
+
+
 > Ein Teil der Gruppe hat sich bereits kennengelernt 
 > Barbara die Barbarin - groß, stark und gefährlich - doch man munkelt ihre freunde dürfen sie Babsi nennen
 > Merlin der Zauberer - Mystisch, Geheimnisvoll - doch man hört selbst seine physische Kraft soll äußerst beachtlich sein
@@ -30,7 +32,12 @@
 > Diese Drei haben sich - wie so viele Abenteuer Gruppen es tun sich in einer Taverne kennengelernt und schon einiges miteinander erlebt
 
 >Babsi, Merlin, Kenna ihr seid beim Reisen durch die Stadt [[Beregost]] durch als ihr plötzlich ohne große Erklärung von Wachen übermannt und ins Gefängnis gesteckt wurdet. Ihr werdet wohl scheinbar des Diebstahls eines gefährlichen Artefakts beschuldigt.
->2 Wachen fesseln euch und schmeißen euch mit einem Arschtritt in einen dunklen, modriken Kerker. Doch in dem Kerker sind noch 2 weitere Gefangene. STELLT EUCH VOR
+>2 Wachen fesseln euch und schmeißen euch mit einem Arschtritt in einen dunklen, modriken Kerker. Doch in dem Kerker sind noch 2 weitere Gefangene. 
+>
+>STELLT EUCH VOR
+
+
+### Knast
 
 
 
