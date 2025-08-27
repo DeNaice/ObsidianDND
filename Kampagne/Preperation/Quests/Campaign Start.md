@@ -4,7 +4,7 @@
 - **Name:** 
 - **Typ:** #Quest
 - **Startort:** [[Beregost]]
-- **Beschreibung:** Gerichtsverhandlung in dem sie beschuldigt werden ein Buch über schwarze Magie gestohlen zu haben. Sie werden dannach in den Kerker geworden 
+- **Beschreibung:** Gerichtsverhandlung in dem sie beschuldigt werden ein Buch [[Evangelium der Leere]] über schwarze Magie gestohlen zu haben. Sie werden dannach in den Kerker geworden 
 - Um ihre Unschuld zu beweisen bekommen sie einen stillen Companion der sie beobachtet 
 
 ## Ziele
