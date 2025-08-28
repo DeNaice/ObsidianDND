@@ -43,7 +43,40 @@ https://www.youtube.com/watch?v=vdTD0BIKsMQ&ab_channel=FrancisBoninMusic
 
 Ihr seid in einer modrigen Knastzelle.
 
-[[]]
+[[Darron Hiltbrand]] sitzt mit drinnen und gibt den Spielern eine Münze mit der Bitte, sie seiner Tochter zu bringen, sollte er es nicht schaffen. Sie ist eine Klerikerin im Dorf Helene, sie ist von äußerster Wichtigkeit. Bitte versprich es mir.
+"Ich habe"
+
+In der Knastzelle nebenan sitzt der Zweg [[Rurik]] 
+
+#### Rurik Graustein – Kerker RP-Interaktionen
+
+##### Einstieg
+- Ruft durch die Gitterstäbe:  
+  > „Neue Gesichter, hm? Willkommen im Loch. Ich hoffe, ihr habt’s nicht ernsthaft auf ein faires Urteil abgesehen…“
+
+##### Themen & Aussagen
+
+##### Über das Gerichtssystem
+- „Hier unten geht’s nicht um Schuld oder Unschuld. Der Rat kassiert Münzen, und die Wachen folgen nur dem lautesten Befehl. Wenn ihr nicht zahlt oder einschüchtert, habt ihr schon verloren.“
+
+##### Über Hoffnung
+- „Ich sitze hier seit Monaten. Hab nichts getan, und doch… sie ließen mich nicht mal meine Familie sehen. Hoffnung ist hier ein schlechter Scherz.“
+
+##### Über Mitgefangene
+- „Passt auf, wem ihr vertraut. Manche sitzen nicht nur für sich ein – die lauschen für die Wachen. Verrat bringt extra Rationen.“
+
+##### Über den kommenden Prozess
+- „Sie werden euch auftreten lassen wie Ziegen vorm Schlachter. Eure Worte sind nur Theater, die Entscheidung ist längst gefallen. Wenn ihr eine Chance wollt – zeigt Stärke. Die Götter mögen keine Schwächlinge.“
+
+##### Interaktive Hooks
+- **Fragen die SC stellen:**  
+  - „Wie kommt man hier lebend raus?“  
+  - „Wer kann uns helfen?“  
+  - „Was läuft hier schief?“  
+- **Reaktionen je nach SC-Verhalten:**  
+  - **Vertrauen/Fragen:** Rurik gibt Tipps über Bestechung, Einfluss, Fluchtwege.  
+  - **Ignorieren/Respektlosigkeit:** Sarkastische Kommentare, er warnt die SC vor den Folgen.  
+  - **Freundlichkeit/Hilfe:** Öffnet sich mehr, erzählt von Korruption und unfairen Verfahren.  
 
 
 
