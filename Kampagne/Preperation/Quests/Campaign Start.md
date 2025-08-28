@@ -166,7 +166,7 @@ Die Verhandlung soll beginnen!
 
 ---
 
-##### 🌿 Der Druide
+##### 🌿 Marci
 1. **„Habt ihr je Magie gewirkt, die anderen schadete?“**  
    - **Reaktion:** Wahrscheinlich Ja (Kämpfe, Tiere beschworen etc.).  
    - **Wirkung:** *„Also gebt ihr zu, dass ihr gefährlich seid.“*  
