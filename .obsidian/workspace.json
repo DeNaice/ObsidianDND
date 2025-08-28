@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kampagne/Preperation/Quests/Campaign Start.md",
+                "file": "Kampagne/Journal/Session 0.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Campaign Start"
+              "title": "Session 0"
             }
           }
         ]
@@ -217,6 +217,7 @@
   },
   "active": "25cb53af59825f05",
   "lastOpenFiles": [
+    "Kampagne/Preperation/Quests/Campaign Start.md",
     "A World/Items/Evangelium der Leere.md",
     "Untitled Kanban.md",
     "Templates/MagicItemTemplate.md",
@@ -224,7 +225,6 @@
     "A World/People/NPC´s/Nebencharaktere/Ilyra Morgenlied.md",
     "A World/People/NPC´s/Nebencharaktere/Darron Hiltbrand.md",
     "A World/People/NPC´s/Nebencharaktere/Der Falsche Freund.md",
-    "Kampagne/Preperation/Quests/Campaign Start.md",
     "A World/People/NPC´s/Nebencharaktere/Morthan der Flüsterer.md",
     "A World/People/NPC´s/Nebencharaktere/Tholgrim der Gebrochene.md",
     "A World/People/NPC´s/Nebencharaktere/Jerrik die Ratte.md",
