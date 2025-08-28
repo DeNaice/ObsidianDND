@@ -11,12 +11,14 @@
             "id": "0e995e23c0c61189",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Assets/Battle Maps/Arena.png"
+                "file": "Kampagne/Preperation/Quests/Campaign Start.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Arena"
+              "icon": "lucide-file",
+              "title": "Campaign Start"
             }
           }
         ]
@@ -131,12 +133,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Assets/Battle Maps/Arena.png",
+                "file": "Kampagne/Preperation/Quests/Campaign Start.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Arena"
+              "title": "Outgoing links from Campaign Start"
             }
           },
           {
@@ -203,6 +205,7 @@
   },
   "active": "0e995e23c0c61189",
   "lastOpenFiles": [
+    "Assets/Battle Maps/Arena.png",
     "Kampagne/Journal/Session 0.md",
     "A World/People/NPC´s/Wichtige NPC´s/Selindra von Lathander.md",
     "A World/People/NPC´s/Wichtige NPC´s/Corven Dargan.md",
@@ -223,7 +226,6 @@
     "A World/People/Player/Giggles.md",
     "A World/Creatures/Ambush Drake.md",
     "A World/Gods/Ao.md",
-    "Assets/Battle Maps/Arena.png",
     "Assets/Battle Maps",
     "Kampagne/Preperation/Quests/Session 0.md",
     "Templates/CreatureTemplate.md",
@@ -234,7 +236,6 @@
     "A World/Gods/Kelemvor.md",
     "Dead Three.md",
     "A World/Gods/Tyr.md",
-    "A World/Gods/Azuth.md",
     "A World/Gods/Ao 1.mkd",
     "A World/Gods/Ao.mkd",
     "A World/Gods/Aomd 2",
