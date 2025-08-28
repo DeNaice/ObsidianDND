@@ -1,5 +1,8 @@
 ## Allgemeine Informationen
+
+
 - **Name:** Rurik Graustein
+- **Frau**:  Isolde Amulet hat 
 - **Rasse:** Zwerg
 - **Geschlecht:** Männlich
 - **Alter:** 132
