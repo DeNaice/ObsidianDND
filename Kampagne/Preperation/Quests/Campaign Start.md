@@ -218,7 +218,7 @@ Unter euch öffnet sich eine **große, natürliche Höhle**, die als Trainingsar
 > Unter euch spürt ihr die Spannung in der Luft. Die Drachen fauchen erneut und ihre giftgrünen Augen verfolgen jede eurer Bewegungen. Es gibt kein Entkommen:
 
 
->Ihr müsst  überleben , wenn ihr jemals die Chance bekommen wollt, eure Unschuld zu beweisen.
+>Ihr müsst überleben, wenn ihr jemals die Chance bekommen wollt, eure Unschuld zu beweisen.
 
 
 #### Arena-Terrain
