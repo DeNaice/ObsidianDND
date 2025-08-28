@@ -43,13 +43,15 @@ https://www.youtube.com/watch?v=vdTD0BIKsMQ&ab_channel=FrancisBoninMusic
 
 Ihr seid in einer modrigen Knastzelle.
 
+[[]]
+
 
 
 ### Gerichtsverfahren
 
 https://www.youtube.com/watch?v=ivo9CxWNl0E&ab_channel=RPGSoundtracks
 
->Ihr werdet von schwer bewaffneten Wachen in einen hohen Saal gezerrt. Kalte Fackeln werfen lange Schatten über die steinernen Wände. Vor euch thront ein alter Mann mit strengem Blick –  Magister [[Corven Dargan]]. Neben ihm steht eine Priesterin [[Selindra von Lathander]] in silberner Robe. Umringt seid ihr von einem Pupblikum von hunterten von Menschen und sie scheinen alle sehr aufgebracht zu sein.
+>Ihr werdet von schwer bewaffneten Wachen in einen hohen Saal gezerrt. Vor euch thront ein alter Mann mit strengem Blick –  Magister [[Corven Dargan]]. Neben ihm steht eine Priesterin [[Selindra von Lathander]] in silberner Robe. Umringt seid ihr von einem Pupblikum von hunterten von Menschen und sie scheinen alle sehr aufgebracht zu sein.
 Die Angeklagten stehen unter Verdacht, ein verbotenenes Werk der schwarzen Künste gestohlen zu haben. Dieses Buch, das [[Evangelium der Leere]], wurde aus der Obhut der Magiergilde von Beregost entwendet. Das Gesetz verlangt Gerechtigkeit.
 Die Priesterin hebt ihre Hände, murmelt einen Zauber und ein schwaches, bläuliches Leuchten breitet sich über den Boden des Saals aus.
 Eine **Zone der Wahrheit** liegt nun über diesem Ort. Ihr könnt euch weigern zu sprechen – doch jede Lüge wird euren Mund verschließen.“
@@ -195,7 +197,7 @@ Die Verhandlung soll beginnen!
 - **Normal:** Fluch + Beobachter.  
 - **Hart:** Magische Ketten, kurze Frist, Beobachter misstrauisch.  
 
->Ihr habt gesprochen, ihr habt euch erklärt – doch Worte allein retten euch nicht. Jetzt zeigt, ob ihr überlebt, wenn die Kreatur losgelassen wird. Jeder Fehler, jeder Fehltritt… könnte euer letzter sein. Die Bestie wartet – beweist eure Unschuld im Kampf!
+>„Ihr habt gesprochen, doch das Wort allein wiegt vor Tyr nichts. Nun fordert der Gerechte selbst euren Beweis. Tretet der Bestie entgegen: Übersteht ihr ihre Klauen, so erkennt Tyr euch als Unschuldige. Scheitert ihr – ward ihr schuldig von Anfang an.“
 
 
 ### ⚡ Strafkampf – Ambush Drake
