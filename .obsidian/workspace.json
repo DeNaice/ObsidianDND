@@ -4,21 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "adeea922e1457adf",
+        "id": "03d8b27b8e4d8863",
         "type": "tabs",
         "children": [
           {
-            "id": "25cb53af59825f05",
+            "id": "0e995e23c0c61189",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "A World/People/NPC´s/Nebencharaktere/Tholgrim der Gebrochene.md",
-                "mode": "source",
-                "source": false
+                "file": "Assets/Battle Maps/Arena.png"
               },
-              "icon": "lucide-file",
-              "title": "Tholgrim der Gebrochene"
+              "icon": "lucide-image",
+              "title": "Arena"
             }
           }
         ]
@@ -78,7 +76,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 239.5
+    "width": 200
   },
   "right": {
     "id": "89a5c9141e72ce63",
@@ -94,8 +92,8 @@
             "state": {
               "type": "git-view",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           },
           {
@@ -123,8 +121,8 @@
             "state": {
               "type": "fantasy-statblocks-creature-pane",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "skull",
+              "title": "Combatant"
             }
           },
           {
@@ -133,12 +131,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "A World/People/Player/Giggles.md",
+                "file": "Assets/Battle Maps/Arena.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Giggles"
+              "title": "Outgoing links from Arena"
             }
           },
           {
@@ -177,83 +175,71 @@
             "state": {
               "type": "advanced-tables-toolbar",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
-            }
-          },
-          {
-            "id": "107cb481be281b24",
-            "type": "leaf",
-            "state": {
-              "type": "custom-frames-giggles",
-              "state": {},
-              "icon": "lucide-crown",
-              "title": "Giggles"
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
             }
           }
-        ],
-        "currentTab": 7
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-custom-frames:Open Giggles": false,
       "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
-      "command-palette:Open command palette": false,
-      "canvas:Create new canvas": false,
-      "templates:Insert template": false,
       "templater-obsidian:Templater": false,
+      "command-palette:Open command palette": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-kanban:Create new board": false,
+      "canvas:Create new canvas": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "obsidian-5e-statblocks:Open Creature pane": false,
-      "obsidian-kanban:Create new board": false,
-      "obsidian-custom-frames:Open Giggles": false
+      "templates:Insert template": false
     }
   },
-  "active": "25cb53af59825f05",
+  "active": "0e995e23c0c61189",
   "lastOpenFiles": [
-    "A World/People/NPC´s/Nebencharaktere/Darron Hiltbrand.md",
-    "A World/People/NPC´s/Nebencharaktere/Garrik Eisenfaust.md",
-    "A World/People/NPC´s/Nebencharaktere/Ilyra Morgenlied.md",
-    "A World/People/NPC´s/Nebencharaktere/Jerrik die Ratte.md",
-    "A World/People/NPC´s/Nebencharaktere/Morthan der Flüsterer.md",
-    "A World/Gods/Lathander.md",
+    "Kampagne/Journal/Session 0.md",
     "A World/People/NPC´s/Wichtige NPC´s/Selindra von Lathander.md",
     "A World/People/NPC´s/Wichtige NPC´s/Corven Dargan.md",
-    "Kampagne/Preperation/Quests/Campaign Start.md",
-    "A World/Items/Evangelium der Leere.md",
-    "Assets/Obsidian Markdown.pdf",
-    "Assets/Battle Maps/Arena.png",
-    "Kampagne/Journal/Session 0.md",
-    "Untitled Kanban.md",
-    "Templates/MagicItemTemplate.md",
-    "A World/People/NPC´s/Nebencharaktere/Der Falsche Freund.md",
-    "A World/People/NPC´s/Nebencharaktere/Tholgrim der Gebrochene.md",
-    "A World/People/NPC´s/Nebencharaktere/Untitled",
     "A World/People/NPC´s/Wichtige NPC´s",
-    "Templates/NPCTemplate.md",
-    "A World/People/NPC´s/Zufall Begegnungen",
-    "A World/People/NPC´s/Verbündete",
-    "A World/People/NPC´s/Bösewichte",
+    "A World/People/NPC´s/Nebencharaktere/Tholgrim der Gebrochene.md",
+    "A World/People/NPC´s/Nebencharaktere/Morthan der Flüsterer.md",
+    "A World/People/NPC´s/Nebencharaktere/Jerrik die Ratte.md",
+    "A World/People/NPC´s/Nebencharaktere/Ilyra Morgenlied.md",
+    "A World/People/NPC´s/Nebencharaktere/Garrik Eisenfaust.md",
+    "A World/People/NPC´s/Nebencharaktere/Darron Hiltbrand.md",
     "A World/People/NPC´s/Nebencharaktere",
-    "A World/People/NPC´s/Questgeber",
-    "A World/People/NPC´s/Kerker",
-    "Untitled.base",
+    "A World/Items/Evangelium der Leere.md",
+    "A World/Items",
     "Templates/JournalTemplate.md",
+    "Kampagne/Preperation/Quests/Campaign Start.md",
     "A World/Places/Citys/Beregost.md",
     "A World/Places/Continent/Faerun.md",
     "A World/People/Player/Giggles.md",
     "A World/Creatures/Ambush Drake.md",
     "A World/Gods/Ao.md",
+    "Assets/Battle Maps/Arena.png",
+    "Assets/Battle Maps",
     "Kampagne/Preperation/Quests/Session 0.md",
     "Templates/CreatureTemplate.md",
+    "A World/Creatures",
     "A World/Gods/Selûne.md",
     "A World/Gods/Mask.md",
+    "Küstenweges.md",
+    "A World/Gods/Kelemvor.md",
+    "Dead Three.md",
+    "A World/Gods/Tyr.md",
+    "A World/Gods/Azuth.md",
+    "A World/Gods/Ao 1.mkd",
+    "A World/Gods/Ao.mkd",
+    "A World/Gods/Aomd 2",
+    "A World/Gods/Sharmd 2",
+    "A World/Gods/Selûnemd 2",
     "Kampagne/Quests/Side Quests/Das Fest.canvas",
     "Untitled.canvas"
   ]
