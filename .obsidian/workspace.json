@@ -63,8 +63,7 @@
               "title": "Corven Dargan"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -176,12 +175,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "A World/People/NPC´s/Nebencharaktere/Rurik.md",
+                "file": "Kampagne/Preperation/Quests/Campaign Start.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Rurik"
+              "title": "Outgoing links from Campaign Start"
             }
           },
           {
@@ -246,11 +245,11 @@
       "templates:Insert template": false
     }
   },
-  "active": "a4999c824f8a38bb",
+  "active": "5c31d5d3c9800c1e",
   "lastOpenFiles": [
-    "Kampagne/Preperation/Quests/Campaign Start.md",
-    "A World/People/NPC´s/Nebencharaktere/Rurik.md",
     "A World/People/NPC´s/Nebencharaktere/Darron Hiltbrand.md",
+    "A World/People/NPC´s/Nebencharaktere/Rurik.md",
+    "Kampagne/Preperation/Quests/Campaign Start.md",
     "A World/People/NPC´s/Wichtige NPC´s/Corven Dargan.md",
     "Kampagne/Journal/Session 0.md",
     "A World/People/NPC´s/Nebencharaktere/Garrik Eisenfaust.md",
