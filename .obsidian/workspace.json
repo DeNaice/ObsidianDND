@@ -11,14 +11,10 @@
             "id": "25cb53af59825f05",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Kampagne/Journal/Session 0.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Session 0"
+              "title": "New tab"
             }
           }
         ]
@@ -213,10 +209,11 @@
       "obsidian-custom-frames:Open Giggles": false
     }
   },
-  "active": "0b9402b5a45f292f",
+  "active": "d1a142513227de49",
   "lastOpenFiles": [
-    "Untitled.base",
     "Untitled 1.base",
+    "Untitled.base",
+    "Kampagne/Journal/Session 0.md",
     "A World/People/NPC´s/Nebencharaktere/Rurik.md",
     "A World/People/NPC´s/Nebencharaktere/Tholgrim der Gebrochene.md",
     "A World/People/NPC´s/Nebencharaktere/Darron Hiltbrand.md",
@@ -231,7 +228,6 @@
     "A World/Items/Evangelium der Leere.md",
     "Assets/Obsidian Markdown.pdf",
     "Assets/Battle Maps/Arena.png",
-    "Kampagne/Journal/Session 0.md",
     "Untitled Kanban.md",
     "Templates/MagicItemTemplate.md",
     "A World/People/NPC´s/Nebencharaktere/Der Falsche Freund.md",
@@ -243,7 +239,6 @@
     "A World/People/NPC´s/Bösewichte",
     "A World/People/NPC´s/Nebencharaktere",
     "A World/People/NPC´s/Questgeber",
-    "A World/People/NPC´s/Kerker",
     "Templates/JournalTemplate.md",
     "A World/Places/Citys/Beregost.md",
     "A World/Places/Continent/Faerun.md",
