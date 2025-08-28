@@ -6,7 +6,10 @@
 Babsi hat das Amulet behalten 
 den Spielern wurde 200g versprochen
 
-Ein Fest mit Frauen Männern und Alkohol wird ver
+Ein Fest mit Frauen Männern und Alkohol wird veranstaltet
+
+dabei werden infos über das [[Evangelium der Leere]] geteilt.
+
 
 ## Wichtige Entscheidungen
 - Entscheidungen und ihre Konsequenzen:
