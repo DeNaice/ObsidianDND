@@ -1,16 +1,20 @@
-# Session {{Datum}} – {{Titel}}
+# Session 28.08.2025 – Kampagnen Start
 
 ## Zusammenfassung
-- Kurzbeschreibung der Ereignisse
+- Kurzbeschreibung der Ereignisse:
 
 ## Wichtige Entscheidungen
-- Entscheidungen und ihre Konsequenzen
+- Entscheidungen und ihre Konsequenzen:
 
 ## Begegnungen
-- NSCs, Monster, Spielerinteraktionen
+- NPCs:
+- Monster:
+- Spielerinteraktionen:
 
 ## Loot & Erfahrung
-- Funde, Belohnungen, Fortschritt
+- Funde:
+- Belohnungen:
+- Fortschritt:
 
 ## Offene Fragen / ToDos
-- Was soll als nächstes passieren?
+- Was soll als nächstes passieren?:

@@ -39,13 +39,14 @@
 
 ### Knast
 
+Ihr seid in einer modrigen Knastzelle.
 
 
 
 ### Gerichtsverfahren
 
->Ihr werdet von schwer bewaffneten Wachen in einen hohen Saal gezerrt. Kalte Fackeln werfen lange Schatten über die steinernen Wände. Vor euch thront ein alter Mann mit strengem Blick –  Magister [[Corven Dargan]]. Neben ihm steht eine Priesterin [[Selindra von Lathander]] in silberner Robe, deren Augen hellblau aufglimmen.
-Die Angeklagten stehen unter Verdacht, ein verbotenenes Werk der schwarzen Künste gestohlen zu haben. Dieses Buch, das _Grimoire Noctis_, wurde aus der Obhut der Magiergilde von Beregost entwendet. Das Gesetz verlangt Gerechtigkeit.
+>Ihr werdet von schwer bewaffneten Wachen in einen hohen Saal gezerrt. Kalte Fackeln werfen lange Schatten über die steinernen Wände. Vor euch thront ein alter Mann mit strengem Blick –  Magister [[Corven Dargan]]. Neben ihm steht eine Priesterin [[Selindra von Lathander]] in silberner Robe. Umringt seid ihr von einem Pupblikum von hunterten von Menschen und sie scheinen alle sehr aufgebracht zu sein.
+Die Angeklagten stehen unter Verdacht, ein verbotenenes Werk der schwarzen Künste gestohlen zu haben. Dieses Buch, das [[Evangelium der Leere]], wurde aus der Obhut der Magiergilde von Beregost entwendet. Das Gesetz verlangt Gerechtigkeit.
 Die Priesterin hebt ihre Hände, murmelt einen Zauber und ein schwaches, bläuliches Leuchten breitet sich über den Boden des Saals aus.
 Eine **Zone der Wahrheit** liegt nun über diesem Ort. Ihr könnt euch weigern zu sprechen – doch jede Lüge wird euren Mund verschließen.“
 Die Verhandlung soll beginnen!
@@ -72,11 +73,7 @@ Die Verhandlung soll beginnen!
    - **Reaktion:** Vielleicht ja (weil sie durch die Stadt liefen) → klingt belastend.  
    - **Wirkung:** Publikum murmelt: *„Sie waren dort!“*  
 
-2. **„Kennt ihr den Inhalt oder die Macht des Buches?“**  
-   - **Reaktion:** Auch ein bloßes „Ich habe davon gehört“ wirkt verdächtig.  
-   - **Wirkung:** *„Ihr gebt also zu, euch für dunkles Wissen zu interessieren.“*  
-
-3. **„Würdet ihr das Buch nutzen, wenn es euch in die Hände fiele?“**  
+2. **„Würdet ihr das Buch nutzen, wenn es euch in die Hände fiele?“**  
    - **Reaktion:**  
      - „Ja“ → offen gierig.  
      - „Nein“ → unglaubwürdig.  
@@ -209,7 +206,7 @@ Unter euch öffnet sich eine **große, natürliche Höhle**, die als Trainingsar
 
 # 🐉 Auftauchen der Ambush Drakes – Spielerversion
 
-> Die Wachen treten zurück und die schwere, eiserne Tür am Ende der Arena beginnt knarrend zu schwingen. Alte Eisenbänder quietschen, ein kalter Luftzug fegt durch den Raum und lässt eure Haare erzittern. Aus der Dunkelheit schiebt sich etwas Bewegliches, Lautloses – Schatten, die sich elegant und gefährlich bewegen.  
+> Die Wachen treten zurück und der Boden unter euch beginnt sich zu bewegen. Alte Eisenbänder quietschen, ein kalter Luftzug fegt durch den Raum und lässt eure Haare erzittern. Aus der Dunkelheit schiebt sich etwas Bewegliches, Lautloses – Schatten, die sich elegant und gefährlich bewegen.  
 
 > Plötzlich treten die [[Ambush Drake]]s ins Licht. Ihre schlanken, muskulösen Körper schimmern dunkelgrün bis bräunlich im flackernden Licht der Fackeln. Die Augen der Drachen leuchten giftgrün und fixieren euch, als könnten sie eure Gedanken durchdringen. Ihre kurzen Flügel zucken leicht, bereit für Sprünge, während die kräftigen Schwänze bei jedem Schritt den Boden erschüttern.  
 
