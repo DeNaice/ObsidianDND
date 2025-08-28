@@ -3,6 +3,11 @@
 ## Zusammenfassung
 - Kurzbeschreibung der Ereignisse:
 
+Babsi hat das Amulet behalten 
+den Spielern wurde 200g versprochen
+
+Ein Fest mit Frauen Männern und Alkohol wird ver
+
 ## Wichtige Entscheidungen
 - Entscheidungen und ihre Konsequenzen:
 

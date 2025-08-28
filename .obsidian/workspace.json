@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kampagne/Preperation/Quests/Campaign Start.md",
+                "file": "Kampagne/Journal/Session 0.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Campaign Start"
+              "title": "Session 0"
             }
           },
           {
@@ -61,26 +61,6 @@
               },
               "icon": "lucide-file",
               "title": "Corven Dargan"
-            }
-          }
-        ]
-      },
-      {
-        "id": "a59f007db8acb288",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "d0d746e95d2b49b9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "A World/Creatures/Ambush Drake.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Ambush Drake"
             }
           }
         ]
@@ -140,8 +120,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "89a5c9141e72ce63",
@@ -196,12 +175,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Kampagne/Preperation/Quests/Campaign Start.md",
+                "file": "Kampagne/Journal/Session 0.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Campaign Start"
+              "title": "Outgoing links from Session 0"
             }
           },
           {
@@ -243,13 +222,23 @@
               "icon": "spreadsheet",
               "title": "Advanced Tables"
             }
+          },
+          {
+            "id": "537449bfece04c85",
+            "type": "leaf",
+            "state": {
+              "type": "custom-frames-giggles",
+              "state": {},
+              "icon": "lucide-crown",
+              "title": "Giggles"
+            }
           }
-        ]
+        ],
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -269,15 +258,17 @@
   },
   "active": "a0c84382c51f340a",
   "lastOpenFiles": [
-    "A World/Creatures/Ambush Drake.md",
+    "A World/People/NPC´s/Wichtige NPC´s/Selindra von Lathander.md",
+    "Untitled 1.base",
+    "Untitled.base",
     "Kampagne/Preperation/Quests/Campaign Start.md",
-    "Kampagne/Journal/Session 0.md",
-    "Assets/Battle Maps/Arena.png",
     "A World/People/NPC´s/Nebencharaktere/Darron Hiltbrand.md",
     "A World/People/NPC´s/Wichtige NPC´s/Corven Dargan.md",
+    "A World/Creatures/Ambush Drake.md",
+    "Kampagne/Journal/Session 0.md",
+    "Assets/Battle Maps/Arena.png",
     "A World/People/NPC´s/Nebencharaktere/Rurik.md",
     "A World/People/NPC´s/Nebencharaktere/Garrik Eisenfaust.md",
-    "A World/People/NPC´s/Wichtige NPC´s/Selindra von Lathander.md",
     "A World/People/NPC´s/Wichtige NPC´s",
     "A World/People/NPC´s/Nebencharaktere/Tholgrim der Gebrochene.md",
     "A World/People/NPC´s/Nebencharaktere/Morthan der Flüsterer.md",
@@ -303,8 +294,6 @@
     "A World/Gods/Ao 1.mkd",
     "A World/Gods/Ao.mkd",
     "A World/Gods/Aomd 2",
-    "A World/Gods/Sharmd 2",
-    "A World/Gods/Selûnemd 2",
     "Kampagne/Quests/Side Quests/Das Fest.canvas",
     "Untitled.canvas"
   ]
