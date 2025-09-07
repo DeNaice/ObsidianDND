@@ -11,10 +11,28 @@
             "id": "8d2fab403512f6e0",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "01_Faerun/01_Faerun.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "01_Faerun"
+            }
+          },
+          {
+            "id": "ad24e9dc0455bf34",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01_Faerun/01_Places/01_Places.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "01_Places"
             }
           }
         ]
@@ -74,7 +92,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 284.5
+    "width": 200
   },
   "right": {
     "id": "89a5c9141e72ce63",
@@ -90,6 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "01_Faerun/01_Faerun.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +118,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for 01_Faerun"
             }
           },
           {
@@ -108,11 +127,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "01_Faerun/01_Faerun.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from 01_Faerun"
             }
           },
           {
@@ -136,12 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "01_Faerun/01_Faerun.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of 01_Faerun"
             }
           }
         ]
@@ -173,9 +194,13 @@
   },
   "active": "8d2fab403512f6e0",
   "lastOpenFiles": [
+    "01_Faerun/01_Places/01_Places.md",
+    "01_Faerun/01_Places/02_Continent/02_Continent.md",
+    "01_Faerun/01_Faerun.md",
+    "02_Kampagne/01_Preperation/01_Quests/Campaign Start.md",
+    "Excalidraw/Excalidraw.md",
     "03_Assets/03_Websites/03_Websites.md",
     "03_Assets/03_Assets.md",
-    "01_Faerun/01_Faerun.md",
     "01_Faerun/03_Creatures/03_Creatures.md",
     "Untitled.canvas",
     "Excalidraw/Drawing 2025-09-07 21.18.38.excalidraw.md",
@@ -205,10 +230,6 @@
     "01_Faerun/02_People/01_NPC´s/Questgeber/Sidequests",
     "01_Faerun/02_People/01_NPC´s/Questgeber/Hauptquest/Hauptquest.md",
     "01_Faerun/02_People/01_NPC´s/Questgeber/Hauptquest",
-    "01_Faerun/02_People/02_Player/02_Player.md",
-    "01_Faerun/02_People/02_Player/Giggles.md",
-    "01_Faerun/02_People/01_NPC´s/Nebencharaktere/Nebencharaktere.md",
-    "01_Faerun/02_People/01_NPC´s/Nebencharaktere/Darron Hiltbrand.md",
     "Untitled.base",
     "03_Assets/01_Maps/03_Battle Maps/Arena.png",
     "Kampagne/Quests/Side Quests/Das Fest.canvas"
