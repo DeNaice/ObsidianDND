@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01_Faerun/02_People/01_NPC´s/Questgeber/Questgeber.md",
+                "file": "01_Faerun/04_Items/Magic Items/06_Artifact/Evangelium der Leere.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Questgeber"
+              "title": "Evangelium der Leere"
             }
           }
         ]
@@ -202,12 +202,11 @@
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 846.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -231,42 +230,42 @@
   },
   "active": "d1a142513227de49",
   "lastOpenFiles": [
+    "01_Faerun/04_Items/Magic Items/06_Artifact/06_Artifact.md",
+    "01_Faerun/04_Items/Magic Items/05_Legendary/05_Legendary.md",
+    "01_Faerun/04_Items/Magic Items/Magic Items.md",
+    "01_Faerun/04_Items/Magic Items/06_Artifact",
+    "01_Faerun/04_Items/Magic Items/05_Legendary",
+    "01_Faerun/04_Items/Magic Items/04_Very_Rare/04_Very_Rare.md",
+    "01_Faerun/04_Items/Magic Items/04_Very_Rare",
+    "01_Faerun/04_Items/Magic Items/03_Rare/03_Rare.md",
+    "01_Faerun/04_Items/Magic Items/02_Uncommon/02_Uncommon.md",
+    "01_Faerun/04_Items/Magic Items/01_Common/01_Common.md",
+    "01_Faerun/04_Items/Magic Items/03_Rare",
+    "01_Faerun/04_Items/Magic Items/02_Uncommon",
+    "01_Faerun/04_Items/04_Items.md",
+    "01_Faerun/04_Items/Magic Items/01_Common",
+    "01_Faerun/04_Items/Magic Items",
+    "01_Faerun/02_People/02_People.md",
+    "01_Faerun/01_Places/03_Important_Places/03_Important_Places.md",
+    "01_Faerun/03_Creatures/03_Creatures.md",
+    "01_Faerun/02_People/01_NPC´s/Questgeber/Questgeber.md",
+    "01_Faerun/02_People/01_NPC´s/Questgeber/Sidequests/Sidequests.md",
+    "01_Faerun/02_People/01_NPC´s/Questgeber/Sidequests",
+    "01_Faerun/02_People/01_NPC´s/Questgeber/Hauptquest/Hauptquest.md",
+    "01_Faerun/02_People/01_NPC´s/Questgeber/Hauptquest",
+    "01_Faerun/02_People/02_Player/02_Player.md",
+    "01_Faerun/02_People/02_Player/Giggles.md",
+    "01_Faerun/02_People/01_NPC´s/Nebencharaktere/Nebencharaktere.md",
     "01_Faerun/02_People/01_NPC´s/Nebencharaktere/Darron Hiltbrand.md",
     "01_Faerun/01_Places/01_Places.md",
     "01_Faerun/01_Faerun.md",
     "Excalidraw/Drawing 2025-09-07 21.18.38.excalidraw.md",
     "Untitled.base",
     "Excalidraw/Excalidraw.md",
-    "Untitled 1.base",
-    "Excalidraw",
     "05_Rules/05_Rules.md",
     "05_Rules/01_Core/01_Core.md",
     "05_Rules/02_Houserules/02_Houserules.md",
-    "05_Rules/02_Houserules",
-    "05_Rules/01_Core",
     "Hochzeit/Hochzeit.md",
-    "Untitled/Untitled.md",
-    "05_Rules",
-    "Untitled",
-    "01_Faerun/03_Creatures/Undead/Undead.md",
-    "01_Faerun/03_Creatures/03_Creatures.md",
-    "01_Faerun/03_Creatures/Undead",
-    "01_Faerun/03_Creatures/Plant/Plant.md",
-    "01_Faerun/03_Creatures/Plant",
-    "01_Faerun/03_Creatures/Ooze/Ooze.md",
-    "01_Faerun/03_Creatures/OOze/Ooze.md",
-    "01_Faerun/03_Creatures/Ooze",
-    "01_Faerun/03_Creatures/Monstrosity/Monstrosity.md",
-    "01_Faerun/03_Creatures/Humanoid/Humanoid.md",
-    "01_Faerun/03_Creatures/Giant/Giant.md",
-    "01_Faerun/03_Creatures/Fiend/Fiend.md",
-    "01_Faerun/03_Creatures/Fey/Fey.md",
-    "01_Faerun/03_Creatures/Elemental/Elemental.md",
-    "01_Faerun/03_Creatures/Dragon/Dragon.md",
-    "01_Faerun/03_Creatures/Construct/Construct.md",
-    "01_Faerun/03_Creatures/Celestial/Celestial.md",
-    "01_Faerun/02_People/02_People.md",
-    "01_Faerun/01_Places/03_Important Places/03_Important Places.md",
     "03_Assets/01_Maps/03_Battle Maps/Arena.png",
     "Kampagne/Quests/Side Quests/Das Fest.canvas",
     "Untitled.canvas"
