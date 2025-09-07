@@ -4,20 +4,58 @@
     "type": "split",
     "children": [
       {
-        "id": "adeea922e1457adf",
+        "id": "c996ab95dee1a648",
         "type": "tabs",
         "children": [
           {
-            "id": "25cb53af59825f05",
+            "id": "5555c7ff2c66b8df",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "diff-view",
+              "state": {
+                "file": "Kampagne/Journal/Session 0.md",
+                "staged": false
+              },
+              "icon": "git-pull-request",
+              "title": "Diff View (Session 0)"
+            }
+          },
+          {
+            "id": "3f33d175a1a86716",
+            "type": "leaf",
+            "state": {
+              "type": "diff-view",
+              "state": {
+                "file": "Kampagne/Journal/Session 0.md",
+                "staged": false
+              },
+              "icon": "git-pull-request",
+              "title": "Diff View (Session 0)"
+            }
+          },
+          {
+            "id": "d186e24e243d4aa5",
+            "type": "leaf",
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "Templates/Session Planing Board.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": [
+                    false,
+                    false,
+                    false,
+                    false
+                  ]
+                }
+              },
+              "icon": "lucide-trello",
+              "title": "Session Planing Board"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -74,7 +112,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 239.5
+    "width": 200
   },
   "right": {
     "id": "89a5c9141e72ce63",
@@ -119,8 +157,8 @@
             "state": {
               "type": "fantasy-statblocks-creature-pane",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "skull",
+              "title": "Combatant"
             }
           },
           {
@@ -129,12 +167,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "A World/People/Player/Giggles.md",
+                "file": "Kampagne/Journal/Session 0.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Giggles"
+              "title": "Outgoing links from Session 0"
             }
           },
           {
@@ -173,12 +211,12 @@
             "state": {
               "type": "advanced-tables-toolbar",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
             }
           },
           {
-            "id": "107cb481be281b24",
+            "id": "537449bfece04c85",
             "type": "leaf",
             "state": {
               "type": "custom-frames-giggles",
@@ -191,62 +229,63 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 393.5
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-custom-frames:Open Giggles": false,
       "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
-      "command-palette:Open command palette": false,
-      "canvas:Create new canvas": false,
-      "templates:Insert template": false,
       "templater-obsidian:Templater": false,
+      "command-palette:Open command palette": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-kanban:Create new board": false,
+      "canvas:Create new canvas": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "obsidian-5e-statblocks:Open Creature pane": false,
-      "obsidian-kanban:Create new board": false,
-      "obsidian-custom-frames:Open Giggles": false
+      "templates:Insert template": false
     }
   },
   "active": "d1a142513227de49",
   "lastOpenFiles": [
+    "Z_Hochzeit/07_Ideen",
+    "Z_Hochzeit/06_Checklisten",
+    "Z_Hochzeit/05_Budget",
+    "Z_Hochzeit/04_Gästeliste",
+    "Z_Hochzeit/03_Dienstleister",
+    "Z_Hochzeit/02_Locations",
+    "Z_Hochzeit/01_Übersicht",
+    "Z_Hochzeit",
+    "Templates/VillageTemplate.md",
+    "conflict-files-obsidian-git.md",
+    "Kampagne/Journal/Session 0.md",
+    "A World/People/NPC´s/Wichtige NPC´s/Selindra von Lathander.md",
     "Untitled 1.base",
     "Untitled.base",
-    "Kampagne/Journal/Session 0.md",
-    "A World/People/NPC´s/Nebencharaktere/Rurik.md",
-    "A World/People/NPC´s/Nebencharaktere/Tholgrim der Gebrochene.md",
-    "A World/People/NPC´s/Nebencharaktere/Darron Hiltbrand.md",
-    "A World/People/NPC´s/Nebencharaktere/Garrik Eisenfaust.md",
-    "A World/People/NPC´s/Nebencharaktere/Ilyra Morgenlied.md",
-    "A World/People/NPC´s/Nebencharaktere/Jerrik die Ratte.md",
-    "A World/People/NPC´s/Nebencharaktere/Morthan der Flüsterer.md",
-    "A World/Gods/Lathander.md",
-    "A World/People/NPC´s/Wichtige NPC´s/Selindra von Lathander.md",
-    "A World/People/NPC´s/Wichtige NPC´s/Corven Dargan.md",
     "Kampagne/Preperation/Quests/Campaign Start.md",
-    "A World/Items/Evangelium der Leere.md",
-    "Assets/Obsidian Markdown.pdf",
+    "A World/People/NPC´s/Nebencharaktere/Darron Hiltbrand.md",
+    "A World/People/NPC´s/Wichtige NPC´s/Corven Dargan.md",
+    "A World/Creatures/Ambush Drake.md",
     "Assets/Battle Maps/Arena.png",
-    "Untitled Kanban.md",
-    "Templates/MagicItemTemplate.md",
-    "A World/People/NPC´s/Nebencharaktere/Der Falsche Freund.md",
-    "A World/People/NPC´s/Nebencharaktere/Untitled",
+    "A World/People/NPC´s/Nebencharaktere/Rurik.md",
+    "A World/People/NPC´s/Nebencharaktere/Garrik Eisenfaust.md",
     "A World/People/NPC´s/Wichtige NPC´s",
-    "Templates/NPCTemplate.md",
-    "A World/People/NPC´s/Zufall Begegnungen",
-    "A World/People/NPC´s/Verbündete",
-    "A World/People/NPC´s/Bösewichte",
-    "A World/People/NPC´s/Nebencharaktere",
-    "A World/People/NPC´s/Questgeber",
+    "A World/People/NPC´s/Nebencharaktere/Tholgrim der Gebrochene.md",
+    "A World/People/NPC´s/Nebencharaktere/Morthan der Flüsterer.md",
+    "A World/People/NPC´s/Nebencharaktere/Jerrik die Ratte.md",
+    "A World/People/NPC´s/Nebencharaktere/Ilyra Morgenlied.md",
+    "A World/Items/Evangelium der Leere.md",
     "Templates/JournalTemplate.md",
     "A World/Places/Citys/Beregost.md",
     "A World/Places/Continent/Faerun.md",
     "A World/People/Player/Giggles.md",
-    "A World/Creatures/Ambush Drake.md",
     "A World/Gods/Ao.md",
     "Kampagne/Preperation/Quests/Session 0.md",
     "Templates/CreatureTemplate.md",
+    "A World/Gods/Selûne.md",
+    "A World/Gods/Mask.md",
+    "Küstenweges.md",
     "Kampagne/Quests/Side Quests/Das Fest.canvas",
     "Untitled.canvas"
   ]
