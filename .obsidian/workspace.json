@@ -11,10 +11,13 @@
             "id": "25cb53af59825f05",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "diff-view",
+              "state": {
+                "file": "Z_Hochzeit/02_Locations/Locations/Untitled.md",
+                "staged": true
+              },
+              "icon": "git-pull-request",
+              "title": "Diff View (Untitled)"
             }
           }
         ]
@@ -211,6 +214,15 @@
   },
   "active": "0b9402b5a45f292f",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "Z_Hochzeit/02_Locations/Locations/Untitled.md",
+    "Z_Hochzeit/04_Gästeliste/Untitled.md",
+    "Z_Hochzeit/02_Locations/📍 Locations Übersicht.md",
+    "Z_Hochzeit/02_Locations/Location_Template.md",
+    "Z_Hochzeit/02_Locations/Locations",
+    "Z_Hochzeit/04_Gästeliste",
+    "Z_Hochzeit/02_Locations",
+    "Z_Hochzeit",
     "Untitled.base",
     "Untitled 1.base",
     "Kampagne/Journal/Session 0.md",
@@ -235,18 +247,10 @@
     "A World/People/NPC´s/Wichtige NPC´s",
     "Templates/NPCTemplate.md",
     "A World/People/NPC´s/Zufall Begegnungen",
-    "A World/People/NPC´s/Verbündete",
-    "A World/People/NPC´s/Bösewichte",
-    "A World/People/NPC´s/Nebencharaktere",
-    "A World/People/NPC´s/Questgeber",
     "Templates/JournalTemplate.md",
     "A World/Places/Citys/Beregost.md",
     "A World/Places/Continent/Faerun.md",
     "A World/People/Player/Giggles.md",
-    "A World/Creatures/Ambush Drake.md",
-    "A World/Gods/Ao.md",
-    "Kampagne/Preperation/Quests/Session 0.md",
-    "Templates/CreatureTemplate.md",
     "Kampagne/Quests/Side Quests/Das Fest.canvas",
     "Untitled.canvas"
   ]
