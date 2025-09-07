@@ -1,4 +1,6 @@
 ## Allgemeine Informationen
+
+- **Wichtig:** Ehemann von [[Isolde Hiltbrand]]
 - **Name:** Darron Hiltbrand
 - **Rasse:** Mensch
 - **Geschlecht:** Männlich

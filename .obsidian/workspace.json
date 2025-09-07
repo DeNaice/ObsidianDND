@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01_Faerun/02_People/01_NPC´s/04_Nebencharaktere/Beregost/Darron Hiltbrand.md",
+                "file": "03_Assets/01_Websites/01_Websites.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Darron Hiltbrand"
+              "title": "01_Websites"
             }
           },
           {
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01_Faerun/02_People/01_NPC´s/04_Nebencharaktere/Beregost/Darron Hiltbrand.md",
+                "file": "03_Assets/01_Websites/01_Websites.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Darron Hiltbrand"
+              "title": "Backlinks for 01_Websites"
             }
           },
           {
@@ -127,12 +127,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01_Faerun/02_People/01_NPC´s/04_Nebencharaktere/Beregost/Darron Hiltbrand.md",
+                "file": "03_Assets/01_Websites/01_Websites.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Darron Hiltbrand"
+              "title": "Outgoing links from 01_Websites"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01_Faerun/02_People/01_NPC´s/04_Nebencharaktere/Beregost/Darron Hiltbrand.md",
+                "file": "03_Assets/01_Websites/01_Websites.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Darron Hiltbrand"
+              "title": "Outline of 01_Websites"
             }
           }
         ]
@@ -194,6 +194,11 @@
   },
   "active": "8d2fab403512f6e0",
   "lastOpenFiles": [
+    "03_Assets/03_Sounds/03_Sounds.md",
+    "03_Assets/02_Maps/02_Maps.md",
+    "03_Assets/01_Websites/01_Websites.md",
+    "03_Assets/03_Assets.md",
+    "01_Faerun/03_Creatures/03_Creatures.md",
     "01_Faerun/02_People/01_NPC´s/04_Nebencharaktere/Beregost/Isolde Hiltbrand.md",
     "01_Faerun/02_People/01_NPC´s/04_Nebencharaktere/Beregost/Darron Hiltbrand.md",
     "Hochzeit/Hochzeit.md",
@@ -216,11 +221,6 @@
     "01_Faerun/02_People/01_NPC´s/01_NPC´s.md",
     "01_Faerun/02_People/02_People.md",
     "01_Faerun/01_Faerun.md",
-    "01_Faerun/01_Places/01_Citys/Beregost.md",
-    "01_Faerun/01_Places/01_Places.md",
-    "01_Faerun/01_Places/02_Continent/02_Continent.md",
-    "02_Kampagne/01_Preperation/01_Quests/Campaign Start.md",
-    "Excalidraw/Excalidraw.md",
     "Untitled.canvas",
     "01_Faerun/04_Items/Magic Items/06_Artifact",
     "01_Faerun/04_Items/Magic Items/05_Legendary",
@@ -231,7 +231,7 @@
     "01_Faerun/04_Items/Magic Items",
     "01_Faerun/02_People/01_NPC´s/01_Questgeber/Sidequests",
     "01_Faerun/02_People/01_NPC´s/01_Questgeber/Hauptquest",
-    "03_Assets/01_Maps/03_Battle Maps/Arena.png",
+    "03_Assets/02_Maps/03_Battle Maps/Arena.png",
     "Kampagne/Quests/Side Quests/Das Fest.canvas"
   ]
 }
