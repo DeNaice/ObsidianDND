@@ -6,7 +6,9 @@
 Babsi hat das Amulet behalten 
 den Spielern wurde 200g versprochen
 
-Ein Fest mit Frauen Männern und Alkohol wird ver
+Ein Fest mit Frauen Männern und Alkohol wird versprochen
+
+die Priesterin hat Babsi einen Zettel gegeben wo Isolde wohnt die Frau von Darron nachdem er versucht hat mit Babsi zu flirten
 
 ## Wichtige Entscheidungen
 - Entscheidungen und ihre Konsequenzen:
