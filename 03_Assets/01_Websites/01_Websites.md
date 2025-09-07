@@ -1,10 +1,11 @@
-# D&D Webseiten für Meister
+# D&D Webseiten für Dungeon Master
 
-## 1. Regelwerke & Referenzen
+## 1. DND Beyond Bücher
 - [D&D Beyond](https://www.dndbeyond.com) – Offizielle digitale Ressourcen, Regelbücher, Charaktererstellung
-- [Roll20 Compendium](https://roll20.net/compendium/dnd5e) – Offizielle Regeln online nachschlagen
-- [SRD 5.1 (System Reference Document)](https://www.5esrd.com) – Offizielle freie Regeln
-- [DnD Wiki](https://www.dandwiki.com/wiki/Main_Page) – Homebrew, Klassen, Zauber
+- [Basic Rules](https://www.dndbeyond.com/sources/dnd/mm-2024)
+- [Dungeon Master Handbook 2024](https://www.dndbeyond.com/sources/dnd/dmg-2024/) - Alles für Dungeon Master
+- [Monster Manual](https://www.dndbeyond.com/sources/dnd/mm-2024) - Alle Monster die man so findet
+- 
 
 ## 2. Karten & Weltbau
 - [Inkarnate](https://inkarnate.com) – Karten erstellen für Regionen, Städte, Dungeons
