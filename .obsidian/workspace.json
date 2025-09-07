@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02_Kampagne/02_Journal/02_Journal.md",
+                "file": "01_Faerun/02_People/02_Player/02_Player.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "02_Journal"
+              "title": "02_Player"
             }
           }
         ]
@@ -213,10 +213,24 @@
       "obsidian-custom-frames:Open Giggles": false
     }
   },
-  "active": "25cb53af59825f05",
+  "active": "d1a142513227de49",
   "lastOpenFiles": [
-    "02_Kampagne/01_Preperation/0_Index.md",
+    "01_Faerun/02_People/01_NPC´s/01_NPC´s.md",
+    "01_Faerun/01_Places/04_Regions/04_Regions.md",
+    "01_Faerun/01_Places/03_Important Places/03_Important Places.md",
+    "01_Faerun/01_Places/02_Continent/02_Continent.md",
+    "01_Faerun/01_Places/01_Citys/01_Citys.md",
+    "01_Faerun/01_Places/01_Places.md",
+    "01_Faerun/01_Faerun.md",
+    "01_Faerun/02_People/02_People.md",
+    "05_Hochzeit/02_Locations/📍 Locations Übersicht.md",
+    "05_Hochzeit/02_Locations/Location_Template.md",
+    "05_Hochzeit/05_Hochzeit.md",
+    "04_Templates/04_Templates.md",
+    "05_Hochzeit/04_Gästeliste/04_Gästeliste.md",
+    "05_Hochzeit/02_Locations/02_Locations.md",
     "02_Kampagne/02_Journal/02_Journal.md",
+    "02_Kampagne/01_Preperation/0_Index.md",
     "02_Kampagne/01_Preperation/02_Random_Encounters/02_Random_Encounters.md",
     "02_Kampagne/01_Preperation/01_Quests/01_Quests.md",
     "02_Kampagne/01_Preperation/01_Preperation.md",
@@ -227,20 +241,6 @@
     "03_Assets/01_Maps/02_Citys/02_Citys.md",
     "03_Assets/01_Maps/01_Villages/01_Villages.md",
     "03_Assets/01_Maps/01_Maps.md",
-    "01_Faerun/07_Gods/07_Gods.md",
-    "01_Faerun/06_Races & Cultures/06_Races & Cultures.md",
-    "01_Faerun/05_Factions/05_Factions.md",
-    "01_Faerun/04_Items/04_Items.md",
-    "01_Faerun/03_Creatures/03_Creatures.md",
-    "01_Faerun/02_People/NPC´s/Wichtige NPC´s/Wichtige NPC´s.md",
-    "01_Faerun/02_People/NPC´s/Zufall Begegnungen/Zufall Begegnungen.md",
-    "01_Faerun/02_People/NPC´s/Verbündete/Verbündete.md",
-    "01_Faerun/02_People/NPC´s/Questgeber/Questgeber.md",
-    "01_Faerun/02_People/NPC´s/Nebencharaktere/Nebencharaktere.md",
-    "01_Faerun/02_People/Player/Player.md",
-    "01_Faerun/02_People/NPC´s/NPC´s.md",
-    "01_Faerun/02_People/02_People.md",
-    "01_Faerun/01_Places/Regions/Regions.md",
     "02_Kampagne/Untitled.base",
     "03_Assets/03_Websites",
     "03_Assets/02_Sounds",

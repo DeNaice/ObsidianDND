@@ -12,7 +12,7 @@
   "excludeFolders": [],
   "whitelistFolders": [],
   "showDeleteConfirmation": true,
-  "underlineFolder": true,
+  "underlineFolder": false,
   "stopWhitespaceCollapsing": true,
   "underlineFolderInPath": true,
   "openFolderNoteOnClickInPath": true,
@@ -36,7 +36,7 @@
       "folder",
       "markdown"
     ],
-    "style": "list",
+    "style": "explorer",
     "disableFileTag": false,
     "sortBy": "name",
     "sortByAsc": true,
@@ -62,7 +62,7 @@
     "explorer": true,
     "path": true
   },
-  "settingsTab": "general",
+  "settingsTab": "file_explorer",
   "supportedFileTypes": [
     "md",
     "canvas",
@@ -117,7 +117,7 @@
     "mobile": false,
     "desktop": true
   },
-  "highlightFolder": true,
+  "highlightFolder": false,
   "persistentSettingsTab": {
     "afterRestart": true,
     "afterChangingTab": true
