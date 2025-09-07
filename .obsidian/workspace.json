@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01_Faerun/03_Creatures/Undead/Undead.md",
+                "file": "05_Rules/05_Rules.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Undead"
+              "title": "05_Rules"
             }
           }
         ]
@@ -123,8 +123,8 @@
             "state": {
               "type": "fantasy-statblocks-creature-pane",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "skull",
+              "title": "Combatant"
             }
           },
           {
@@ -191,11 +191,12 @@
               "title": "Giggles"
             }
           }
-        ]
+        ],
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 865.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -213,12 +214,22 @@
       "obsidian-custom-frames:Open Giggles": false
     }
   },
-  "active": "d1a142513227de49",
+  "active": "254a3d542e520b73",
   "lastOpenFiles": [
+    "05_Rules/01_Core/01_Core.md",
+    "05_Rules/05_Rules.md",
+    "05_Rules/02_Houserules/02_Houserules.md",
+    "05_Rules/02_Houserules",
+    "05_Rules/01_Core",
+    "Hochzeit/Hochzeit.md",
+    "Untitled/Untitled.md",
+    "05_Rules",
+    "01_Faerun/01_Faerun.md",
+    "Untitled",
     "01_Faerun/03_Creatures/Undead/Undead.md",
+    "01_Faerun/03_Creatures/03_Creatures.md",
     "01_Faerun/03_Creatures/Undead",
     "01_Faerun/03_Creatures/Plant/Plant.md",
-    "01_Faerun/03_Creatures/03_Creatures.md",
     "01_Faerun/03_Creatures/Plant",
     "01_Faerun/03_Creatures/Ooze/Ooze.md",
     "01_Faerun/03_Creatures/OOze/Ooze.md",
@@ -230,13 +241,9 @@
     "01_Faerun/03_Creatures/Giant/Giant.md",
     "01_Faerun/03_Creatures/Giant",
     "01_Faerun/03_Creatures/Fiend/Fiend.md",
-    "01_Faerun/03_Creatures/Fiend",
     "01_Faerun/03_Creatures/Fey/Fey.md",
-    "01_Faerun/03_Creatures/Fey",
     "01_Faerun/03_Creatures/Elemental/Elemental.md",
-    "01_Faerun/03_Creatures/Elemental",
     "01_Faerun/03_Creatures/Dragon/Dragon.md",
-    "01_Faerun/03_Creatures/Dragon",
     "01_Faerun/03_Creatures/Construct/Construct.md",
     "01_Faerun/03_Creatures/Celestial/Celestial.md",
     "01_Faerun/02_People/02_People.md",
@@ -245,12 +252,6 @@
     "01_Faerun/03_Creatures/Abberation/Abberation.md",
     "02_Kampagne/02_Kampagne.md",
     "01_Faerun/02_People/02_Player/02_Player.md",
-    "01_Faerun/02_People/01_NPC´s/01_NPC´s.md",
-    "01_Faerun/01_Places/04_Regions/04_Regions.md",
-    "01_Faerun/01_Places/02_Continent/02_Continent.md",
-    "01_Faerun/01_Places/01_Citys/01_Citys.md",
-    "01_Faerun/01_Places/01_Places.md",
-    "01_Faerun/01_Faerun.md",
     "03_Assets/01_Maps/03_Battle Maps/Arena.png",
     "Kampagne/Quests/Side Quests/Das Fest.canvas",
     "Untitled.canvas"
