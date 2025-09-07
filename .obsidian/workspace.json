@@ -8,54 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "5555c7ff2c66b8df",
-            "type": "leaf",
-            "state": {
-              "type": "diff-view",
-              "state": {
-                "file": "Kampagne/Journal/Session 0.md",
-                "staged": false
-              },
-              "icon": "git-pull-request",
-              "title": "Diff View (Session 0)"
-            }
-          },
-          {
-            "id": "3f33d175a1a86716",
-            "type": "leaf",
-            "state": {
-              "type": "diff-view",
-              "state": {
-                "file": "Kampagne/Journal/Session 0.md",
-                "staged": false
-              },
-              "icon": "git-pull-request",
-              "title": "Diff View (Session 0)"
-            }
-          },
-          {
             "id": "d186e24e243d4aa5",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "Templates/Session Planing Board.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false,
-                    false
-                  ]
-                }
+                "file": "Z_Hochzeit/04_Gästeliste/Untitled.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-trello",
-              "title": "Session Planing Board"
+              "icon": "lucide-file",
+              "title": "Untitled"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -112,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "89a5c9141e72ce63",
@@ -229,7 +196,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 393.5
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -247,8 +215,18 @@
       "templates:Insert template": false
     }
   },
-  "active": "d1a142513227de49",
+  "active": "d186e24e243d4aa5",
   "lastOpenFiles": [
+    "Z_Hochzeit/04_Gästeliste/Untitled.md",
+    "Z_Hochzeit/02_Locations/📍 Locations Übersicht.md",
+    "Z_Hochzeit/03_Dienstleister/Übersicht.md",
+    "Z_Hochzeit/03_Dienstleister/Dienstleister",
+    "Z_Hochzeit/02_Locations/Location_Template.md",
+    "Z_Hochzeit/02_Locations/Locations/Untitled.md",
+    "Z_Hochzeit/02_Locations/Locations",
+    "Location XYZ.md",
+    "Templates/Session Planing Board.md",
+    "Z_Hochzeit/Templates",
     "Z_Hochzeit/07_Ideen",
     "Z_Hochzeit/06_Checklisten",
     "Z_Hochzeit/05_Budget",
@@ -256,13 +234,10 @@
     "Z_Hochzeit/03_Dienstleister",
     "Z_Hochzeit/02_Locations",
     "Z_Hochzeit/01_Übersicht",
-    "Z_Hochzeit",
     "Templates/VillageTemplate.md",
     "conflict-files-obsidian-git.md",
     "Kampagne/Journal/Session 0.md",
     "A World/People/NPC´s/Wichtige NPC´s/Selindra von Lathander.md",
-    "Untitled 1.base",
-    "Untitled.base",
     "Kampagne/Preperation/Quests/Campaign Start.md",
     "A World/People/NPC´s/Nebencharaktere/Darron Hiltbrand.md",
     "A World/People/NPC´s/Wichtige NPC´s/Corven Dargan.md",
@@ -270,7 +245,6 @@
     "Assets/Battle Maps/Arena.png",
     "A World/People/NPC´s/Nebencharaktere/Rurik.md",
     "A World/People/NPC´s/Nebencharaktere/Garrik Eisenfaust.md",
-    "A World/People/NPC´s/Wichtige NPC´s",
     "A World/People/NPC´s/Nebencharaktere/Tholgrim der Gebrochene.md",
     "A World/People/NPC´s/Nebencharaktere/Morthan der Flüsterer.md",
     "A World/People/NPC´s/Nebencharaktere/Jerrik die Ratte.md",
@@ -280,12 +254,6 @@
     "A World/Places/Citys/Beregost.md",
     "A World/Places/Continent/Faerun.md",
     "A World/People/Player/Giggles.md",
-    "A World/Gods/Ao.md",
-    "Kampagne/Preperation/Quests/Session 0.md",
-    "Templates/CreatureTemplate.md",
-    "A World/Gods/Selûne.md",
-    "A World/Gods/Mask.md",
-    "Küstenweges.md",
     "Kampagne/Quests/Side Quests/Das Fest.canvas",
     "Untitled.canvas"
   ]
