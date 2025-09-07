@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02_Kampagne/01_Preperation/01_Quests/Campaign Start.md",
+                "file": "02_Kampagne/01_Preperation/0_Index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Campaign Start"
+              "title": "0_Index"
             }
           }
         ]
@@ -213,14 +213,22 @@
       "obsidian-custom-frames:Open Giggles": false
     }
   },
-  "active": "d1a142513227de49",
+  "active": "25cb53af59825f05",
   "lastOpenFiles": [
-    "03_Assets/03_",
-    "03_Assets/02_Citys",
-    "03_Assets/01_Villages",
-    "03_Assets/Obsidian Markdown.pdf",
+    "03_Encounters.md",
+    "02_Kampagne/01_Preperation/0_Index.md",
     "02_Kampagne/01_Preperation/01_Quests/Campaign Start.md",
-    "02_Kampagne/Journal/Session 0.md",
+    "02_Kampagne/01_Preperation/01_Quests/Untitled Kanban.md",
+    "02_Kampagne/Untitled.base",
+    "03_Assets/03_Websites",
+    "03_Assets/02_Sounds",
+    "03_Assets/01_Maps/04_Dungeons",
+    "03_Assets/01_Maps",
+    "03_Assets/02_",
+    "03_Assets/01_Maps/02_Citys",
+    "03_Assets/01_Maps/01_Villages",
+    "03_Assets/Obsidian Markdown.pdf",
+    "02_Kampagne/02_Journal/Session 0.md",
     "01_Faerun/02_People/NPC´s/Wichtige NPC´s/Corven Dargan.md",
     "01_Faerun/04_Items/Evangelium der Leere.md",
     "conflict-files-obsidian-git.md",
@@ -229,11 +237,6 @@
     "05_Hochzeit/02_Locations/📍 Locations Übersicht.md",
     "05_Hochzeit/02_Locations/Location_Template.md",
     "05_Hochzeit/02_Locations/Locations",
-    "05_Hochzeit/04_Gästeliste",
-    "05_Hochzeit/02_Locations",
-    "05_Hochzeit",
-    "Untitled.base",
-    "Untitled 1.base",
     "01_Faerun/02_People/NPC´s/Nebencharaktere/Rurik.md",
     "01_Faerun/02_People/NPC´s/Nebencharaktere/Tholgrim der Gebrochene.md",
     "01_Faerun/02_People/NPC´s/Nebencharaktere/Darron Hiltbrand.md",
@@ -243,15 +246,12 @@
     "01_Faerun/02_People/NPC´s/Nebencharaktere/Morthan der Flüsterer.md",
     "01_Faerun/07_Gods/Lathander.md",
     "01_Faerun/02_People/NPC´s/Wichtige NPC´s/Selindra von Lathander.md",
-    "03_Assets/Battle Maps/Arena.png",
+    "03_Assets/01_Maps/03_Battle Maps/Arena.png",
     "Untitled Kanban.md",
     "04_Templates/MagicItemTemplate.md",
     "A World/People/NPC´s/Nebencharaktere/Der Falsche Freund.md",
-    "A World/People/NPC´s/Nebencharaktere/Untitled",
     "04_Templates/NPCTemplate.md",
     "04_Templates/JournalTemplate.md",
-    "01_Faerun/01_Places/Citys/Beregost.md",
-    "01_Faerun/01_Places/Continent/Faerun.md",
     "Kampagne/Quests/Side Quests/Das Fest.canvas",
     "Untitled.canvas"
   ]
