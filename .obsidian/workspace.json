@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "3f68d6419aac59f5",
+        "id": "51a322a03439207e",
         "type": "tabs",
         "children": [
           {
-            "id": "6ce65ebc9f6b7758",
+            "id": "8d2fab403512f6e0",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01_Faerun/04_Items/Magic Items/06_Artifact/Evangelium der Leere.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Evangelium der Leere"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -78,33 +74,22 @@
       }
     ],
     "direction": "horizontal",
-    "width": 263.5
+    "width": 284.5
   },
   "right": {
     "id": "89a5c9141e72ce63",
     "type": "split",
     "children": [
       {
-        "id": "3430ddabba3678a9",
+        "id": "0b0d25f08598696a",
         "type": "tabs",
         "children": [
           {
-            "id": "0b9402b5a45f292f",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
-            }
-          },
-          {
-            "id": "805fac429ccd7b31",
+            "id": "2e21ed7dd8d73050",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "05_Rules/05_Rules.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,35 +99,24 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 05_Rules"
+              "title": "Backlinks"
             }
           },
           {
-            "id": "254a3d542e520b73",
-            "type": "leaf",
-            "state": {
-              "type": "fantasy-statblocks-creature-pane",
-              "state": {},
-              "icon": "skull",
-              "title": "Combatant"
-            }
-          },
-          {
-            "id": "0fdbf42c1437c761",
+            "id": "fad95de152fd1bf6",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "05_Rules/05_Rules.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 05_Rules"
+              "title": "Outgoing links"
             }
           },
           {
-            "id": "a01f97cecd9c0068",
+            "id": "eb48c5e509cc7502",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -157,56 +131,25 @@
             }
           },
           {
-            "id": "18065efe690e6531",
+            "id": "3cdaf78e8861b366",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "05_Rules/05_Rules.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 05_Rules"
-            }
-          },
-          {
-            "id": "7c178cf4d9c2ca0d",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {},
-              "icon": "spreadsheet",
-              "title": "Advanced Tables"
-            }
-          },
-          {
-            "id": "107cb481be281b24",
-            "type": "leaf",
-            "state": {
-              "type": "custom-frames-giggles",
-              "state": {},
-              "icon": "lucide-crown",
-              "title": "Giggles"
-            }
-          },
-          {
-            "id": "b675fee9f89c2c57",
-            "type": "leaf",
-            "state": {
-              "type": "custom-frames-kenna",
-              "state": {},
-              "icon": "lucide-bird",
-              "title": "Kenna"
+              "title": "Outline"
             }
           }
-        ],
-        "currentTab": 7
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 846.5
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -228,9 +171,19 @@
       "obsidian-custom-frames:Open Merlin": false
     }
   },
-  "active": "d1a142513227de49",
+  "active": "8d2fab403512f6e0",
   "lastOpenFiles": [
+    "03_Assets/03_Websites/03_Websites.md",
+    "03_Assets/03_Assets.md",
+    "01_Faerun/01_Faerun.md",
+    "01_Faerun/03_Creatures/03_Creatures.md",
+    "Untitled.canvas",
+    "Excalidraw/Drawing 2025-09-07 21.18.38.excalidraw.md",
+    "01_Faerun/06_Races & Cultures/06_Races & Cultures.md",
+    "03_Assets/01_Maps/01_Maps.md",
+    "02_Kampagne/01_Preperation/01_Preperation.md",
     "01_Faerun/04_Items/Magic Items/06_Artifact/06_Artifact.md",
+    "01_Faerun/04_Items/Magic Items/06_Artifact/Evangelium der Leere.md",
     "01_Faerun/04_Items/Magic Items/05_Legendary/05_Legendary.md",
     "01_Faerun/04_Items/Magic Items/Magic Items.md",
     "01_Faerun/04_Items/Magic Items/06_Artifact",
@@ -247,7 +200,6 @@
     "01_Faerun/04_Items/Magic Items",
     "01_Faerun/02_People/02_People.md",
     "01_Faerun/01_Places/03_Important_Places/03_Important_Places.md",
-    "01_Faerun/03_Creatures/03_Creatures.md",
     "01_Faerun/02_People/01_NPC´s/Questgeber/Questgeber.md",
     "01_Faerun/02_People/01_NPC´s/Questgeber/Sidequests/Sidequests.md",
     "01_Faerun/02_People/01_NPC´s/Questgeber/Sidequests",
@@ -257,17 +209,8 @@
     "01_Faerun/02_People/02_Player/Giggles.md",
     "01_Faerun/02_People/01_NPC´s/Nebencharaktere/Nebencharaktere.md",
     "01_Faerun/02_People/01_NPC´s/Nebencharaktere/Darron Hiltbrand.md",
-    "01_Faerun/01_Places/01_Places.md",
-    "01_Faerun/01_Faerun.md",
-    "Excalidraw/Drawing 2025-09-07 21.18.38.excalidraw.md",
     "Untitled.base",
-    "Excalidraw/Excalidraw.md",
-    "05_Rules/05_Rules.md",
-    "05_Rules/01_Core/01_Core.md",
-    "05_Rules/02_Houserules/02_Houserules.md",
-    "Hochzeit/Hochzeit.md",
     "03_Assets/01_Maps/03_Battle Maps/Arena.png",
-    "Kampagne/Quests/Side Quests/Das Fest.canvas",
-    "Untitled.canvas"
+    "Kampagne/Quests/Side Quests/Das Fest.canvas"
   ]
 }
