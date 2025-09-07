@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01_Faerun/01_Faerun.md",
+                "file": "01_Faerun/02_People/01_NPC´s/04_Nebencharaktere/Beregost/Darron Hiltbrand.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "01_Faerun"
+              "title": "Darron Hiltbrand"
             }
           },
           {
@@ -92,7 +92,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 316.5
   },
   "right": {
     "id": "89a5c9141e72ce63",
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01_Faerun/01_Faerun.md",
+                "file": "01_Faerun/02_People/01_NPC´s/04_Nebencharaktere/Beregost/Darron Hiltbrand.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 01_Faerun"
+              "title": "Backlinks for Darron Hiltbrand"
             }
           },
           {
@@ -127,12 +127,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01_Faerun/01_Faerun.md",
+                "file": "01_Faerun/02_People/01_NPC´s/04_Nebencharaktere/Beregost/Darron Hiltbrand.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 01_Faerun"
+              "title": "Outgoing links from Darron Hiltbrand"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01_Faerun/01_Faerun.md",
+                "file": "01_Faerun/02_People/01_NPC´s/04_Nebencharaktere/Beregost/Darron Hiltbrand.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 01_Faerun"
+              "title": "Outline of Darron Hiltbrand"
             }
           }
         ]
@@ -194,43 +194,43 @@
   },
   "active": "8d2fab403512f6e0",
   "lastOpenFiles": [
+    "01_Faerun/02_People/01_NPC´s/04_Nebencharaktere/Beregost/Isolde Hiltbrand.md",
+    "01_Faerun/02_People/01_NPC´s/04_Nebencharaktere/Beregost/Darron Hiltbrand.md",
+    "Hochzeit/Hochzeit.md",
+    "02_Kampagne/02_Journal/Session 0.md",
+    "01_Faerun/02_People/01_NPC´s/04_Nebencharaktere/Beregost/Garrik Eisenfaust.md",
+    "01_Faerun/02_People/01_NPC´s/04_Nebencharaktere/Beregost/Rurik.md",
+    "01_Faerun/02_People/01_NPC´s/04_Nebencharaktere/Beregost/Beregost.md",
+    "01_Faerun/02_People/01_NPC´s/01_Questgeber/01_Questgeber.md",
+    "01_Faerun/02_People/01_NPC´s/02_Wichtige NPC´s/02_Wichtige NPC´s.md",
+    "01_Faerun/02_People/02_Player/Giggles - Tiefling Barde.md",
+    "04_Templates/PlayerTemplate.md",
+    "04_Templates/04_Templates.md",
+    "01_Faerun/02_People/01_NPC´s/01_Questgeber/Sidequests/Sidequests.md",
+    "01_Faerun/02_People/01_NPC´s/01_Questgeber/Hauptquest/Corven Dargan.md",
+    "01_Faerun/02_People/01_NPC´s/01_Questgeber/Hauptquest/Hauptquest.md",
+    "01_Faerun/02_People/01_NPC´s/05_Zufall_Begegnungen/05_Zufall_Begegnungen.md",
+    "01_Faerun/02_People/01_NPC´s/03_Verbündete/03_Verbündete.md",
+    "01_Faerun/02_People/01_NPC´s/04_Nebencharaktere/04_Nebencharaktere.md",
+    "01_Faerun/02_People/01_NPC´s/04_Nebencharaktere/Beregost",
+    "01_Faerun/02_People/01_NPC´s/01_NPC´s.md",
+    "01_Faerun/02_People/02_People.md",
+    "01_Faerun/01_Faerun.md",
+    "01_Faerun/01_Places/01_Citys/Beregost.md",
     "01_Faerun/01_Places/01_Places.md",
     "01_Faerun/01_Places/02_Continent/02_Continent.md",
-    "01_Faerun/01_Faerun.md",
     "02_Kampagne/01_Preperation/01_Quests/Campaign Start.md",
     "Excalidraw/Excalidraw.md",
-    "03_Assets/03_Websites/03_Websites.md",
-    "03_Assets/03_Assets.md",
-    "01_Faerun/03_Creatures/03_Creatures.md",
     "Untitled.canvas",
-    "Excalidraw/Drawing 2025-09-07 21.18.38.excalidraw.md",
-    "01_Faerun/06_Races & Cultures/06_Races & Cultures.md",
-    "03_Assets/01_Maps/01_Maps.md",
-    "02_Kampagne/01_Preperation/01_Preperation.md",
-    "01_Faerun/04_Items/Magic Items/06_Artifact/06_Artifact.md",
-    "01_Faerun/04_Items/Magic Items/06_Artifact/Evangelium der Leere.md",
-    "01_Faerun/04_Items/Magic Items/05_Legendary/05_Legendary.md",
-    "01_Faerun/04_Items/Magic Items/Magic Items.md",
     "01_Faerun/04_Items/Magic Items/06_Artifact",
     "01_Faerun/04_Items/Magic Items/05_Legendary",
-    "01_Faerun/04_Items/Magic Items/04_Very_Rare/04_Very_Rare.md",
     "01_Faerun/04_Items/Magic Items/04_Very_Rare",
-    "01_Faerun/04_Items/Magic Items/03_Rare/03_Rare.md",
-    "01_Faerun/04_Items/Magic Items/02_Uncommon/02_Uncommon.md",
-    "01_Faerun/04_Items/Magic Items/01_Common/01_Common.md",
     "01_Faerun/04_Items/Magic Items/03_Rare",
     "01_Faerun/04_Items/Magic Items/02_Uncommon",
-    "01_Faerun/04_Items/04_Items.md",
     "01_Faerun/04_Items/Magic Items/01_Common",
     "01_Faerun/04_Items/Magic Items",
-    "01_Faerun/02_People/02_People.md",
-    "01_Faerun/01_Places/03_Important_Places/03_Important_Places.md",
-    "01_Faerun/02_People/01_NPC´s/Questgeber/Questgeber.md",
-    "01_Faerun/02_People/01_NPC´s/Questgeber/Sidequests/Sidequests.md",
-    "01_Faerun/02_People/01_NPC´s/Questgeber/Sidequests",
-    "01_Faerun/02_People/01_NPC´s/Questgeber/Hauptquest/Hauptquest.md",
-    "01_Faerun/02_People/01_NPC´s/Questgeber/Hauptquest",
-    "Untitled.base",
+    "01_Faerun/02_People/01_NPC´s/01_Questgeber/Sidequests",
+    "01_Faerun/02_People/01_NPC´s/01_Questgeber/Hauptquest",
     "03_Assets/01_Maps/03_Battle Maps/Arena.png",
     "Kampagne/Quests/Side Quests/Das Fest.canvas"
   ]
