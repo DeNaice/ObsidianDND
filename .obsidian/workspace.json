@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01_Faerun/02_People/02_People.md",
+                "file": "01_Faerun/04_Items/01_Common/01_Common.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "02_People"
+              "title": "01_Common"
+            }
+          },
+          {
+            "id": "effc953eb0a0825c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01_Faerun/04_Items/04_Items.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "04_Items"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -179,8 +194,24 @@
       "obsidian-custom-frames:Open Merlin": false
     }
   },
-  "active": "ad24e9dc0455bf34",
+  "active": "effc953eb0a0825c",
   "lastOpenFiles": [
+    "01_Faerun/04_Items/00_None/00_None.md",
+    "01_Faerun/04_Items/00_None",
+    "01_Faerun/04_Items/01_Common/01_Common.md",
+    "01_Faerun/04_Items/Magic Items/Magic Items.md",
+    "01_Faerun/04_Items/06_Artifact/06_Artifact.md",
+    "01_Faerun/04_Items/04_Items.md",
+    "01_Faerun/03_Creatures/03_Creatures.md",
+    "01_Faerun/02_People/02_People.md",
+    "01_Faerun/01_Places/01_Citys/01_Citys.md",
+    "01_Faerun/01_Places/03_Important_Places/03_Important_Places.md",
+    "01_Faerun/01_Places/02_Continent/02_Continent.md",
+    "01_Faerun/01_Places/01_Places.md",
+    "01_Faerun/07_Gods/07_Gods.md",
+    "01_Faerun/07_Gods/Sune.md",
+    "01_Faerun/07_Gods/Waukeen.md",
+    "01_Faerun/07_Gods/Ao.md",
     "01_Faerun/01_Faerun.md",
     "02_Kampagne/02_Kampagne.md",
     "02_Kampagne/01_Preperation/01_Preperation.md",
@@ -192,32 +223,16 @@
     "02_Kampagne/04_Random_Encounters/04_Random_Encounters.md",
     "04_Templates/04_Templates.md",
     "03_Assets/01_Websites/01_Websites.md",
-    "02_Kampagne/02_Journal/Session 0.md",
-    "Hochzeit/Hochzeit.md",
-    "Hochzeit/04_Gästeliste/04_Gästeliste.md",
-    "Hochzeit/02_Locations/Locations/Untitled.md",
-    "Hochzeit/02_Locations/📍 Locations Übersicht.md",
-    "Hochzeit/02_Locations/Location_Template.md",
-    "Hochzeit/02_Locations/Locations/Locations.md",
-    "05_Rules&Tipps/05_Rules&Tipps.md",
-    "05_Rules&Tipps/03_Tipps/03_Tipps.md",
     "05_Rules&Tipps/03_Tipps",
-    "02_Kampagne/01_Preperation/0_Index.md",
-    "01_Faerun/01_Places/01_Places.md",
-    "01_Faerun/02_People/01_NPC´s/04_Nebencharaktere/Beregost/Darron Hiltbrand.md",
-    "01_Faerun/05_Factions/05_Factions.md",
-    "01_Faerun/02_People/02_Player/Giggles - Tiefling Barde.md",
-    "01_Faerun/02_People/01_NPC´s/04_Nebencharaktere/04_Nebencharaktere.md",
     "01_Faerun/02_People/01_NPC´s/04_Nebencharaktere/Beregost",
     "Untitled.canvas",
-    "01_Faerun/04_Items/Magic Items/06_Artifact",
-    "01_Faerun/04_Items/Magic Items/05_Legendary",
-    "01_Faerun/04_Items/Magic Items/04_Very_Rare",
-    "01_Faerun/04_Items/Magic Items/03_Rare",
-    "01_Faerun/04_Items/Magic Items/02_Uncommon",
-    "01_Faerun/04_Items/Magic Items/01_Common",
+    "01_Faerun/04_Items/06_Artifact",
+    "01_Faerun/04_Items/05_Legendary",
+    "01_Faerun/04_Items/04_Very_Rare",
+    "01_Faerun/04_Items/03_Rare",
+    "01_Faerun/04_Items/02_Uncommon",
+    "01_Faerun/04_Items/01_Common",
     "01_Faerun/04_Items/Magic Items",
-    "01_Faerun/02_People/01_NPC´s/01_Questgeber/Sidequests",
     "03_Assets/02_Maps/03_Battle Maps/Arena.png",
     "Kampagne/Quests/Side Quests/Das Fest.canvas"
   ]
