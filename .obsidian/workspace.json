@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02_Kampagne/02_Journal/Session 0.md",
+                "file": "02_Kampagne/04_Random_Encounters/04_Random_Encounters.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Session 0"
+              "title": "04_Random_Encounters"
             }
           }
         ]
@@ -179,20 +179,25 @@
       "obsidian-custom-frames:Open Merlin": false
     }
   },
-  "active": "ad24e9dc0455bf34",
+  "active": "d1a142513227de49",
   "lastOpenFiles": [
+    "02_Kampagne/03_Quests/03_Quests.md",
+    "02_Kampagne/02_Journal/02_Journal.md",
+    "02_Kampagne/01_Preperation/01_Preperation.md",
+    "02_Kampagne/01_Preperation/0_Index.md",
+    "02_Kampagne/04_Random_Encounters/04_Random_Encounters.md",
+    "02_Kampagne/02_Kampagne.md",
+    "04_Templates/04_Templates.md",
+    "02_Kampagne/01_Preperation/Untitled Kanban.md",
+    "02_Kampagne/02_Journal/Session 0.md",
     "01_Faerun/01_Places/01_Places.md",
     "01_Faerun/02_People/01_NPC´s/04_Nebencharaktere/Beregost/Darron Hiltbrand.md",
-    "02_Kampagne/02_Journal/Session 0.md",
-    "02_Kampagne/01_Preperation/Untitled Kanban.md",
-    "02_Kampagne/01_Preperation/01_Preperation.md",
     "05_Rules/05_Rules.md",
     "01_Faerun/05_Factions/05_Factions.md",
     "01_Faerun/02_People/02_Player/Giggles - Tiefling Barde.md",
     "01_Faerun/02_People/01_NPC´s/04_Nebencharaktere/04_Nebencharaktere.md",
     "01_Faerun/02_People/01_NPC´s/03_Verbündete/03_Verbündete.md",
     "03_Assets/03_Assets.md",
-    "02_Kampagne/02_Kampagne.md",
     "03_Assets/01_Websites/01_Websites.md",
     "01_Faerun/01_Places/01_Citys/Beregost.md",
     "01_Faerun/01_Places/01_Citys/01_Citys.md",
@@ -202,11 +207,6 @@
     "03_Assets/02_Maps/02_Maps.md",
     "01_Faerun/03_Creatures/03_Creatures.md",
     "01_Faerun/02_People/01_NPC´s/04_Nebencharaktere/Beregost/Isolde Hiltbrand.md",
-    "Hochzeit/Hochzeit.md",
-    "01_Faerun/02_People/01_NPC´s/04_Nebencharaktere/Beregost/Garrik Eisenfaust.md",
-    "01_Faerun/02_People/01_NPC´s/04_Nebencharaktere/Beregost/Rurik.md",
-    "01_Faerun/02_People/01_NPC´s/04_Nebencharaktere/Beregost/Beregost.md",
-    "01_Faerun/02_People/01_NPC´s/01_Questgeber/01_Questgeber.md",
     "01_Faerun/02_People/01_NPC´s/04_Nebencharaktere/Beregost",
     "Untitled.canvas",
     "01_Faerun/04_Items/Magic Items/06_Artifact",

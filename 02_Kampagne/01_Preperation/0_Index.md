@@ -2,7 +2,7 @@
 
 ## Vorbereitung
 - [[01_Preperation]]
-  - [[01_Quests]]
+  - [[03_Quests]]
   - [[03_Encounters]]
   - [[04_Locations]]
 
@@ -18,4 +18,4 @@
 
 ## Quick Links
 - [[Campaign Start]]
-- [[02_Random_Encounters]]
+- [[04_Random_Encounters]]
