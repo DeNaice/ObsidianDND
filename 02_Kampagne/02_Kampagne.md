@@ -1,4 +1,5 @@
+- [[Planer]]
 - [[01_Preperation]]
 - [[02_Journal]]
 - [[03_Quests]]
-- [[04_Random_Encounters]]
+- [[05_Random_Encounters]]
