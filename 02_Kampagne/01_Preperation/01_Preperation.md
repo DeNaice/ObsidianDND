@@ -1,13 +1,12 @@
-# 🎭 Kampagne Übersicht
-
 
 ## Vorbereitung
-- [[01_Preperation]]
-  - [[03_Quests]]
+- [[Planer]]
+- [[02_Journal]]
+- [[03_Quests]]
+- [[04_Random_Encounters]]
 
 ## Sessions
 - [[Session 0]]
 
 ## Quick Links
-- [[Campaign Start]]
 - [[04_Random_Encounters]]

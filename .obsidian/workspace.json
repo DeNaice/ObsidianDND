@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02_Kampagne/01_Preperation/01_Preperation.md",
+                "file": "01_Faerun/02_People/02_People.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "01_Preperation"
+              "title": "02_People"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 630.5
+    "width": 372.5
   },
   "right": {
     "id": "89a5c9141e72ce63",
@@ -181,32 +181,33 @@
   },
   "active": "ad24e9dc0455bf34",
   "lastOpenFiles": [
-    "02_Kampagne/01_Preperation/0_Index.md",
-    "02_Kampagne/01_Preperation/01_Preperation.md",
-    "02_Kampagne/01_Preperation/Untitled Kanban.md",
-    "02_Kampagne/04_Random_Encounters/04_Random_Encounters.md",
-    "02_Kampagne/03_Quests/03_Quests.md",
-    "02_Kampagne/02_Journal/02_Journal.md",
+    "01_Faerun/01_Faerun.md",
     "02_Kampagne/02_Kampagne.md",
+    "02_Kampagne/01_Preperation/01_Preperation.md",
+    "02_Kampagne/01_Preperation/Planer.md",
+    "02_Kampagne/02_Journal/02_Journal.md",
+    "02_Kampagne/03_Quests/03_Quests.md",
+    "02_Kampagne/03_Quests/Campaign Start.md",
+    "01_Faerun/02_People/01_NPC´s/04_Nebencharaktere/Beregost/Beregost.md",
+    "02_Kampagne/04_Random_Encounters/04_Random_Encounters.md",
     "04_Templates/04_Templates.md",
+    "03_Assets/01_Websites/01_Websites.md",
     "02_Kampagne/02_Journal/Session 0.md",
+    "Hochzeit/Hochzeit.md",
+    "Hochzeit/04_Gästeliste/04_Gästeliste.md",
+    "Hochzeit/02_Locations/Locations/Untitled.md",
+    "Hochzeit/02_Locations/📍 Locations Übersicht.md",
+    "Hochzeit/02_Locations/Location_Template.md",
+    "Hochzeit/02_Locations/Locations/Locations.md",
+    "05_Rules&Tipps/05_Rules&Tipps.md",
+    "05_Rules&Tipps/03_Tipps/03_Tipps.md",
+    "05_Rules&Tipps/03_Tipps",
+    "02_Kampagne/01_Preperation/0_Index.md",
     "01_Faerun/01_Places/01_Places.md",
     "01_Faerun/02_People/01_NPC´s/04_Nebencharaktere/Beregost/Darron Hiltbrand.md",
-    "05_Rules/05_Rules.md",
     "01_Faerun/05_Factions/05_Factions.md",
     "01_Faerun/02_People/02_Player/Giggles - Tiefling Barde.md",
     "01_Faerun/02_People/01_NPC´s/04_Nebencharaktere/04_Nebencharaktere.md",
-    "01_Faerun/02_People/01_NPC´s/03_Verbündete/03_Verbündete.md",
-    "03_Assets/03_Assets.md",
-    "03_Assets/01_Websites/01_Websites.md",
-    "01_Faerun/01_Places/01_Citys/Beregost.md",
-    "01_Faerun/01_Places/01_Citys/01_Citys.md",
-    "01_Faerun/02_People/02_People.md",
-    "01_Faerun/01_Faerun.md",
-    "03_Assets/03_Sounds/03_Sounds.md",
-    "03_Assets/02_Maps/02_Maps.md",
-    "01_Faerun/03_Creatures/03_Creatures.md",
-    "01_Faerun/02_People/01_NPC´s/04_Nebencharaktere/Beregost/Isolde Hiltbrand.md",
     "01_Faerun/02_People/01_NPC´s/04_Nebencharaktere/Beregost",
     "Untitled.canvas",
     "01_Faerun/04_Items/Magic Items/06_Artifact",
@@ -217,7 +218,6 @@
     "01_Faerun/04_Items/Magic Items/01_Common",
     "01_Faerun/04_Items/Magic Items",
     "01_Faerun/02_People/01_NPC´s/01_Questgeber/Sidequests",
-    "01_Faerun/02_People/01_NPC´s/01_Questgeber/Hauptquest",
     "03_Assets/02_Maps/03_Battle Maps/Arena.png",
     "Kampagne/Quests/Side Quests/Das Fest.canvas"
   ]

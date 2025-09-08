@@ -1,7 +1,6 @@
 # Session 28.08.2025 – Kampagnen Start
 
 ## Zusammenfassung
-- Kurzbeschreibung der Ereignisse:
 
 Babsi hat das Amulet behalten 
 
