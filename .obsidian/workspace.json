@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04_Templates/04_Templates.md",
+                "file": "03_Assets/01_Websites/01_Websites.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "04_Templates"
+              "title": "01_Websites"
             }
           }
         ],
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "04_Templates/04_Templates.md",
+                "file": "03_Assets/01_Websites/01_Websites.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 04_Templates"
+              "title": "Backlinks for 01_Websites"
             }
           },
           {
@@ -128,12 +128,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "04_Templates/04_Templates.md",
+                "file": "03_Assets/01_Websites/01_Websites.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 04_Templates"
+              "title": "Outgoing links from 01_Websites"
             }
           },
           {
@@ -157,13 +157,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "04_Templates/04_Templates.md",
+                "file": "03_Assets/01_Websites/01_Websites.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 04_Templates"
+              "title": "Outline of 01_Websites"
             }
           }
         ],
@@ -195,11 +195,11 @@
   },
   "active": "effc953eb0a0825c",
   "lastOpenFiles": [
-    "02_Kampagne/02_Kampagne.md",
-    "04_Templates/04_Templates.md",
     "03_Assets/03_Assets.md",
-    "05_Rules&Tipps/01_Core/01_Core.md",
+    "04_Templates/04_Templates.md",
     "05_Rules&Tipps/05_Rules&Tipps.md",
+    "02_Kampagne/02_Kampagne.md",
+    "05_Rules&Tipps/01_Core/01_Core.md",
     "01_Faerun/01_Faerun.md",
     "01_Faerun/05_Factions/05_Factions.md",
     "01_Faerun/02_People/01_NPC´s/01_NPC´s.md",

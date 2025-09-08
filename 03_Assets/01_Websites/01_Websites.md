@@ -12,7 +12,7 @@
 ## 2. Karten & Weltbau
 - [Inkarnate](https://inkarnate.com) – Karten erstellen für Regionen, Städte, Dungeons
 - [Wonderdraft](https://www.wonderdraft.net) – Weltkarten-Software
-- [Dungeon Scrawl](https://probabletrain.itch.io/dungeon-scrawl) – Schnell Dungeons skizzieren
+- [Dungeon Scrawl](https://app.dungeonscrawl.com/l) – Schnell Dungeons skizzieren
 - [Donjon RPG Tools](https://donjon.bin.sh) – Zufallskarten, NPCs, Begegnungen
 
 ## 3. Abenteuer & Module
@@ -27,13 +27,11 @@
 
 ## 5. Musik & Atmosphäre
 - [Tabletop Audio](https://tabletopaudio.com) – Hintergrundmusik für D&D-Sessions
-- [Syrinscape](https://syrinscape.com) – Dynamische Soundscapes
-- [Ambient Mixer](https://www.ambient-mixer.com) – Individuelle Hintergrundsounds
+
 
 ## 6. Kampagnenplanung & Tools
-- [Obsidian D&D Templates](https://forum.obsidian.md/) – Vorlagen und Ideen für Kampagnenplanung
-- [World Anvil](https://www.worldanvil.com) – Weltbau, Kampagnen-Management
-- [Notion D&D Templates](https://www.notion.so/templates) – Kampagnenorganisation
+- 
+
 
 ## 7. Würfel & Zufall
 - [Roll20 Dice Roller](https://roll20.net/dice-roller) – Würfel online rollen
