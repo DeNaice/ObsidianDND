@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02_Kampagne/04_Random_Encounters/04_Random_Encounters.md",
+                "file": "02_Kampagne/01_Preperation/01_Preperation.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "04_Random_Encounters"
+              "title": "01_Preperation"
             }
           }
         ]
@@ -179,16 +179,16 @@
       "obsidian-custom-frames:Open Merlin": false
     }
   },
-  "active": "d1a142513227de49",
+  "active": "ad24e9dc0455bf34",
   "lastOpenFiles": [
+    "02_Kampagne/01_Preperation/0_Index.md",
+    "02_Kampagne/01_Preperation/01_Preperation.md",
+    "02_Kampagne/01_Preperation/Untitled Kanban.md",
+    "02_Kampagne/04_Random_Encounters/04_Random_Encounters.md",
     "02_Kampagne/03_Quests/03_Quests.md",
     "02_Kampagne/02_Journal/02_Journal.md",
-    "02_Kampagne/01_Preperation/01_Preperation.md",
-    "02_Kampagne/01_Preperation/0_Index.md",
-    "02_Kampagne/04_Random_Encounters/04_Random_Encounters.md",
     "02_Kampagne/02_Kampagne.md",
     "04_Templates/04_Templates.md",
-    "02_Kampagne/01_Preperation/Untitled Kanban.md",
     "02_Kampagne/02_Journal/Session 0.md",
     "01_Faerun/01_Places/01_Places.md",
     "01_Faerun/02_People/01_NPC´s/04_Nebencharaktere/Beregost/Darron Hiltbrand.md",
