@@ -1,11 +1,13 @@
 # D&D Webseiten für Dungeon Master
 
 ## 1. DND Beyond Bücher
-- [D&D Beyond](https://www.dndbeyond.com) – Offizielle digitale Ressourcen, Regelbücher, Charaktererstellung
-- [Basic Rules](https://www.dndbeyond.com/sources/dnd/mm-2024)
-- [Dungeon Master Handbook 2024](https://www.dndbeyond.com/sources/dnd/dmg-2024/) - Alles für Dungeon Master
-- [Monster Manual](https://www.dndbeyond.com/sources/dnd/mm-2024) - Alle Monster die man so findet
-- 
+
+- [Basic Rules](https://www.dndbeyond.com/sources/dnd/br-2024) 
+- [Player Handbook](https://www.dndbeyond.com/sources/dnd/phb-2024)
+- [Dungeon Master Handbook 2024](https://www.dndbeyond.com/sources/dnd/dmg-2024/) 
+- [Monster Manual](https://www.dndbeyond.com/sources/dnd/mm-2024) 
+- [Tasha’s Cauldron of Everything](https://www.dndbeyond.com/sources/dnd/tcoe)
+- [Xanathars Guide to Everything](https://www.dndbeyond.com/sources/dnd/xgte)
 
 ## 2. Karten & Weltbau
 - [Inkarnate](https://inkarnate.com) – Karten erstellen für Regionen, Städte, Dungeons

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03_Assets/01_Websites/01_Websites.md",
+                "file": "05_Rules/05_Rules.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "01_Websites"
+              "title": "05_Rules"
             }
           },
           {
@@ -67,7 +67,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Dragon",
+                "query": "tag:#Quest",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -92,7 +92,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 316.5
+    "width": 970.5
   },
   "right": {
     "id": "89a5c9141e72ce63",
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03_Assets/01_Websites/01_Websites.md",
+                "file": "05_Rules/05_Rules.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 01_Websites"
+              "title": "Backlinks for 05_Rules"
             }
           },
           {
@@ -127,12 +127,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "03_Assets/01_Websites/01_Websites.md",
+                "file": "05_Rules/05_Rules.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 01_Websites"
+              "title": "Outgoing links from 05_Rules"
             }
           },
           {
@@ -156,16 +156,17 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03_Assets/01_Websites/01_Websites.md",
+                "file": "05_Rules/05_Rules.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 01_Websites"
+              "title": "Outline of 05_Rules"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -194,10 +195,20 @@
   },
   "active": "8d2fab403512f6e0",
   "lastOpenFiles": [
+    "01_Faerun/05_Factions/05_Factions.md",
+    "01_Faerun/02_People/02_Player/Giggles - Tiefling Barde.md",
+    "01_Faerun/02_People/01_NPC´s/04_Nebencharaktere/04_Nebencharaktere.md",
+    "01_Faerun/02_People/01_NPC´s/03_Verbündete/03_Verbündete.md",
+    "03_Assets/03_Assets.md",
+    "02_Kampagne/02_Kampagne.md",
+    "03_Assets/01_Websites/01_Websites.md",
+    "01_Faerun/01_Places/01_Citys/Beregost.md",
+    "01_Faerun/01_Places/01_Citys/01_Citys.md",
+    "01_Faerun/01_Places/01_Places.md",
+    "01_Faerun/02_People/02_People.md",
+    "01_Faerun/01_Faerun.md",
     "03_Assets/03_Sounds/03_Sounds.md",
     "03_Assets/02_Maps/02_Maps.md",
-    "03_Assets/01_Websites/01_Websites.md",
-    "03_Assets/03_Assets.md",
     "01_Faerun/03_Creatures/03_Creatures.md",
     "01_Faerun/02_People/01_NPC´s/04_Nebencharaktere/Beregost/Isolde Hiltbrand.md",
     "01_Faerun/02_People/01_NPC´s/04_Nebencharaktere/Beregost/Darron Hiltbrand.md",
@@ -208,19 +219,9 @@
     "01_Faerun/02_People/01_NPC´s/04_Nebencharaktere/Beregost/Beregost.md",
     "01_Faerun/02_People/01_NPC´s/01_Questgeber/01_Questgeber.md",
     "01_Faerun/02_People/01_NPC´s/02_Wichtige NPC´s/02_Wichtige NPC´s.md",
-    "01_Faerun/02_People/02_Player/Giggles - Tiefling Barde.md",
     "04_Templates/PlayerTemplate.md",
     "04_Templates/04_Templates.md",
-    "01_Faerun/02_People/01_NPC´s/01_Questgeber/Sidequests/Sidequests.md",
-    "01_Faerun/02_People/01_NPC´s/01_Questgeber/Hauptquest/Corven Dargan.md",
-    "01_Faerun/02_People/01_NPC´s/01_Questgeber/Hauptquest/Hauptquest.md",
-    "01_Faerun/02_People/01_NPC´s/05_Zufall_Begegnungen/05_Zufall_Begegnungen.md",
-    "01_Faerun/02_People/01_NPC´s/03_Verbündete/03_Verbündete.md",
-    "01_Faerun/02_People/01_NPC´s/04_Nebencharaktere/04_Nebencharaktere.md",
     "01_Faerun/02_People/01_NPC´s/04_Nebencharaktere/Beregost",
-    "01_Faerun/02_People/01_NPC´s/01_NPC´s.md",
-    "01_Faerun/02_People/02_People.md",
-    "01_Faerun/01_Faerun.md",
     "Untitled.canvas",
     "01_Faerun/04_Items/Magic Items/06_Artifact",
     "01_Faerun/04_Items/Magic Items/05_Legendary",
