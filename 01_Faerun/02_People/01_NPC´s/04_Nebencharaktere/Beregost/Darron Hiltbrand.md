@@ -32,7 +32,7 @@ Wurde angeblich für Schmuggel verhaftet. Ist vielleicht doch schuldig.
 ## Beziehungen
 - **Freunde/Verbündete:** Familie in Baldur’s Gate
 - **Feinde:** Stadtwachen
-- **Familie:** Frau [[Isolde Hiltbrand]]und 2 Kinder
+- **Familie:** Frau [[Isolde Hiltbrand]] und 2 Kinder
 
 ## Fähigkeiten und Talente
 - **Kampf-Fertigkeiten:** Keine
