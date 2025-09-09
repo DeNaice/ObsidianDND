@@ -1,7 +1,6 @@
 # D&D Webseiten für Dungeon Master
 
 ## 1. DND Beyond Bücher
-
 - [Basic Rules](https://www.dndbeyond.com/sources/dnd/br-2024) 
 - [Player Handbook](https://www.dndbeyond.com/sources/dnd/phb-2024)
 - [Dungeon Master Handbook 2024](https://www.dndbeyond.com/sources/dnd/dmg-2024/) 
