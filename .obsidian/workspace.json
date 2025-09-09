@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03_Assets/01_Websites/01_Websites.md",
+                "file": "02_Kampagne/02_Journal/Session 0.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "01_Websites"
+              "title": "Session 0"
             }
           }
         ],
@@ -127,12 +127,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "03_Assets/01_Websites/01_Websites.md",
+                "file": "02_Kampagne/02_Journal/Session 0.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 01_Websites"
+              "title": "Outgoing links from Session 0"
             }
           },
           {
@@ -169,7 +169,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 510.5
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -193,6 +193,7 @@
   },
   "active": "effc953eb0a0825c",
   "lastOpenFiles": [
+    "02_Kampagne/02_Journal/02_Journal.md",
     "02_Kampagne/02_Kampagne.md",
     "03_Assets/01_Websites/01_Websites.md",
     "02_Kampagne/01_Preperation/01_Preperation.md",
@@ -213,7 +214,6 @@
     "02_Kampagne/05_Random_Encounters/05_Random_Encounters.md",
     "05_Rules&Tipps/02_Houserules/02_Houserules.md",
     "02_Kampagne/04_Side_Quests/04_Side_Quests.md",
-    "02_Kampagne/02_Journal/02_Journal.md",
     "02_Kampagne/01_Preperation/Planer.md",
     "02_Kampagne/04_Side_Quests",
     "02_Kampagne/03_Quests/03_Quests.md",
