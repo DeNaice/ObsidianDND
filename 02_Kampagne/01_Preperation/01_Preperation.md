@@ -1,6 +1,7 @@
 
 ## Vorbereitung
 - [[Planer]]
+- [[01_Websites]]
 - [[02_Journal]]
 - [[03_Quests]]
 - [[05_Random_Encounters]]

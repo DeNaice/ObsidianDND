@@ -14,6 +14,7 @@
 - [Wonderdraft](https://www.wonderdraft.net) – Weltkarten-Software
 - [Dungeon Scrawl](https://app.dungeonscrawl.com/l) – Schnell Dungeons skizzieren
 - [Donjon RPG Tools](https://donjon.bin.sh) – Zufallskarten, NPCs, Begegnungen
+- [Azgaar’s Fantasy Map Generator](https://azgaar.github.io/Fantasy-Map-Generator/) – Zufallswelten und Karten
 
 ## 3. NPCs & Begegnungen
 - [Donjon NPC Generator](https://donjon.bin.sh/5e/npc/) – Schnelle Gegner/NSCs für Begegnungen
@@ -21,22 +22,14 @@
 ## 4. Musik & Atmosphäre
 - [Tabletop Audio](https://tabletopaudio.com) – Hintergrundmusik für D&D-Sessions
 
-## 5. Würfel & Zufall
-- [Roll20 Dice Roller](https://roll20.net/dice-roller) – Würfel online rollen
-- [Donjon Random Generators](https://donjon.bin.sh) – Zufallstabellen, Würfel, Dungeons, NPCs
-- [AnyDice](https://anydice.com) – Wahrscheinlichkeiten von Würfelergebnissen berechnen
-
-## 6. Inspiration & Foren
+## 5. Inspiration & Foren
 - [Reddit /r/DnD](https://www.reddit.com/r/DnD/) – Diskussionen, Abenteuerideen, Tipps
 - [r/DnDBehindTheScreen](https://www.reddit.com/r/DnDBehindTheScreen/) – Tipps für Meister
-- [Giant in the Playground](https://www.giantitp.com/forums/) – Foren, Homebrew, Rollenspielideen
 
-## 7. Homebrew & Kreatives
+## 6. Homebrew & Kreatives
 - [D&D Homebrew](https://www.dandwiki.com/wiki/Main_Page) – Klassen, Zauber, Items
 - [Homebrewery](https://homebrewery.naturalcrit.com/) – Eigene Bücher, Abenteuer und Items erstellen
 - [GM Binder](https://www.gmbinder.com) – Professionell aussehende Homebrew-Dokumente
 
-## 8. Abenteuer-Generatoren
-- [Donjon Adventure Generator](https://donjon.bin.sh/dnd/adventure/) – Zufallskampagnen und Szenarien
-- [Chaotic Shiny](http://chaoticshiny.com/) – Ideen für NPCs, Orte, Quests
-- [Azgaar’s Fantasy Map Generator](https://azgaar.github.io/Fantasy-Map-Generator/) – Zufallswelten und Karten
+## 7. Abenteuer-Generatoren
+-
