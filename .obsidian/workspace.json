@@ -25,17 +25,14 @@
             "id": "effc953eb0a0825c",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "02_Kampagne/01_Preperation/Visionboard.canvas",
-                "viewState": {
-                  "x": -431.5,
-                  "y": -450,
-                  "zoom": 0
-                }
+                "file": "03_Assets/01_Websites/01_Websites.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Visionboard"
+              "icon": "lucide-file",
+              "title": "01_Websites"
             }
           }
         ],
@@ -184,7 +181,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 624.5
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -208,7 +205,15 @@
   },
   "active": "effc953eb0a0825c",
   "lastOpenFiles": [
+    "03_Assets/03_Assets.md",
+    "01_Faerun/06_Races & Cultures/06_Races & Cultures.md",
+    "01_Faerun/05_Factions/05_Factions.md",
+    "01_Faerun/03_Creatures/03_Creatures.md",
+    "03_Assets/02_Maps/02_Maps.md",
+    "01_Faerun/01_Places/01_Places.md",
     "02_Kampagne/01_Preperation/Planer.md",
+    "02_Kampagne/01_Preperation/Visionboard.canvas",
+    "02_Kampagne/02_Journal/Session 0.md",
     "03_Assets/05_ETC/Zauberkarten/ZauberKarten_Rücken_A4.pdf",
     "03_Assets/05_ETC/Zauberkarten/Anleitung_ZauberKarten.pdf",
     "03_Assets/05_ETC/Zauberkarten/Zauberkarten.md",
@@ -217,29 +222,22 @@
     "03_Assets/03_Sounds/03_Sounds.md",
     "03_Assets/05_ETC/Zauberkarten",
     "03_Assets/05_ETC",
-    "02_Kampagne/01_Preperation/Visionboard.canvas",
     "03_Assets/04_Tables/04_Tables.md",
-    "02_Kampagne/02_Journal/Session 0.md",
     "02_Kampagne/02_Journal/02_Journal.md",
     "02_Kampagne/01_Preperation/01_Preperation.md",
-    "03_Assets/03_Assets.md",
     "03_Assets/01_Websites/01_Websites.md",
     "02_Kampagne/02_Kampagne.md",
-    "01_Faerun/01_Places/01_Places.md",
-    "01_Faerun/03_Creatures/03_Creatures.md",
     "01_Faerun/02_People/01_NPC´s/04_Nebencharaktere/Beregost/Darron Hiltbrand.md",
     "05_Rules&Tipps/05_Rules&Tipps.md",
     "04_Templates/04_Templates.md",
     "03_Assets/04_Tables",
     "05_Rules&Tipps/01_Core/01_Core.md",
     "01_Faerun/01_Faerun.md",
-    "01_Faerun/05_Factions/05_Factions.md",
     "01_Faerun/02_People/01_NPC´s/01_NPC´s.md",
     "01_Faerun/02_People/01_NPC´s/02_Wichtige NPC´s/02_Wichtige NPC´s.md",
     "01_Faerun/02_People/01_NPC´s/01_Questgeber/01_Questgeber.md",
     "01_Faerun/02_People/02_Player/02_Player.md",
     "01_Faerun/02_People/02_People.md",
-    "02_Kampagne/05_Random_Encounters/05_Random_Encounters.md",
     "02_Kampagne/04_Side_Quests",
     "01_Faerun/04_Items/00_None",
     "05_Rules&Tipps/03_Tipps",
