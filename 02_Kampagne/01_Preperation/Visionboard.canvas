@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"b952dc5c783cbd89","x":-720,"y":-480,"width":250,"height":60,"color":"6","type":"text","text":"Dorf Abschluss"},
+		{"id":"91d4b04967f5ef0b","x":-393,"y":-480,"width":250,"height":60,"type":"text","text":""}
+	],
+	"edges":[
+		{"id":"6edc78f9705465a6","fromNode":"b952dc5c783cbd89","fromSide":"right","toNode":"91d4b04967f5ef0b","toSide":"left"}
+	]
+}

@@ -11,14 +11,17 @@
             "id": "d186e24e243d4aa5",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "04_Templates/VillageTemplate.md",
-                "mode": "source",
-                "source": false
+                "file": "02_Kampagne/01_Preperation/Visionboard.canvas",
+                "viewState": {
+                  "x": -403.42,
+                  "y": -450,
+                  "zoom": 0
+                }
               },
-              "icon": "lucide-file",
-              "title": "VillageTemplate"
+              "icon": "lucide-layout-dashboard",
+              "title": "Visionboard"
             }
           }
         ]
@@ -213,8 +216,11 @@
       "obsidian-custom-frames:Open Giggles": false
     }
   },
-  "active": "d1a142513227de49",
+  "active": "d186e24e243d4aa5",
   "lastOpenFiles": [
+    "02_Kampagne/01_Preperation/Planer.md",
+    "02_Kampagne/01_Preperation/Visionboard.canvas",
+    "04_Templates/VillageTemplate.md",
     "05_Rules&Tipps/05_Rules&Tipps.md",
     "Untitled 1.base",
     "Untitled.base",
@@ -223,7 +229,6 @@
     "02_Kampagne/04_Side_Quests/04_Side_Quests.md",
     "02_Kampagne/02_Journal/Session 0.md",
     "02_Kampagne/02_Journal/02_Journal.md",
-    "02_Kampagne/01_Preperation/Planer.md",
     "02_Kampagne/01_Preperation/01_Preperation.md",
     "02_Kampagne/03_Quests/03_Quests.md",
     "02_Kampagne/03_Quests/Campaign Start.md",
@@ -239,7 +244,6 @@
     "05_Rules&Tipps/01_Core/01_Core.md",
     "05_Rules&Tipps/03_Tipps",
     "05_Rules&Tipps/02_Houserules",
-    "04_Templates/VillageTemplate.md",
     "04_Templates/Session Planing Board.md",
     "04_Templates/PlayerTemplate.md",
     "04_Templates/NPCTemplate.md",
@@ -252,7 +256,6 @@
     "04_Templates/CreatureTemplate.md",
     "03_Assets/02_Maps/03_Battle Maps/Arena.png",
     "Assets/Battle Maps/Arena.png",
-    "Kampagne/Quests/Side Quests/Das Fest.canvas",
-    "Untitled.canvas"
+    "Kampagne/Quests/Side Quests/Das Fest.canvas"
   ]
 }
