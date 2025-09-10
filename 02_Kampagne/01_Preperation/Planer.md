@@ -8,6 +8,7 @@ kanban-plugin: board
 
 - [ ] Fightclub
 - [ ] Auf dem Weg zum Schwarzmarkt?
+- [ ] Spieler müssen Person finden die Infos hat
 
 
 ## In Planung

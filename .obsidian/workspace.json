@@ -25,21 +25,14 @@
             "id": "effc953eb0a0825c",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "02_Kampagne/01_Preperation/Planer.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false,
-                    false
-                  ]
-                }
+                "file": "01_Faerun/01_Places/01_Places.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-trello",
-              "title": "Planer"
+              "icon": "lucide-file",
+              "title": "01_Places"
             }
           }
         ],
@@ -134,12 +127,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02_Kampagne/01_Preperation/Planer.md",
+                "file": "01_Faerun/01_Places/01_Places.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Planer"
+              "title": "Outgoing links from 01_Places"
             }
           },
           {
@@ -163,16 +156,17 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "01_Faerun/01_Places/01_Places.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of 01_Places"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -200,6 +194,9 @@
   },
   "active": "effc953eb0a0825c",
   "lastOpenFiles": [
+    "01_Faerun/03_Creatures/03_Creatures.md",
+    "01_Faerun/01_Places/01_Places.md",
+    "02_Kampagne/01_Preperation/Planer.md",
     "02_Kampagne/01_Preperation/01_Preperation.md",
     "02_Kampagne/02_Journal/Session 0.md",
     "01_Faerun/02_People/01_NPC´s/04_Nebencharaktere/Beregost/Darron Hiltbrand.md",
@@ -219,15 +216,12 @@
     "01_Faerun/02_People/01_NPC´s/01_Questgeber/01_Questgeber.md",
     "01_Faerun/02_People/02_Player/02_Player.md",
     "01_Faerun/02_People/02_People.md",
-    "01_Faerun/03_Creatures/03_Creatures.md",
     "02_Kampagne/05_Random_Encounters/05_Random_Encounters.md",
     "05_Rules&Tipps/02_Houserules/02_Houserules.md",
     "02_Kampagne/04_Side_Quests/04_Side_Quests.md",
-    "02_Kampagne/01_Preperation/Planer.md",
     "02_Kampagne/04_Side_Quests",
     "02_Kampagne/03_Quests/03_Quests.md",
     "01_Faerun/06_Races & Cultures/06_Races & Cultures.md",
-    "01_Faerun/04_Items/04_Items.md",
     "01_Faerun/04_Items/00_None",
     "05_Rules&Tipps/03_Tipps",
     "01_Faerun/02_People/01_NPC´s/04_Nebencharaktere/Beregost",
