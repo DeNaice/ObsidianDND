@@ -4,22 +4,42 @@
     "type": "split",
     "children": [
       {
-        "id": "c996ab95dee1a648",
+        "id": "51a322a03439207e",
         "type": "tabs",
         "children": [
           {
-            "id": "d186e24e243d4aa5",
+            "id": "ad24e9dc0455bf34",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "03_Assets/05_ETC/Zauberkarten/ZauberKarten_Vorder_A4.pdf"
+                "file": "01_Faerun/04_Items/01_Common/01_Common.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "ZauberKarten_Vorder_A4"
+              "icon": "lucide-file",
+              "title": "01_Common"
+            }
+          },
+          {
+            "id": "effc953eb0a0825c",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "02_Kampagne/01_Preperation/Visionboard.canvas",
+                "viewState": {
+                  "x": -431.5,
+                  "y": -450,
+                  "zoom": 0
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Visionboard"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -51,7 +71,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Dragon",
+                "query": "tag:#Quest",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -76,33 +96,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 228.5
   },
   "right": {
     "id": "89a5c9141e72ce63",
     "type": "split",
     "children": [
       {
-        "id": "3430ddabba3678a9",
+        "id": "0b0d25f08598696a",
         "type": "tabs",
         "children": [
           {
-            "id": "0b9402b5a45f292f",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
-            }
-          },
-          {
-            "id": "805fac429ccd7b31",
+            "id": "2e21ed7dd8d73050",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "A World/People/Player/Giggles.md",
+                "file": "02_Kampagne/01_Preperation/Visionboard.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,35 +122,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Giggles"
+              "title": "Backlinks for Visionboard"
             }
           },
           {
-            "id": "254a3d542e520b73",
-            "type": "leaf",
-            "state": {
-              "type": "fantasy-statblocks-creature-pane",
-              "state": {},
-              "icon": "skull",
-              "title": "Combatant"
-            }
-          },
-          {
-            "id": "0fdbf42c1437c761",
+            "id": "fad95de152fd1bf6",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Kampagne/Journal/Session 0.md",
+                "file": "02_Kampagne/01_Preperation/Visionboard.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Session 0"
+              "title": "Outgoing links from Visionboard"
             }
           },
           {
-            "id": "a01f97cecd9c0068",
+            "id": "eb48c5e509cc7502",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -155,102 +155,97 @@
             }
           },
           {
-            "id": "18065efe690e6531",
+            "id": "3cdaf78e8861b366",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Player/Templates/Session Planing Board.md",
+                "file": "02_Kampagne/01_Preperation/Visionboard.canvas",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Session Planing Board"
+              "title": "Outline of Visionboard"
             }
           },
           {
-            "id": "7c178cf4d9c2ca0d",
+            "id": "7ff5595595e9940b",
             "type": "leaf",
             "state": {
-              "type": "advanced-tables-toolbar",
+              "type": "git-view",
               "state": {},
-              "icon": "spreadsheet",
-              "title": "Advanced Tables"
-            }
-          },
-          {
-            "id": "537449bfece04c85",
-            "type": "leaf",
-            "state": {
-              "type": "custom-frames-giggles",
-              "state": {},
-              "icon": "lucide-crown",
-              "title": "Giggles"
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 624.5
   },
   "left-ribbon": {
     "hiddenItems": {
-      "bases:Create new base": false,
+      "bases:Create new base": true,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
-      "templater-obsidian:Templater": false,
       "command-palette:Open command palette": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-kanban:Create new board": false,
       "canvas:Create new canvas": false,
+      "templates:Insert template": false,
+      "templater-obsidian:Templater": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "obsidian-5e-statblocks:Open Creature pane": false,
-      "templates:Insert template": false,
-      "obsidian-custom-frames:Open Giggles": false
+      "obsidian-kanban:Create new board": false,
+      "obsidian-custom-frames:Open Babsi": false,
+      "obsidian-custom-frames:Open Giggles": false,
+      "obsidian-custom-frames:Open Marci": false,
+      "obsidian-custom-frames:Open Kenna": false,
+      "obsidian-custom-frames:Open Merlin": false
     }
   },
-  "active": "d186e24e243d4aa5",
+  "active": "effc953eb0a0825c",
   "lastOpenFiles": [
+    "02_Kampagne/01_Preperation/Planer.md",
     "03_Assets/05_ETC/Zauberkarten/ZauberKarten_Rücken_A4.pdf",
     "03_Assets/05_ETC/Zauberkarten/Anleitung_ZauberKarten.pdf",
-    "02_Kampagne/01_Preperation/Visionboard.canvas",
+    "03_Assets/05_ETC/Zauberkarten/Zauberkarten.md",
+    "03_Assets/05_ETC/05_ETC.md",
     "03_Assets/05_ETC/Zauberkarten/ZauberKarten_Vorder_A4.pdf",
+    "03_Assets/03_Sounds/03_Sounds.md",
     "03_Assets/05_ETC/Zauberkarten",
     "03_Assets/05_ETC",
-    "02_Kampagne/01_Preperation/Planer.md",
-    "04_Templates/VillageTemplate.md",
-    "05_Rules&Tipps/05_Rules&Tipps.md",
-    "Untitled 1.base",
-    "Untitled.base",
-    "Z_Hochzeit/04_Gästeliste/Untitled.md",
-    "02_Kampagne/05_Random_Encounters/05_Random_Encounters.md",
-    "02_Kampagne/04_Side_Quests/04_Side_Quests.md",
+    "02_Kampagne/01_Preperation/Visionboard.canvas",
+    "03_Assets/04_Tables/04_Tables.md",
     "02_Kampagne/02_Journal/Session 0.md",
     "02_Kampagne/02_Journal/02_Journal.md",
     "02_Kampagne/01_Preperation/01_Preperation.md",
-    "02_Kampagne/03_Quests/03_Quests.md",
-    "02_Kampagne/03_Quests/Campaign Start.md",
-    "02_Kampagne/05_Random_Encounters",
-    "02_Kampagne/04_Side_Quests",
+    "03_Assets/03_Assets.md",
+    "03_Assets/01_Websites/01_Websites.md",
     "02_Kampagne/02_Kampagne.md",
-    "02_Kampagne/02_Journal",
-    "05_Rules&Tipps/03_Tipps/03_Tipps.md",
-    "05_Rules&Tipps/02_Houserules/02_Houserules.md",
+    "01_Faerun/01_Places/01_Places.md",
+    "01_Faerun/03_Creatures/03_Creatures.md",
+    "01_Faerun/02_People/01_NPC´s/04_Nebencharaktere/Beregost/Darron Hiltbrand.md",
+    "05_Rules&Tipps/05_Rules&Tipps.md",
+    "04_Templates/04_Templates.md",
+    "03_Assets/04_Tables",
     "05_Rules&Tipps/01_Core/01_Core.md",
-    "04_Templates/Session Planing Board.md",
-    "04_Templates/PlayerTemplate.md",
-    "04_Templates/NPCTemplate.md",
-    "04_Templates/QuestTemplate.md",
-    "04_Templates/MagicItemTemplate.md",
-    "04_Templates/DM SCREEN.md",
-    "04_Templates/JournalTemplate.md",
-    "04_Templates/LocationTemplate.md",
-    "04_Templates/Homepage.md",
-    "04_Templates/CreatureTemplate.md",
+    "01_Faerun/01_Faerun.md",
+    "01_Faerun/05_Factions/05_Factions.md",
+    "01_Faerun/02_People/01_NPC´s/01_NPC´s.md",
+    "01_Faerun/02_People/01_NPC´s/02_Wichtige NPC´s/02_Wichtige NPC´s.md",
+    "01_Faerun/02_People/01_NPC´s/01_Questgeber/01_Questgeber.md",
+    "01_Faerun/02_People/02_Player/02_Player.md",
+    "01_Faerun/02_People/02_People.md",
+    "02_Kampagne/05_Random_Encounters/05_Random_Encounters.md",
+    "02_Kampagne/04_Side_Quests",
+    "01_Faerun/04_Items/00_None",
+    "05_Rules&Tipps/03_Tipps",
+    "01_Faerun/02_People/01_NPC´s/04_Nebencharaktere/Beregost",
+    "Untitled.canvas",
     "03_Assets/02_Maps/03_Battle Maps/Arena.png",
-    "Assets/Battle Maps/Arena.png",
     "Kampagne/Quests/Side Quests/Das Fest.canvas"
   ]
 }
