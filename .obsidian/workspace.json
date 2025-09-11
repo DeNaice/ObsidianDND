@@ -197,6 +197,10 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-custom-frames:Open Babsi": false,
+      "obsidian-custom-frames:Open Kenna": false,
+      "obsidian-custom-frames:Open Marci": false,
+      "obsidian-custom-frames:Open Merlin": false,
       "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
