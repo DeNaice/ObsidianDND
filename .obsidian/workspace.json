@@ -25,14 +25,12 @@
             "id": "effc953eb0a0825c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "03_Assets/01_Websites/01_Websites.md",
-                "mode": "source",
-                "source": false
+                "file": "03_Assets/One_Shots/Sheep Chase/892902-The_Wild_Sheep_Chase_V2.pdf"
               },
-              "icon": "lucide-file",
-              "title": "01_Websites"
+              "icon": "lucide-file-text",
+              "title": "892902-The_Wild_Sheep_Chase_V2"
             }
           }
         ],
@@ -181,7 +179,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 255.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -205,8 +203,21 @@
   },
   "active": "7ff5595595e9940b",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
+    "03_Assets/One_Shots/Sheep Chase/892902-Sheep_Chase_Map.pdf",
+    "03_Assets/One_Shots/Sheep Chase/Sheep Chase.md",
+    "03_Assets/One_Shots/Sheep Chase/892902-The_Wild_Sheep_Chase_V2.pdf",
+    "03_Assets/One_Shots/A most Potent Brew/892902-A_Most_Potent_Brew.pdf",
+    "03_Assets/One_Shots/A most Potent Brew/A most Potent Brew.md",
+    "03_Assets/One_Shots/One_Shots.md",
+    "03_Assets/One_Shots/Sheep Chase",
+    "03_Assets/One_Shots/A most Potent Brew/892902-A_Potent_Brew_Printer_Friendly.pdf",
+    "03_Assets/One_Shots/A most Potent Brew/892902-A_Potent_Brew_Map.pdf",
+    "03_Assets/One_Shots/A most Potent Brew/892902-A_Most_Potent_Brew_Player_Handout.pdf",
     "03_Assets/03_Assets.md",
+    "03_Assets/One_Shots/A most Potent Brew",
+    "03_Assets/One_Shots",
+    "03_Assets/01_Websites/01_Websites.md",
+    "conflict-files-obsidian-git.md",
     "01_Faerun/06_Races & Cultures/06_Races & Cultures.md",
     "01_Faerun/05_Factions/05_Factions.md",
     "01_Faerun/03_Creatures/03_Creatures.md",
@@ -216,32 +227,18 @@
     "02_Kampagne/01_Preperation/Visionboard.canvas",
     "02_Kampagne/02_Journal/Session 0.md",
     "03_Assets/05_ETC/Zauberkarten/ZauberKarten_Rücken_A4.pdf",
-    "03_Assets/05_ETC/Zauberkarten/Anleitung_ZauberKarten.pdf",
     "03_Assets/05_ETC/Zauberkarten/Zauberkarten.md",
     "03_Assets/05_ETC/05_ETC.md",
-    "03_Assets/05_ETC/Zauberkarten/ZauberKarten_Vorder_A4.pdf",
     "03_Assets/03_Sounds/03_Sounds.md",
-    "03_Assets/05_ETC/Zauberkarten",
-    "03_Assets/05_ETC",
     "03_Assets/04_Tables/04_Tables.md",
     "02_Kampagne/02_Journal/02_Journal.md",
     "02_Kampagne/01_Preperation/01_Preperation.md",
-    "03_Assets/01_Websites/01_Websites.md",
     "02_Kampagne/02_Kampagne.md",
     "01_Faerun/02_People/01_NPC´s/04_Nebencharaktere/Beregost/Darron Hiltbrand.md",
     "05_Rules&Tipps/05_Rules&Tipps.md",
     "04_Templates/04_Templates.md",
-    "03_Assets/04_Tables",
     "05_Rules&Tipps/01_Core/01_Core.md",
     "01_Faerun/01_Faerun.md",
-    "01_Faerun/02_People/01_NPC´s/01_NPC´s.md",
-    "01_Faerun/02_People/01_NPC´s/02_Wichtige NPC´s/02_Wichtige NPC´s.md",
-    "01_Faerun/02_People/01_NPC´s/01_Questgeber/01_Questgeber.md",
-    "01_Faerun/02_People/02_Player/02_Player.md",
-    "02_Kampagne/04_Side_Quests",
-    "01_Faerun/04_Items/00_None",
-    "05_Rules&Tipps/03_Tipps",
-    "01_Faerun/02_People/01_NPC´s/04_Nebencharaktere/Beregost",
     "Untitled.canvas",
     "03_Assets/02_Maps/03_Battle Maps/Arena.png",
     "Kampagne/Quests/Side Quests/Das Fest.canvas"
