@@ -20,21 +20,8 @@
               "icon": "lucide-file",
               "title": "01_Common"
             }
-          },
-          {
-            "id": "effc953eb0a0825c",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "03_Assets/One_Shots/Sheep Chase/892902-The_Wild_Sheep_Chase_V2.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "892902-The_Wild_Sheep_Chase_V2"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -201,10 +188,11 @@
       "obsidian-custom-frames:Open Merlin": false
     }
   },
-  "active": "effc953eb0a0825c",
+  "active": "ad24e9dc0455bf34",
   "lastOpenFiles": [
-    "03_Assets/One_Shots/Sheep Chase/892902-Sheep_Chase_Map.pdf",
     "03_Assets/One_Shots/Sheep Chase/892902-The_Wild_Sheep_Chase_V2.pdf",
+    "01_Faerun/04_Items/01_Common/01_Common.md",
+    "03_Assets/One_Shots/Sheep Chase/892902-Sheep_Chase_Map.pdf",
     "03_Assets/One_Shots/Sheep Chase/Sheep Chase.md",
     "03_Assets/One_Shots/A most Potent Brew/892902-A_Most_Potent_Brew.pdf",
     "03_Assets/One_Shots/A most Potent Brew/A most Potent Brew.md",
@@ -238,7 +226,6 @@
     "05_Rules&Tipps/05_Rules&Tipps.md",
     "04_Templates/04_Templates.md",
     "05_Rules&Tipps/01_Core/01_Core.md",
-    "01_Faerun/01_Faerun.md",
     "Untitled.canvas",
     "03_Assets/02_Maps/03_Battle Maps/Arena.png",
     "Kampagne/Quests/Side Quests/Das Fest.canvas"
