@@ -250,3 +250,5 @@ Nachdem Nokes Schergen besiegt, abgelenkt oder anderweitig außer Gefecht gesetz
   - Vorteil auf **Stealth** während der Verwandlung, Nachteil auf **Charisma (Persuasion)**.  
 - **Flavor:** Ideal, um sich zu verstecken, durch kleine Lücken zu kriechen oder NPCs zu verwirren.  
 - **Komik-Option:** Jedes Mal, wenn man spricht, ertönt ein leises „Baaah“.  
+
+-> RING GEHT AN MARCI

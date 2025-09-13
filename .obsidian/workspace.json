@@ -25,16 +25,17 @@
             "id": "bd43187166edf4dd",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "03_Assets/One_Shots/Sheep Chase/892902-The_Wild_Sheep_Chase_V2.pdf"
+                "file": "01_Faerun/04_Items/06_Artifact/Evangelium der Leere.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "892902-The_Wild_Sheep_Chase_V2"
+              "icon": "lucide-file",
+              "title": "Evangelium der Leere"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -242,10 +243,16 @@
       "obsidian-custom-frames:Open Giggles": false
     }
   },
-  "active": "bd43187166edf4dd",
+  "active": "b52de8623a4dcb16",
   "lastOpenFiles": [
-    "03_Assets/One_Shots/Sheep Chase/Sheep Chase.md",
+    "01_Faerun/04_Items/06_Artifact/Evangelium der Leere.md",
+    "01_Faerun/04_Items/06_Artifact/06_Artifact.md",
+    "01_Faerun/04_Items/05_Legendary/05_Legendary.md",
+    "01_Faerun/01_Faerun.md",
+    "02_Kampagne/02_Kampagne.md",
+    "02_Kampagne/01_Preperation/01_Preperation.md",
     "03_Assets/One_Shots/Sheep Chase/892902-The_Wild_Sheep_Chase_V2.pdf",
+    "03_Assets/One_Shots/Sheep Chase/Sheep Chase.md",
     "03_Assets/01_Websites/01_Websites.md",
     "03_Assets/03_Assets.md",
     "03_Assets/One_Shots/One_Shots.md",
@@ -261,8 +268,6 @@
     "02_Kampagne/01_Preperation/Visionboard.canvas",
     "03_Assets/One_Shots/A most Potent Brew",
     "03_Assets/One_Shots",
-    "02_Kampagne/02_Kampagne.md",
-    "02_Kampagne/01_Preperation/01_Preperation.md",
     "03_Assets/04_Tables/04_Tables.md",
     "03_Assets/05_ETC/Zauberkarten/ZauberKarten_Vorder_A4.pdf",
     "03_Assets/05_ETC/Zauberkarten/Zauberkarten.md",
@@ -277,9 +282,6 @@
     "02_Kampagne/02_Journal/02_Journal.md",
     "02_Kampagne/03_Quests/Campaign Start.md",
     "05_Rules&Tipps/03_Tipps/03_Tipps.md",
-    "05_Rules&Tipps/02_Houserules/02_Houserules.md",
-    "05_Rules&Tipps/01_Core/01_Core.md",
-    "04_Templates/Session Planing Board.md",
     "03_Assets/02_Maps/03_Battle Maps/Arena.png",
     "Assets/Battle Maps/Arena.png",
     "Kampagne/Quests/Side Quests/Das Fest.canvas"
