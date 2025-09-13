@@ -82,6 +82,28 @@ Die Gruppe kann die Situation mit verschiedenen Würfen lösen:
 
 ## Encounter mit Gus
 
+### Shinebright – Hintergrund und Rettung
+
+Nachdem Nokes Schergen besiegt, abgelenkt oder anderweitig außer Gefecht gesetzt wurden, fleht **Shinebright** die Gruppe um Hilfe an. Ohne ihre Unterstützung ist er verloren, da Noke noch viele Wächter hat, die früher oder später ihn finden werden.
+
+### Motivationen
+- Wenn die Gruppe eher **geldgierig** ist, betont Shinebright, dass er in seiner wahren Form ein **mächtiger und wohlhabender Zauberer** ist und **große Belohnungen** verspricht.  
+- Er ist bereit, **Deals einzugehen**, auch wenn er sie nicht wirklich erfüllen kann.
+
+### Hintergrundgeschichte
+- **Wohnort:** Bis vor zwei Jahren besaß und arbeitete er in einem Turm am Stadtrand.  
+- **Fähigkeiten:** Talentierter Zauberer, spezialisiert auf **Verwandlungsmagie (Transmutation)**.  
+- **Besitz:** Sein wertvollster Gegenstand war die **seltene „Wand der wahren Verwandlung“**, vermutlich Schlüssel zu seinem Erfolg.  
+
+### Verrat und Gefangenschaft
+- Eines Nachts verließ er seine **meditative Trance** und fand seinen Lehrling, **Ahmed Noke**, über sich stehend mit der gestohlenen Wand.  
+- Shinebright verlangte Erklärungen, doch der Lehrling konnte nur ein wütendes „Baaaaah“ von sich geben.  
+- Der Zauberer wurde zu einem **Gefangenen im eigenen Garten**: Er musste sich von Gras und Butterblumen ernähren, während **hungrige Wölfe und andere Tiere** (verwandelte Wächter) zusahen.  
+
+### Hoffnungsschimmer
+- Letzte Nacht ergab sich eine Gelegenheit: Noke verließ sein Haus **ohne die Tür zu schließen**.  
+- Shinebright schlich sich hinein, **stahl das „Scroll of Speak to Animals“** von einem alten Bücherregal und floh in die Stadt.  
+- Er suchte verzweifelt nach der **magischen Aura** eines Zauberers, der den Spruch aktivieren konnte, und stieß dabei auf die Gruppe.
 
 
 ## 🐑 Wichtige NSCs
@@ -111,15 +133,32 @@ Die Gruppe kann die Situation mit verschiedenen Würfen lösen:
   2. **Mittlere Plattform**: Bibliothek, Labor, Wohnräume. Bücher, Notizen, Diagramme.
   3. **Oberste Plattform**: Schlafzimmer Nokes, mit Bett und Truhe.
 
----
+
+
+## Haus von Finethir
+
+
+>Nicht aus Stein oder Glas, sondern aus den lebenden Ästen von vier kräftigen Eichen scheint das Haus vor dir geformt zu sein. Diese wurden geformt und verflochten, sodass drei massive Plattformen entstanden sind. Die niedrigste dieser Plattformen misst ungefähr 12 Meter im Durchmesser und befindet sich etwa 3 Meter über dem Boden. Der einzige erkennbare Aufgang ist eine sanfte Rampe aus Wurzeln und Ästen, die sich ungefähr mit dem Hauptweg verbindet. Um die Basis winden sich Äste, die eine grobe Schalenform bilden. Von deinem Standpunkt aus kannst du Blumen und kleine Bäume erkennen, die am Rand wachsen.
+
+>Bei weitem die größte der drei Plattformen ist die mittlere, die ungefähr 18 Meter im Durchmesser misst. Sie befindet sich etwa 6 Meter über dem Boden und ist vollständig von einer Wand aus sich windenden Ästen umschlossen. Gleichmäßig verteilte, fenstergroße Öffnungen sind sichtbar, ebenso wie eine Art Tür an der Stelle, die dem Gartenpodest am nächsten liegt.
+
+>Die oberste und letzte Plattform befindet sich rund 9 Meter über dem Boden und ist deutlich kleiner als die anderen. Sie scheint durch eine weitere kleine Rampe mit der mittleren Plattform verbunden zu sein.
+
+>>Unter den Plattformen sind verstreut zwei kleine Holzhütten sowie ein großes Nebengebäude zu sehen.
+
+
+
+
+
 
 ## ⚔️ Begegnungen & Kämpfe
+
 ### Begegnung 1: Guz in der Stadt
 - Kampf oder Verhandlung.
 - Ziel: Shinebright schnappen.
 
-### Begegnung 2: Wachen im Turm
-- Apes mit Großschwertern.
+### Begegnung 2: Wachen im Feld
+- Apes mit Großschwertern im Boden.
 - Bär im Nebengebäude.
 
 ### Bosskampf: Ahmed Noke

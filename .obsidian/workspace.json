@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "Sheep Chase"
             }
+          },
+          {
+            "id": "3aebb3d6caf319ad",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "03_Assets/One_Shots/Sheep Chase/892902-The_Wild_Sheep_Chase_V2.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "892902-The_Wild_Sheep_Chase_V2"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -193,37 +206,6 @@
     "type": "floating",
     "children": [
       {
-        "id": "aae507831ef36d4d",
-        "type": "window",
-        "children": [
-          {
-            "id": "035bc6d8797dba50",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "8d372f90b1ef6bc3",
-                "type": "leaf",
-                "state": {
-                  "type": "pdf",
-                  "state": {
-                    "file": "03_Assets/One_Shots/Sheep Chase/892902-The_Wild_Sheep_Chase_V2.pdf"
-                  },
-                  "icon": "lucide-file-text",
-                  "title": "892902-The_Wild_Sheep_Chase_V2"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 2048,
-        "y": 566,
-        "width": 1080,
-        "height": 985,
-        "maximize": false,
-        "zoom": 0
-      },
-      {
         "id": "a40c81ea49767047",
         "type": "window",
         "children": [
@@ -258,11 +240,11 @@
       }
     ]
   },
-  "active": "8d372f90b1ef6bc3",
+  "active": "3aebb3d6caf319ad",
   "lastOpenFiles": [
     "03_Assets/One_Shots/Sheep Chase/Sheep Chase.md",
-    "03_Assets/One_Shots/Sheep Chase/892902-The_Wild_Sheep_Chase_V2.pdf",
     "03_Assets/One_Shots/Sheep Chase/892902-Sheep_Chase_Map.pdf",
+    "03_Assets/One_Shots/Sheep Chase/892902-The_Wild_Sheep_Chase_V2.pdf",
     "03_Assets/01_Websites/01_Websites.md",
     "03_Assets/03_Assets.md",
     "01_Faerun/02_People/01_NPC´s/01_Questgeber/Hauptquest/Corven Dargan.md",
