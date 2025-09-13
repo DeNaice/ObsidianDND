@@ -25,6 +25,8 @@ Ein verzweifeltes **Schaf** (eigentlich der Elf-Wizard *Finethir Shinebright*) b
 ## 🚪 Einstieg
 
 
+Die Goldene Sonne Gasthaus - 
+
 
 >Ein lautes Heulen erfüllt die Luft, begleitet vom Lärm wütender Rufe und gelegentlichen Schreien, die immer näher zu kommen scheinen. Die Ursache wird schnell klar, als ein riesiger Halb-Ork heranstolziert. Vor ihm laufen offenbar große Wölfe mit eisernen Halsbändern, während eine massige Gestalt in einem schmutzig-braunen Umhang in seinem Gefolge mit so schweren Schritten marschiert, dass man sie über das Tosen hinweg hören kann. Der Halb-Ork fixiert dich mit seinen kleinen Augen und schreitet voran, eine Hand auf dem Knauf eines Großschwerts.  
  „Dieses Schaf gehört Meister Noke … er verlangt es zurück.“
