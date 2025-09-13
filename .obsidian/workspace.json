@@ -8,32 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ad24e9dc0455bf34",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01_Faerun/02_People/01_NPC´s/01_Questgeber/Hauptquest/Corven Dargan.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Corven Dargan"
-            }
-          },
-          {
-            "id": "8d372f90b1ef6bc3",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "03_Assets/One_Shots/Sheep Chase/892902-The_Wild_Sheep_Chase_V2.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "892902-The_Wild_Sheep_Chase_V2"
-            }
-          },
-          {
             "id": "45bcd369a09e3e5b",
             "type": "leaf",
             "state": {
@@ -47,8 +21,7 @@
               "title": "Sheep Chase"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -216,11 +189,48 @@
       "obsidian-custom-frames:Open Merlin": false
     }
   },
+  "floating": {
+    "id": "baedf843bc308b4e",
+    "type": "floating",
+    "children": [
+      {
+        "id": "aae507831ef36d4d",
+        "type": "window",
+        "children": [
+          {
+            "id": "035bc6d8797dba50",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "8d372f90b1ef6bc3",
+                "type": "leaf",
+                "state": {
+                  "type": "pdf",
+                  "state": {
+                    "file": "03_Assets/One_Shots/Sheep Chase/892902-The_Wild_Sheep_Chase_V2.pdf"
+                  },
+                  "icon": "lucide-file-text",
+                  "title": "892902-The_Wild_Sheep_Chase_V2"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 2048,
+        "y": 566,
+        "width": 1080,
+        "height": 985,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
   "active": "45bcd369a09e3e5b",
   "lastOpenFiles": [
-    "03_Assets/One_Shots/Sheep Chase/892902-The_Wild_Sheep_Chase_V2.pdf",
     "01_Faerun/02_People/01_NPC´s/01_Questgeber/Hauptquest/Corven Dargan.md",
     "03_Assets/One_Shots/Sheep Chase/Sheep Chase.md",
+    "03_Assets/One_Shots/Sheep Chase/892902-The_Wild_Sheep_Chase_V2.pdf",
     "01_Faerun/02_People/01_NPC´s/01_Questgeber/Hauptquest/Hauptquest.md",
     "01_Faerun/02_People/01_NPC´s/01_NPC´s.md",
     "01_Faerun/02_People/02_People.md",
