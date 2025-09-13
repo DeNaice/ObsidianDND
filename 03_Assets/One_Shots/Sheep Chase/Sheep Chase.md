@@ -150,7 +150,6 @@ Nachdem Nokes Schergen besiegt, abgelenkt oder anderweitig außer Gefecht gesetz
 
 
 
-
 ## ⚔️ Begegnungen & Kämpfe
 
 ### Begegnung 1: Guz in der Stadt
@@ -161,12 +160,17 @@ Nachdem Nokes Schergen besiegt, abgelenkt oder anderweitig außer Gefecht gesetz
 - Apes mit Großschwertern im Boden.
 - Bär im Nebengebäude.
 
+# Im Turm 
+
 ### Bosskampf: Ahmed Noke
 - Bufft seine Kreaturen (*Enlarge/Reduce*, *Haste*, *Slow*).
 - Flieht ins Schlafzimmer → **True Polymorph auf Bett** → erschafft **Bed Dragon Wyrmling**.
 - Wenn Wyrmling besiegt oder Konzentration bricht: Noke setzt Wand auf sich selbst → wird zum **Gibbering Mouther**.
 
 ---
+
+
+
 
 ## 🪄 Magische Objekte
 ### Modifizierter Wand of True Polymorph
@@ -179,7 +183,7 @@ Nachdem Nokes Schergen besiegt, abgelenkt oder anderweitig außer Gefecht gesetz
 ---
 
 ## 🎲 Spielerentscheidungen & Folgen
-- **Rettung Shinebrights** → bleibt egozentrisch, aber dankbar. Bietet transmutative Dienste.
+- **Rettung Shinebrights** → bleibt egozentrisch, aber dankbar. Bietet transmutative Dienste an.
 - **Fehlschlag** → Shinebright stirbt oder bleibt Schaf, Party kann Turm übernehmen (Wert ca. 1.000 GP).
 - **Wand nutzen?**
   - Erfolg → Shinebright zurück.
@@ -217,6 +221,17 @@ Nachdem Nokes Schergen besiegt, abgelenkt oder anderweitig außer Gefecht gesetz
 - Schwäche: Feuer
 
 ### Gibbering Mouther (Noke)
+
+>Plötzlich flimmert die Luft um ihn, und ein wildes, knackendes Knistern erfüllt den Raum. Der Stab vibriert unkontrollierbar in seiner Hand, magische Energie jagt durch seinen Körper, zu schnell, zu stark, zu chaotisch.  
+
+>Sein Blick verschwimmt, Arme und Beine verlieren jede erkennbare Form, das Gesicht verzerrt sich auf unheimliche Weise. Panik durchfährt ihn, ein verzweifeltes Aufschreien bleibt im Hals stecken.  
+
+>Dann ein schreckliches, glitschiges Geräusch: Sein Körper verschmilzt zu einer wirbelnden, zähflüssigen Masse, übersät mit unzähligen Augen und Zähnen, die sich unkontrolliert bewegen. Ein endloses, wirres Murmeln und Stöhnen erfüllt die Umgebung.  
+
+>Was einst ein Mensch war, ist nun ein **Gibbering Mouther** – ein lebender Alptraum aus Fleisch und Wahnsinn. 
+
+> Und sie greift euch an
+
 - MM p. 157
 
 ---
@@ -227,3 +242,14 @@ Nachdem Nokes Schergen besiegt, abgelenkt oder anderweitig außer Gefecht gesetz
   - Hat Noke recht, dass Shinebright ihn nie ernst nahm?
   - Verdient Shinebright Rettung?
   - Was passiert, wenn Macht falsch genutzt wird?
+
+## Items
+
+### 1. Ring des Schafes
+- **Typ:** Wundersamer Ring, Selten  
+- **Beschreibung:** Ein einfacher Silberring mit einem kleinen Schaffell-Einlegeplättchen.  
+- **Effekt:**  
+  - Träger kann **1x/Tag** für 10 Minuten die Form eines Schafs annehmen (wie *Polymorph*, aber nur auf Schaf).  
+  - Vorteil auf **Stealth** während der Verwandlung, Nachteil auf **Charisma (Persuasion)**.  
+- **Flavor:** Ideal, um sich zu verstecken, durch kleine Lücken zu kriechen oder NPCs zu verwirren.  
+- **Komik-Option:** Jedes Mal, wenn man spricht, ertönt ein leises „Baaah“.  
