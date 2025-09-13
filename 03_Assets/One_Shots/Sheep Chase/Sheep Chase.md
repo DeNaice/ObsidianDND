@@ -11,10 +11,16 @@ Eine komplette Abenteuer-Zusammenfassung für Obsidian.
 Ein verzweifeltes **Schaf** (eigentlich der Elf-Wizard *Finethir Shinebright*) bittet die Helden um Hilfe. Sein Ex-Lehrling **Ahmed Noke** hat ihn per *True Polymorph* verwandelt und beansprucht seine Macht. Ziel: Shinebright befreien, Noke aufhalten, das Schicksal des modifizierten *Wands of True Polymorph* entscheiden.
 
 ---
+## Recap 
+
+- Spieler waren auf der Durchreise als sie auf einmal von Wachen gefangen genommen und wurden angeklagt ein sehr wichtiges Artefakt gestohlen zu haben
+- In einem Prozess haben sie erfolgreich bewiesen, dass sie Unschuldig sind
+- Nachdem ihr eure Unschuld bewiesen habt, habt ihr den Auftrag bekommen, das Buch zurückzuholen
+- Als Entschädigung eurer Mühen und falschen Anklage wird euch eine Party versprochen mit Frauen / Männer und Alkohol
+- **Gerne hätte ich die Feier mit euch als Session gehabt, da wir aber einen Neuling haben habe ich mich dazu entschieden aus der heutigen Sitzung eher eine 
+
 
 ## 🚪 Einstieg
-
-## Recap 
 
 
 
