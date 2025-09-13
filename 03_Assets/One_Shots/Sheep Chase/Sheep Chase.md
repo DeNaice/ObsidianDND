@@ -124,8 +124,7 @@ Nachdem Nokes Schergen besiegt, abgelenkt oder anderweitig außer Gefecht gesetz
 - Mensch, ehem. Lehrling Shinebrights.
 - Fühlt sich ausgebremst und unterdrückt.
 - Paranoid, voller Schuld und Machtstreben.
-- Hüter des **modifizierten Wands of True Polymorph**.
-
+- Hüter des **modifizierten Wands of True Polymorph**
 ---
 
 ## 🏰 Hauptort: Nokes Baumhaus-Turm
@@ -135,10 +134,7 @@ Nachdem Nokes Schergen besiegt, abgelenkt oder anderweitig außer Gefecht gesetz
   2. **Mittlere Plattform**: Bibliothek, Labor, Wohnräume. Bücher, Notizen, Diagramme.
   3. **Oberste Plattform**: Schlafzimmer Nokes, mit Bett und Truhe.
 
-
-
 ## Haus von Finethir
-
 
 >Nicht aus Stein oder Glas, sondern aus den lebenden Ästen von vier kräftigen Eichen scheint das Haus vor dir geformt zu sein. Diese wurden geformt und verflochten, sodass drei massive Plattformen entstanden sind. Die niedrigste dieser Plattformen misst ungefähr 12 Meter im Durchmesser und befindet sich etwa 3 Meter über dem Boden. Der einzige erkennbare Aufgang ist eine sanfte Rampe aus Wurzeln und Ästen, die sich ungefähr mit dem Hauptweg verbindet. Um die Basis winden sich Äste, die eine grobe Schalenform bilden. Von deinem Standpunkt aus kannst du Blumen und kleine Bäume erkennen, die am Rand wachsen.
 
@@ -147,9 +143,6 @@ Nachdem Nokes Schergen besiegt, abgelenkt oder anderweitig außer Gefecht gesetz
 >Die oberste und letzte Plattform befindet sich rund 9 Meter über dem Boden und ist deutlich kleiner als die anderen. Sie scheint durch eine weitere kleine Rampe mit der mittleren Plattform verbunden zu sein.
 
 >>Unter den Plattformen sind verstreut zwei kleine Holzhütten sowie ein großes Nebengebäude zu sehen.
-
-
-
 
 
 ## ⚔️ Begegnungen & Kämpfe
