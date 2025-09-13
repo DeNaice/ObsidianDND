@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d186e24e243d4aa5",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "03_Assets/05_ETC/Zauberkarten/ZauberKarten_Vorder_A4.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "ZauberKarten_Vorder_A4"
-            }
-          },
-          {
             "id": "b52de8623a4dcb16",
             "type": "leaf",
             "state": {
@@ -32,9 +20,20 @@
               "icon": "lucide-file",
               "title": "Sheep Chase"
             }
+          },
+          {
+            "id": "6a3cd8f7abeba4d1",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "03_Assets/One_Shots/Sheep Chase/892902-The_Wild_Sheep_Chase_V2.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "892902-The_Wild_Sheep_Chase_V2"
+            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -232,12 +231,12 @@
   },
   "active": "b52de8623a4dcb16",
   "lastOpenFiles": [
+    "03_Assets/One_Shots/Sheep Chase/892902-The_Wild_Sheep_Chase_V2.pdf",
+    "03_Assets/One_Shots/Sheep Chase/Sheep Chase.md",
     "03_Assets/One_Shots/One_Shots.md",
     "03_Assets/03_Assets.md",
     "02_Kampagne/03_Quests/03_Quests.md",
     "conflict-files-obsidian-git.md",
-    "03_Assets/One_Shots/Sheep Chase/Sheep Chase.md",
-    "03_Assets/One_Shots/Sheep Chase/892902-The_Wild_Sheep_Chase_V2.pdf",
     "03_Assets/One_Shots/Sheep Chase/892902-Sheep_Chase_Map.pdf",
     "03_Assets/One_Shots/Sheep Chase",
     "03_Assets/One_Shots/A most Potent Brew/892902-A_Potent_Brew_Printer_Friendly.pdf",

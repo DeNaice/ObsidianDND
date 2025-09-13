@@ -26,7 +26,7 @@ Ein verzweifeltes **Schaf** (eigentlich der Elf-Wizard *Finethir Shinebright*) b
 
 
 
->Ein lautes Heulen erfüllt die Luft, begleitet vom Lärm wütender Rufe und gelegentlichen Schreien, die immer näher zu kommen scheinen. Die Ursache wird schnell klar, als ein riesiger Halb-Ork heranstolziert, der sich ohne Rücksicht durch die Menge drängt. Vor ihm laufen offenbar große Wölfe mit eisernen Halsbändern, während eine massige Gestalt in einem schmutzig-braunen Umhang in seinem Gefolge mit so schweren Schritten marschiert, dass man sie über das Tosen hinweg hören kann. Der Halb-Ork fixiert dich mit seinen kleinen Augen und schreitet voran, eine Hand auf dem Knauf eines Großschwerts.  
+>Ein lautes Heulen erfüllt die Luft, begleitet vom Lärm wütender Rufe und gelegentlichen Schreien, die immer näher zu kommen scheinen. Die Ursache wird schnell klar, als ein riesiger Halb-Ork heranstolziert. Vor ihm laufen offenbar große Wölfe mit eisernen Halsbändern, während eine massige Gestalt in einem schmutzig-braunen Umhang in seinem Gefolge mit so schweren Schritten marschiert, dass man sie über das Tosen hinweg hören kann. Der Halb-Ork fixiert dich mit seinen kleinen Augen und schreitet voran, eine Hand auf dem Knauf eines Großschwerts.  
  „Dieses Schaf gehört Meister Noke … er verlangt es zurück.“
 
 
@@ -97,7 +97,7 @@ Nachdem Nokes Schergen besiegt, abgelenkt oder anderweitig außer Gefecht gesetz
 
 ### Verrat und Gefangenschaft
 - Eines Nachts verließ er seine **meditative Trance** und fand seinen Lehrling, **Ahmed Noke**, über sich stehend mit der gestohlenen Wand.  
-- Shinebright verlangte Erklärungen, doch der Lehrling konnte nur ein wütendes „Baaaaah“ von sich geben.  
+- Shinebright verlangte Erklärungen, doch der Lehrer konnte nur ein wütendes „Baaaaah“ von sich geben.  
 - Der Zauberer wurde zu einem **Gefangenen im eigenen Garten**: Er musste sich von Gras und Butterblumen ernähren, während **hungrige Wölfe und andere Tiere** (verwandelte Wächter) zusahen.  
 
 ### Hoffnungsschimmer
