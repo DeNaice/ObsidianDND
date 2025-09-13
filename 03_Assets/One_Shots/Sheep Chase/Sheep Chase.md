@@ -127,6 +127,7 @@ Nachdem Nokes Schergen besiegt, abgelenkt oder anderweitig außer Gefecht gesetz
 - Hüter des **modifizierten Wands of True Polymorph**
 ---
 
+
 ## 🏰 Hauptort: Nokes Baumhaus-Turm
 - Gelegen südöstlich der Stadt.
 - Aus lebenden Eichen geformt → drei Plattformen:
