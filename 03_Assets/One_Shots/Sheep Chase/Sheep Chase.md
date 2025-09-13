@@ -17,7 +17,8 @@ Ein verzweifeltes **Schaf** (eigentlich der Elf-Wizard *Finethir Shinebright*) b
 - In einem Prozess haben sie erfolgreich bewiesen, dass sie Unschuldig sind
 - Nachdem ihr eure Unschuld bewiesen habt, habt ihr den Auftrag bekommen, das Buch zurückzuholen
 - Als Entschädigung eurer Mühen und falschen Anklage wird euch eine Party versprochen mit Frauen / Männer und Alkohol
-- **Gerne hätte ich die Feier mit euch als Session gehabt, da wir aber einen Neuling haben habe ich mich dazu entschieden aus der heutigen Sitzung eher eine 
+- **Gerne hätte ich die Feier mit euch heute als Session gehabt, da wir aber einen Neuling haben habe ich mich dazu entschieden aus der heutigen Sitzung eher eine One Shot zu gestalten** 
+- 
 
 
 ## 🚪 Einstieg
