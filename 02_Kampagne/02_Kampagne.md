@@ -1,4 +1,5 @@
 - [[Planer]]
+- [[Visionboard.canvas|Visionboard]] 
 - [[01_Preperation]]
 - [[02_Journal]]
 - [[03_Quests]]
