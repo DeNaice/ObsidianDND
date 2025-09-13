@@ -65,17 +65,24 @@ Die Gruppe kann die Situation mit verschiedenen Würfen lösen:
 
 ---
 
-### 🧩 Ziel für den Plot
-- Rogue wird als **gierig, aber charmant** eingeführt.  
-- Gruppe hat einen Grund, ihn mitzunehmen („der Typ ist verrückt, aber nützlich“).  
-
+## Beginn
 - Die Party hat Pause → Ein **Schaf mit Schriftrolle** rennt auf sie zu.
 - Schriftrolle: *Speak with Animals* → ermöglicht Kommunikation.
 - Das Schaf stellt sich als **Finethir Shinebright** vor, bittet um Hilfe.
+
+## Encounter mit Finethir 
+
+- Bitte HE-E-E-E-lft mir ich wurde in ein Schaf verwandelt
+- Oh N-E-E-E-E-I-N sie kommen um mich zu holen
+
 - Kurz darauf: Angriff von **Guz** (Halb-Ork), seinen **Wölfen** (polymorphe Menschen) und einem **Braunbär**.
 - Guz will das „Schaf zurückbringen“ – notfalls mit Gewalt.
 
 ---
+
+## Encounter mit Gus
+
+
 
 ## 🐑 Wichtige NSCs
 
