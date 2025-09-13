@@ -30,6 +30,45 @@ Ein verzweifeltes **Schaf** (eigentlich der Elf-Wizard *Finethir Shinebright*) b
  „Dieses Schaf gehört Meister Noke … er verlangt es zurück.“
 
 
+## 💰 Encounter: Die Geldbörse im Streit
+
+### 📍 Setting
+- Ort: Taverne, während die Gruppe am Tisch sitzt.
+- Stimmung: Laut, geschäftig, ein Bauer beschwert sich beim Wirt.
+
+---
+
+### 🎭 Einstieg
+Ein aufgebrachter Bauer brüllt:  
+*"Der Kerl da hat mir meine Münze geklaut!"* – und zeigt auf den Rogue.  
+
+- Der Rogue hat tatsächlich eine Münze in der Hand.  
+- Seine Behauptung: Er habe sie nur **gefunden** – „Finderlohn! Die lag doch offen auf dem Boden!“  
+
+---
+
+### 🎲 Skill-Challenge
+Die Gruppe kann die Situation mit verschiedenen Würfen lösen:
+
+- **Persuasion (DC 12–14):** Helden beruhigen den Bauern.  
+- **Deception (DC 13):** Rogue behauptet, die Münze sei schon immer seine gewesen.  
+- **Sleight of Hand (DC 14):** Rogue tauscht die Münze heimlich gegen eine andere aus.  
+- **Insight (DC 10):** Ein SC bemerkt, dass der Bauer **überreagiert** – es war wirklich nur eine einzelne Münze.  
+
+---
+
+### 😂 Mögliche Ausgänge
+1. **Bauer beruhigt sich** → Alles halb so wild, Rogue bleibt als „geldgierig“ in Erinnerung.  
+2. **Rogue mogelt sich raus** → Er darf die Münze behalten, die Gruppe erkennt seine Cleverness.  
+3. **Der Wirt entscheidet** → *„Wenn ihr euch so sehr an Münzen klammert, passt ihr wohl gut zu diesen Abenteurern!“* → Rogue wird Teil der Gruppe.  
+4. **Komik-Option** → Rogue hält eine theatralische Rede über „Eigentum und Schatzschutz“.  
+
+---
+
+### 🧩 Ziel für den Plot
+- Rogue wird als **gierig, aber charmant** eingeführt.  
+- Gruppe hat einen Grund, ihn mitzunehmen („der Typ ist verrückt, aber nützlich“).  
+
 - Die Party hat Pause → Ein **Schaf mit Schriftrolle** rennt auf sie zu.
 - Schriftrolle: *Speak with Animals* → ermöglicht Kommunikation.
 - Das Schaf stellt sich als **Finethir Shinebright** vor, bittet um Hilfe.
@@ -39,7 +78,6 @@ Ein verzweifeltes **Schaf** (eigentlich der Elf-Wizard *Finethir Shinebright*) b
 ---
 
 ## 🐑 Wichtige NSCs
-
 
 ### Finethir Shinebright
 - Elf, ehemals angesehener Transmuter, jetzt ein genervtes Schaf.

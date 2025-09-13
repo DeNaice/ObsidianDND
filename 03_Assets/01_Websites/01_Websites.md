@@ -30,5 +30,3 @@
 - [Homebrewery](https://homebrewery.naturalcrit.com/) – Eigene Bücher, Abenteuer und Items erstellen
 - [GM Binder](https://www.gmbinder.com) – Professionell aussehende Homebrew-Dokumente
 
-## 7. Abenteuer-Generatoren
--
