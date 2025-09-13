@@ -1,6 +1,8 @@
 
 # 🐑 The Wild Sheep Chase – DM Guide
 
+
+
 Eine komplette Abenteuer-Zusammenfassung für Obsidian.
 
 ---
@@ -11,6 +13,12 @@ Ein verzweifeltes **Schaf** (eigentlich der Elf-Wizard *Finethir Shinebright*) b
 ---
 
 ## 🚪 Einstieg
+
+## Recap 
+
+
+
+
 - Die Party hat Pause → Ein **Schaf mit Schriftrolle** rennt auf sie zu.
 - Schriftrolle: *Speak with Animals* → ermöglicht Kommunikation.
 - Das Schaf stellt sich als **Finethir Shinebright** vor, bittet um Hilfe.
