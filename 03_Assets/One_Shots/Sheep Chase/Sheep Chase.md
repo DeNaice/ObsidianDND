@@ -136,6 +136,7 @@ Nachdem Nokes Schergen besiegt, abgelenkt oder anderweitig außer Gefecht gesetz
 
 ## Haus von Finethir
 
+
 >Nicht aus Stein oder Glas, sondern aus den lebenden Ästen von vier kräftigen Eichen scheint das Haus vor dir geformt zu sein. Diese wurden geformt und verflochten, sodass drei massive Plattformen entstanden sind. Die niedrigste dieser Plattformen misst ungefähr 12 Meter im Durchmesser und befindet sich etwa 3 Meter über dem Boden. Der einzige erkennbare Aufgang ist eine sanfte Rampe aus Wurzeln und Ästen, die sich ungefähr mit dem Hauptweg verbindet. Um die Basis winden sich Äste, die eine grobe Schalenform bilden. Von deinem Standpunkt aus kannst du Blumen und kleine Bäume erkennen, die am Rand wachsen.
 
 >Bei weitem die größte der drei Plattformen ist die mittlere, die ungefähr 18 Meter im Durchmesser misst. Sie befindet sich etwa 6 Meter über dem Boden und ist vollständig von einer Wand aus sich windenden Ästen umschlossen. Gleichmäßig verteilte, fenstergroße Öffnungen sind sichtbar, ebenso wie eine Art Tür an der Stelle, die dem Gartenpodest am nächsten liegt.
