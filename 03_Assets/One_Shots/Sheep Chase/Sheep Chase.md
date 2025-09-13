@@ -18,7 +18,9 @@ Ein verzweifeltes **Schaf** (eigentlich der Elf-Wizard *Finethir Shinebright*) b
 - Nachdem ihr eure Unschuld bewiesen habt, habt ihr den Auftrag bekommen, das Buch zurückzuholen
 - Als Entschädigung eurer Mühen und falschen Anklage wird euch eine Party versprochen mit Frauen / Männer und Alkohol
 - **Gerne hätte ich die Feier mit euch heute als Session gehabt, da wir aber einen Neuling haben habe ich mich dazu entschieden aus der heutigen Sitzung eher eine One Shot zu gestalten** 
-- 
+- Der Magister [[Corven Dargan]] -> Bürgermeister 
+- Es dauert ein paar Tage bis die Feier vorbereitet ist 
+- Solange werdet ihr in einer Taverne untergebracht
 
 
 ## 🚪 Einstieg
