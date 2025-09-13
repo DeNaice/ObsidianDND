@@ -47,7 +47,8 @@
               "title": "Sheep Chase"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -215,11 +216,11 @@
       "obsidian-custom-frames:Open Merlin": false
     }
   },
-  "active": "ad24e9dc0455bf34",
+  "active": "45bcd369a09e3e5b",
   "lastOpenFiles": [
     "03_Assets/One_Shots/Sheep Chase/892902-The_Wild_Sheep_Chase_V2.pdf",
-    "03_Assets/One_Shots/Sheep Chase/Sheep Chase.md",
     "01_Faerun/02_People/01_NPC´s/01_Questgeber/Hauptquest/Corven Dargan.md",
+    "03_Assets/One_Shots/Sheep Chase/Sheep Chase.md",
     "01_Faerun/02_People/01_NPC´s/01_Questgeber/Hauptquest/Hauptquest.md",
     "01_Faerun/02_People/01_NPC´s/01_NPC´s.md",
     "01_Faerun/02_People/02_People.md",
