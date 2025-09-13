@@ -100,7 +100,7 @@ Nachdem Nokes Schergen besiegt, abgelenkt oder anderweitig außer Gefecht gesetz
 ### Verrat und Gefangenschaft
 - Eines Nachts verließ er seine **meditative Trance** und fand seinen Lehrling, **Ahmed Noke**, über sich stehend mit der gestohlenen Wand.  
 - Shinebright verlangte Erklärungen, doch der Lehrer konnte nur ein wütendes „Baaaaah“ von sich geben.  
-- Der Zauberer wurde zu einem **Gefangenen im eigenen Garten**: Er musste sich von Gras und Butterblumen ernähren, während **hungrige Wölfe und andere Tiere** (verwandelte Wächter) zusahen.  
+- Der Zauberer wurde zu einem **Gefangenen im eigenen Garten**: Er musste sich von Gras und Butterblumen ernähren, während **hungrige Wölfe und andere Tiere** (verwandelte Wächter) zusahen.   
 
 ### Hoffnungsschimmer
 - Letzte Nacht ergab sich eine Gelegenheit: Noke verließ sein Haus **ohne die Tür zu schließen**.  
