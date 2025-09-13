@@ -33,8 +33,7 @@
               "title": "892902-The_Wild_Sheep_Chase_V2"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -219,7 +218,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 282.5
+    "width": 748.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -241,10 +240,10 @@
       "obsidian-custom-frames:Open Giggles": false
     }
   },
-  "active": "bd43187166edf4dd",
+  "active": "b52de8623a4dcb16",
   "lastOpenFiles": [
-    "03_Assets/One_Shots/Sheep Chase/Sheep Chase.md",
     "03_Assets/One_Shots/Sheep Chase/892902-The_Wild_Sheep_Chase_V2.pdf",
+    "03_Assets/One_Shots/Sheep Chase/Sheep Chase.md",
     "03_Assets/01_Websites/01_Websites.md",
     "03_Assets/03_Assets.md",
     "03_Assets/One_Shots/One_Shots.md",
