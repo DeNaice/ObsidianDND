@@ -62,8 +62,8 @@ Die Gruppe kann die Situation mit verschiedenen Würfen lösen:
 ### 😂 Mögliche Ausgänge
 1. **Bauer beruhigt sich** → Alles halb so wild, Rogue bleibt als „geldgierig“ in Erinnerung.  
 2. **Rogue mogelt sich raus** → Er darf die Münze behalten, die Gruppe erkennt seine Cleverness.  
-3. **Der Wirt entscheidet** → *„Wenn ihr euch so sehr an Münzen klammert, passt ihr wohl gut zu diesen Abenteurern!“* → Rogue wird Teil der Gruppe.  
-4. **Komik-Option** → Rogue hält eine theatralische Rede über „Eigentum und Schatzschutz“.  
+	1. **Der Wirt entscheidet** → *„Wenn ihr euch so sehr an Münzen klammert, passt ihr wohl gut zu diesen Abenteurern!“* → Rogue wird Teil der Gruppe.  
+3. **Komik-Option** → Rogue hält eine theatralische Rede über „Eigentum und Schatzschutz“.  
 
 ---
 
