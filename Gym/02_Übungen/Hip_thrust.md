@@ -1,5 +1,5 @@
 # 🧩 Hip Thrust
-![[hip_thrust.jpg]]
+![[Hip_thrust.png]]
 
 ## 🧠 Beschreibung
 Kurze Erklärung, was trainiert wird und wozu die Übung dient.

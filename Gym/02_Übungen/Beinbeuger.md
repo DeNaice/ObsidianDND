@@ -1,5 +1,5 @@
 # 🧩 Beinbeuger
-![[beinbeuger.jpg]]
+![[Beinbeuger.png]]
 
 ## 🧠 Beschreibung
 Kurze Erklärung, was trainiert wird und wozu die Übung dient.
