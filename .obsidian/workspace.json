@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "4a1ef2bef4bd8982",
+        "id": "5e1ebee096943935",
         "type": "tabs",
         "children": [
           {
-            "id": "84cc3e73f8deb3ee",
+            "id": "1eec558205299181",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Gym/01_Workout/Push_A.md",
+                "file": "Gym/01_Workout/Pull_A.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Push_A"
+              "title": "Pull_A"
             }
           }
         ]
@@ -229,34 +229,37 @@
       "obsidian-custom-frames:Open Giggles": false
     }
   },
-  "active": "84cc3e73f8deb3ee",
+  "active": "1eec558205299181",
   "lastOpenFiles": [
     "Gym/01_Workout/01_Workout.md",
-    "Gym/Gym.md",
+    "Gym/03_Bilder/Latzug.png",
     "Gym/01_Workout/Pull_A.md",
+    "Gym/01_Workout/Push_A.md",
+    "Gym/02_Übungen/Schulterpresse.md",
+    "Gym/03_Bilder/Schulterpresse.png",
+    "Gym/03_Bilder/Nicht bestätigt 883972.crdownload",
+    "Gym/Gym.md",
+    "Gym/02_Übungen/Latzug.md",
+    "Gym/03_Bilder/Nicht bestätigt 1092.crdownload",
+    "Gym/02_Übungen/Beinbeuger.md",
+    "Gym/01_Workout/Pull_B.md",
+    "Gym/01_Workout/Legs.md",
+    "Gym/02_Übungen/Seitlicher_plank.md",
     "Gym/02_Übungen/Wadenheben.md",
     "Gym/02_Übungen/Plank.md",
-    "Gym/02_Übungen/Latzug.md",
     "Gym/02_Übungen/Hip_thrust.md",
     "Gym/02_Übungen/Face_pulls.md",
     "Gym/02_Übungen/Enges_rudern.md",
     "Gym/02_Übungen/Beinpresse.md",
-    "Gym/01_Workout/Push_A.md",
     "Gym/02_Übungen/Seitheben.md",
     "Gym/02_Übungen/Beinstrecker.md",
-    "Gym/02_Übungen/Beinbeuger.md",
     "Gym/02_Übungen/Trizepsdruecken.md",
-    "Gym/02_Übungen/Seitlicher_plank.md",
     "Gym/02_Übungen/Seitheben.md",
-    "Gym/02_Übungen/Schulterpresse.md",
     "Gym/02_Übungen/Schraegbankpresse.md",
     "Gym/02_Übungen/Rueckenstrecker.md",
     "Gym/02_Übungen/Rudermaschine.md",
     "Gym/02_Übungen/Reverse_flys.md",
     "Gym/02_Übungen/Crunches.md",
-    "Gym/02_Übungen/Cable_crunch.md",
-    "Gym/02_Übungen/Butterfly.md",
-    "Gym/02_Übungen/Brustpresse.md",
     "Gym/03_Bilder",
     "Gym/02_Übungen",
     "Gym/W",
@@ -265,8 +268,6 @@
     "Ernährung",
     "Gym",
     "DND",
-    "DND/03_Assets/One_Shots/Sheep Chase/892902-The_Wild_Sheep_Chase_V2.pdf",
-    "DND/03_Assets/One_Shots/Sheep Chase/892902-Sheep_Chase_Map.pdf",
     "DND/02_Kampagne/01_Preperation/Visionboard.canvas",
     "DND/03_Assets/02_Maps/03_Battle Maps/Arena.png",
     "Assets/Battle Maps/Arena.png",

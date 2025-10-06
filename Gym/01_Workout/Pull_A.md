@@ -7,13 +7,13 @@
 
 ## 🧩 Übungen
 
-| Übung | Gerät/Alternative | Sätze x Wdh | Notizen |
-|--------|------------------|--------------|----------|
-| Latzug zur Brust | später: Klimmzüge | 4x8–12 | leicht nach hinten lehnen |
-| Rudermaschine | später: LH-/KH-Rudern | 3x8–12 | Schulterblätter zusammenziehen |
-| Face Pulls | Kabel oder Band | 3x12–15 | für hintere Schulter |
-| Bizepsmaschine | SZ- oder KH-Curls | 3x10–12 | volle Dehnung |
-| Crunches / Beinheben | Core | 3x max. | Core fest halten |
+| Übung              | Gerät/Alternative     | Sätze x Wdh | Notizen                        |
+| ------------------ | --------------------- | ----------- | ------------------------------ |
+| [[Latzug]]         | später: Klimmzüge     | 4x8–12      | leicht nach hinten lehnen      |
+| [[Rudermaschine]]  | später: LH-/KH-Rudern | 3x8–12      | Schulterblätter zusammenziehen |
+| [[Face_pulls]]     | Kabel oder Band       | 3x12–15     | für hintere Schulter           |
+| [[Bizepsmaschine]] | SZ- oder KH-Curls     | 3x10–12     | volle Dehnung                  |
+| [[Crunches]]       | Core                  | 3x max.     | Core fest halten               |
 
 ---
 

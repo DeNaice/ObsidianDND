@@ -7,14 +7,14 @@
 
 ## 🧩 Übungen
 
-| Übung | Gerät/Alternative | Sätze x Wdh | Notizen |
-|--------|------------------|--------------|----------|
-| Beinpresse | später: Kniebeugen | 4x10–12 | Fersen am Boden, nicht durchstrecken |
-| Beinstrecker | Maschine | 3x12–15 | kontrollierte Bewegung |
-| Beinbeuger | Maschine | 3x10–12 | volle Dehnung |
-| Hip Thrust / Glute Bridge | Maschine oder Bank | 3x10–12 | oben kurz halten |
-| Wadenheben | sitzend oder stehend | 3x15–20 | volle ROM |
-| Seitlicher Plank | Core | 3x max. | Hüfte stabil halten |
+| Übung                | Gerät/Alternative    | Sätze x Wdh | Notizen                              |
+| -------------------- | -------------------- | ----------- | ------------------------------------ |
+| [[Beinpresse]]       | später: Kniebeugen   | 4x10–12     | Fersen am Boden, nicht durchstrecken |
+| [[Beinstrecker]]     | Maschine             | 3x12–15     | kontrollierte Bewegung               |
+| [[Beinbeuger]]       | Maschine             | 3x10–12     | volle Dehnung                        |
+| [[Hip_thrust]]       | Maschine oder Bank   | 3x10–12     | oben kurz halten                     |
+| [[Wadenheben]]       | sitzend oder stehend | 3x15–20     | volle ROM                            |
+| [[Seitlicher_plank]] | Core                 | 3x max.     | Hüfte stabil halten                  |
 
 ---
 

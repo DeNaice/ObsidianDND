@@ -7,13 +7,13 @@
 
 ## 🧩 Übungen
 
-| Übung | Gerät/Alternative | Sätze x Wdh | Notizen |
-|--------|------------------|--------------|----------|
-| Klimmzugmaschine | später: freie Klimmzüge | 4x8–12 | Brust zur Stange |
-| Enges Rudern am Kabel | Rückenmitte | 3x10–12 | Ellbogen nah am Körper |
-| Reverse Flys | Maschine / KH | 3x12–15 | Arme leicht gebeugt |
-| Bizepscurls (SZ oder KH) | – | 3x10–12 | kontrollierte Ausführung |
-| Rückenstrecker / Hyperextensions | unterer Rücken | 3x12–15 | oben kurz halten |
+| Übung                            | Gerät/Alternative       | Sätze x Wdh | Notizen                  |
+| -------------------------------- | ----------------------- | ----------- | ------------------------ |
+| Klimmzugmaschine                 | später: freie Klimmzüge | 4x8–12      | Brust zur Stange         |
+| [[Enges_rudern]]                 | Rückenmitte             | 3x10–12     | Ellbogen nah am Körper   |
+| [[Reverse_flys]]                 | Maschine / KH           | 3x12–15     | Arme leicht gebeugt      |
+| [[Bizepscurls]]                  | –                       | 3x10–12     | kontrollierte Ausführung |
+| Rückenstrecker / Hyperextensions | unterer Rücken          | 3x12–15     | oben kurz halten         |
 
 ---
 
