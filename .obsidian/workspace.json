@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Gym/Gym.md",
+                "file": "Gym/01_Workout/02_Pull_A.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Gym"
+              "title": "02_Pull_A"
             }
           }
         ]
@@ -190,9 +190,9 @@
   },
   "active": "e2ac6bf6f64c87a5",
   "lastOpenFiles": [
+    "Gym/Gym.md",
     "Gym/01_Workout/01_Workout.md",
     "Gym/01_Workout/03_Legs.md",
-    "Gym/Gym.md",
     "Gym/02_Übungen/02_Übungen.md",
     "Gym/01_Workout/02_Pull_A.md",
     "Gym/01_Workout/05_Pull_B.md",
