@@ -11,14 +11,12 @@
             "id": "b52de8623a4dcb16",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "03_Assets/One_Shots/Sheep Chase/Sheep Chase.md",
-                "mode": "source",
-                "source": false
+                "file": "03_Assets/One_Shots/Sheep Chase/892902-The_Wild_Sheep_Chase_V2.pdf"
               },
-              "icon": "lucide-file",
-              "title": "Sheep Chase"
+              "icon": "lucide-file-text",
+              "title": "892902-The_Wild_Sheep_Chase_V2"
             }
           },
           {
@@ -245,6 +243,10 @@
   },
   "active": "b52de8623a4dcb16",
   "lastOpenFiles": [
+    "03_Assets/One_Shots/Sheep Chase/Sheep Chase.md",
+    "03_Assets/03_Assets.md",
+    "02_Kampagne/04_Side_Quests/04_Side_Quests.md",
+    "02_Kampagne/03_Quests/03_Quests.md",
     "01_Faerun/04_Items/06_Artifact/Evangelium der Leere.md",
     "01_Faerun/04_Items/06_Artifact/06_Artifact.md",
     "01_Faerun/04_Items/05_Legendary/05_Legendary.md",
@@ -252,11 +254,8 @@
     "02_Kampagne/02_Kampagne.md",
     "02_Kampagne/01_Preperation/01_Preperation.md",
     "03_Assets/One_Shots/Sheep Chase/892902-The_Wild_Sheep_Chase_V2.pdf",
-    "03_Assets/One_Shots/Sheep Chase/Sheep Chase.md",
     "03_Assets/01_Websites/01_Websites.md",
-    "03_Assets/03_Assets.md",
     "03_Assets/One_Shots/One_Shots.md",
-    "02_Kampagne/03_Quests/03_Quests.md",
     "conflict-files-obsidian-git.md",
     "03_Assets/One_Shots/Sheep Chase/892902-Sheep_Chase_Map.pdf",
     "03_Assets/One_Shots/Sheep Chase",
@@ -277,7 +276,6 @@
     "05_Rules&Tipps/05_Rules&Tipps.md",
     "Z_Hochzeit/04_Gästeliste/Untitled.md",
     "02_Kampagne/05_Random_Encounters/05_Random_Encounters.md",
-    "02_Kampagne/04_Side_Quests/04_Side_Quests.md",
     "02_Kampagne/02_Journal/Session 0.md",
     "02_Kampagne/02_Journal/02_Journal.md",
     "02_Kampagne/03_Quests/Campaign Start.md",
