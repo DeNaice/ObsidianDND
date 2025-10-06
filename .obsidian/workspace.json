@@ -232,14 +232,14 @@
         "direction": "vertical",
         "x": 2048,
         "y": -321,
-        "width": 1080,
-        "height": 887,
+        "width": 864,
+        "height": 710,
         "maximize": false,
         "zoom": 0
       }
     ]
   },
-  "active": "d61285e1782db99d",
+  "active": "45bcd369a09e3e5b",
   "lastOpenFiles": [
     "03_Assets/One_Shots/Sheep Chase/892902-The_Wild_Sheep_Chase_V2.pdf",
     "03_Assets/One_Shots/Sheep Chase/Sheep Chase.md",
