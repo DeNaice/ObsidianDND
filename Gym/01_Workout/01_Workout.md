@@ -1,3 +1,4 @@
+# 📅 Trainings-Schedule (5x pro Woche)
 
 | Tag        | Training         | Fokus                    | Dauer     |
 | ---------- | ---------------- | ------------------------ | --------- |
