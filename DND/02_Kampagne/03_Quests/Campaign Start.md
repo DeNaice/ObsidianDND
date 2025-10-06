@@ -3,7 +3,7 @@
 ## Allgemeine Informationen
 - **Name:** 
 - **Typ:** #Quest
-- **Startort:** [[01_Faerun/01_Places/01_Citys/Beregost]]
+- **Startort:** [[DND/01_Faerun/01_Places/01_Citys/Beregost]]
 - **Beschreibung:** Gerichtsverhandlung in dem sie beschuldigt werden ein Buch [[Evangelium der Leere]] über schwarze Magie gestohlen zu haben. Sie werden dannach in den Kerker geworden 
 - Um ihre Unschuld zu beweisen bekommen sie einen stillen Companion der sie beobachtet 
 
@@ -33,7 +33,7 @@ https://www.youtube.com/watch?v=vdTD0BIKsMQ&ab_channel=FrancisBoninMusic
 > Kenna die Jägerin - Immer ein Lächeln auf den Lippen - man erzählt sich das sie oft Selbstgespräche führt
 > Diese Drei haben sich - wie so viele Abenteuer Gruppen es tun sich in einer Taverne kennengelernt und schon einiges miteinander erlebt
 
->Babsi, Merlin, Kenna ihr seid beim Reisen durch die Stadt [[01_Faerun/01_Places/01_Citys/Beregost]] durch als ihr plötzlich ohne große Erklärung von Wachen übermannt und ins Gefängnis gesteckt wurdet. Ihr werdet wohl scheinbar des Diebstahls eines gefährlichen Artefakts beschuldigt.
+>Babsi, Merlin, Kenna ihr seid beim Reisen durch die Stadt [[DND/01_Faerun/01_Places/01_Citys/Beregost]] durch als ihr plötzlich ohne große Erklärung von Wachen übermannt und ins Gefängnis gesteckt wurdet. Ihr werdet wohl scheinbar des Diebstahls eines gefährlichen Artefakts beschuldigt.
 >2 Wachen fesseln euch und schmeißen euch mit einem Arschtritt in einen dunklen, modriken Kerker. Doch in dem Kerker sind noch 2 weitere Gefangene. 
 >
 >STELLT EUCH VOR

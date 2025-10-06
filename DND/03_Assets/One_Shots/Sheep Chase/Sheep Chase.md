@@ -1,4 +1,4 @@
-
+ö
 # 🐑 The Wild Sheep Chase – DM Guide
 
 
@@ -25,8 +25,10 @@ Ein verzweifeltes **Schaf** (eigentlich der Elf-Wizard *Finethir Shinebright*) b
 ## 🚪 Einstieg
 
 
+Die Goldene Sonne Gasthaus - 
 
->Ein lautes Heulen erfüllt die Luft, begleitet vom Lärm wütender Rufe und gelegentlichen Schreien, die immer näher zu kommen scheinen. Die Ursache wird schnell klar, als ein riesiger Halb-Ork heranstolziert, der sich ohne Rücksicht durch die Menge drängt. Vor ihm laufen offenbar große Wölfe mit eisernen Halsbändern, während eine massige Gestalt in einem schmutzig-braunen Umhang in seinem Gefolge mit so schweren Schritten marschiert, dass man sie über das Tosen hinweg hören kann. Der Halb-Ork fixiert dich mit seinen kleinen Augen und schreitet voran, eine Hand auf dem Knauf eines Großschwerts.  
+
+>Ein lautes Heulen erfüllt die Luft, begleitet vom Lärm wütender Rufe und gelegentlichen Schreien, die immer näher zu kommen scheinen. Die Ursache wird schnell klar, als ein riesiger Halb-Ork heranstolziert. Vor ihm laufen offenbar große Wölfe mit eisernen Halsbändern, während eine massige Gestalt in einem schmutzig-braunen Umhang in seinem Gefolge mit so schweren Schritten marschiert, dass man sie über das Tosen hinweg hören kann. Der Halb-Ork fixiert dich mit seinen kleinen Augen und schreitet voran, eine Hand auf dem Knauf eines Großschwerts.  
  „Dieses Schaf gehört Meister Noke … er verlangt es zurück.“
 
 
@@ -60,8 +62,8 @@ Die Gruppe kann die Situation mit verschiedenen Würfen lösen:
 ### 😂 Mögliche Ausgänge
 1. **Bauer beruhigt sich** → Alles halb so wild, Rogue bleibt als „geldgierig“ in Erinnerung.  
 2. **Rogue mogelt sich raus** → Er darf die Münze behalten, die Gruppe erkennt seine Cleverness.  
-3. **Der Wirt entscheidet** → *„Wenn ihr euch so sehr an Münzen klammert, passt ihr wohl gut zu diesen Abenteurern!“* → Rogue wird Teil der Gruppe.  
-4. **Komik-Option** → Rogue hält eine theatralische Rede über „Eigentum und Schatzschutz“.  
+	1. **Der Wirt entscheidet** → *„Wenn ihr euch so sehr an Münzen klammert, passt ihr wohl gut zu diesen Abenteurern!“* → Rogue wird Teil der Gruppe.  
+3. **Komik-Option** → Rogue hält eine theatralische Rede über „Eigentum und Schatzschutz“.  
 
 ---
 
@@ -97,8 +99,8 @@ Nachdem Nokes Schergen besiegt, abgelenkt oder anderweitig außer Gefecht gesetz
 
 ### Verrat und Gefangenschaft
 - Eines Nachts verließ er seine **meditative Trance** und fand seinen Lehrling, **Ahmed Noke**, über sich stehend mit der gestohlenen Wand.  
-- Shinebright verlangte Erklärungen, doch der Lehrling konnte nur ein wütendes „Baaaaah“ von sich geben.  
-- Der Zauberer wurde zu einem **Gefangenen im eigenen Garten**: Er musste sich von Gras und Butterblumen ernähren, während **hungrige Wölfe und andere Tiere** (verwandelte Wächter) zusahen.  
+- Shinebright verlangte Erklärungen, doch der Lehrer konnte nur ein wütendes „Baaaaah“ von sich geben.  
+- Der Zauberer wurde zu einem **Gefangenen im eigenen Garten**: Er musste sich von Gras und Butterblumen ernähren, während **hungrige Wölfe und andere Tiere** (verwandelte Wächter) zusahen.   
 
 ### Hoffnungsschimmer
 - Letzte Nacht ergab sich eine Gelegenheit: Noke verließ sein Haus **ohne die Tür zu schließen**.  
@@ -122,9 +124,9 @@ Nachdem Nokes Schergen besiegt, abgelenkt oder anderweitig außer Gefecht gesetz
 - Mensch, ehem. Lehrling Shinebrights.
 - Fühlt sich ausgebremst und unterdrückt.
 - Paranoid, voller Schuld und Machtstreben.
-- Hüter des **modifizierten Wands of True Polymorph**.
-
+- Hüter des **modifizierten Wands of True Polymorph**
 ---
+
 
 ## 🏰 Hauptort: Nokes Baumhaus-Turm
 - Gelegen südöstlich der Stadt.
@@ -132,8 +134,6 @@ Nachdem Nokes Schergen besiegt, abgelenkt oder anderweitig außer Gefecht gesetz
   1. **Unterste Plattform**: Garten, 3 Apes (mit Großschwertern), Bär im Nebengebäude.
   2. **Mittlere Plattform**: Bibliothek, Labor, Wohnräume. Bücher, Notizen, Diagramme.
   3. **Oberste Plattform**: Schlafzimmer Nokes, mit Bett und Truhe.
-
-
 
 ## Haus von Finethir
 
@@ -145,9 +145,6 @@ Nachdem Nokes Schergen besiegt, abgelenkt oder anderweitig außer Gefecht gesetz
 >Die oberste und letzte Plattform befindet sich rund 9 Meter über dem Boden und ist deutlich kleiner als die anderen. Sie scheint durch eine weitere kleine Rampe mit der mittleren Plattform verbunden zu sein.
 
 >>Unter den Plattformen sind verstreut zwei kleine Holzhütten sowie ein großes Nebengebäude zu sehen.
-
-
-
 
 
 ## ⚔️ Begegnungen & Kämpfe
@@ -253,3 +250,5 @@ Nachdem Nokes Schergen besiegt, abgelenkt oder anderweitig außer Gefecht gesetz
   - Vorteil auf **Stealth** während der Verwandlung, Nachteil auf **Charisma (Persuasion)**.  
 - **Flavor:** Ideal, um sich zu verstecken, durch kleine Lücken zu kriechen oder NPCs zu verwirren.  
 - **Komik-Option:** Jedes Mal, wenn man spricht, ertönt ein leises „Baaah“.  
+
+-> RING GEHT AN MARCI
