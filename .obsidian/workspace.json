@@ -4,24 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "b79db5ec20b86cda",
+        "id": "8cb0dc5d2ef97720",
         "type": "tabs",
         "children": [
           {
-            "id": "b4930b6691da3a2f",
+            "id": "e2ac6bf6f64c87a5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Gym/02_Übungen/Latzug.md",
+                "file": "Gym/Gym.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Latzug"
+              "title": "Gym"
+            }
+          },
+          {
+            "id": "d6e98648d58234c9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Gym/01_Workout/Legs.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Legs"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -188,48 +203,32 @@
       "obsidian-custom-frames:Open Merlin": false
     }
   },
-  "floating": {
-    "id": "baedf843bc308b4e",
-    "type": "floating",
-    "children": [
-      {
-        "id": "a40c81ea49767047",
-        "type": "window",
-        "children": [
-          {
-            "id": "e1afbc671a891710",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "45bcd369a09e3e5b",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "DND/DND.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "DND"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 2048,
-        "y": -321,
-        "width": 864,
-        "height": 710,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "b4930b6691da3a2f",
+  "active": "d6e98648d58234c9",
   "lastOpenFiles": [
+    "Gym/03_Bilder/Beinbeuger.png",
+    "Gym/03_Bilder/Nicht bestätigt 370792.crdownload",
+    "Gym/03_Bilder/Beinstrecker.png",
+    "Gym/03_Bilder/Nicht bestätigt 801587.crdownload",
+    "Gym/03_Bilder/Beinpresse.png",
+    "Gym/03_Bilder/Nicht bestätigt 439708.crdownload",
+    "Gym/Gym.md",
+    "Gym/01_Workout/Push_A.md",
+    "Gym/03_Bilder/Plank.png",
+    "Gym/03_Bilder/Nicht bestätigt 453650.crdownload",
+    "Gym/03_Bilder/Trizepsdrücken.png",
+    "Gym/03_Bilder/Nicht bestätigt 710813.crdownload",
+    "Gym/03_Bilder/Seitheben.png",
+    "Gym/03_Bilder/Nicht bestätigt 583023.crdownload",
+    "Gym/02_Übungen/Brustpresse.md",
+    "Gym/03_Bilder/Brustpresse.png",
+    "Gym/03_Bilder/Nicht bestätigt 92167.crdownload",
     "Gym/01_Workout/Pull_A.md",
+    "Gym/02_Übungen/Crunches.md",
+    "Gym/02_Übungen/Bizepsmaschine.md",
+    "Gym/02_Übungen/Face_pulls.md",
+    "Gym/02_Übungen/Rudermaschine.md",
+    "Gym/01_Workout/01_Workout.md",
+    "Gym/02_Übungen/Latzug.md",
     "Gym/03_Bilder/Crunches.png",
     "Gym/03_Bilder/Nicht bestätigt 335033.crdownload",
     "Gym/03_Bilder/Bizepsmaschine.png",
@@ -237,20 +236,14 @@
     "Gym/03_Bilder/Face_pulls.png",
     "Gym/03_Bilder/Nicht bestätigt 436976.crdownload",
     "Gym/03_Bilder/Rudermaschine.png",
-    "Gym/03_Bilder/rudern-maschine-beidarmig.png",
-    "Gym/01_Workout/01_Workout.md",
     "Gym/02_Übungen/02_Übungen.md",
     "Gym/03_Bilder/03_Bilder.md",
-    "Gym/Gym.md",
     "Gym/01_Workout/Legs.md",
-    "Gym/03_Bilder/Latzug.png",
     "conflict-files-obsidian-git.md",
     "DND/DND.md",
     "Ernährung/Ernährung.md",
-    "Ernährung",
     "DND/03_Assets/05_ETC/Zauberkarten/Zauberkarten.md",
     "DND/03_Assets/05_ETC/05_ETC.md",
-    "Gym/03_Bilder/Schulterpresse.png",
     "Gym/02_Übungen/Wadenheben.md",
     "Gym/02_Übungen/Trizepsdruecken.md",
     "Gym/02_Übungen/Seitheben.md",
@@ -258,24 +251,9 @@
     "Gym/02_Übungen/Schulterpresse.md",
     "Gym/02_Übungen/Schraegbankpresse.md",
     "Gym/02_Übungen/Rueckenstrecker.md",
-    "Gym/02_Übungen/Rudermaschine.md",
-    "Gym/02_Übungen/Reverse_flys.md",
-    "Gym/02_Übungen/Plank.md",
-    "Gym/02_Übungen/Face_pulls.md",
-    "Gym/02_Übungen/Latzug.md",
-    "Gym/02_Übungen/Hip_thrust.md",
-    "Gym/02_Übungen/Butterfly.md",
-    "Gym/03_Bilder",
-    "Gym/02_Übungen",
-    "Gym/01_Workout",
-    "Gym",
-    "DND/05_Rules&Tipps/03_Tipps",
-    "DND/05_Rules&Tipps/02_Houserules",
-    "DND/03_Assets/02_Maps/03_Battle Maps/Arena.png",
     "DND/02_Kampagne/01_Preperation/Visionboard.canvas",
     "02_Kampagne/01_Preperation/Visionboard.canvas",
     "Untitled.canvas",
-    "03_Assets/02_Maps/03_Battle Maps/Arena.png",
     "Kampagne/Quests/Side Quests/Das Fest.canvas"
   ]
 }

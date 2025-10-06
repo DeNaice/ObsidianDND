@@ -1,5 +1,5 @@
 # 🧩 Face Pulls
-![[face_pulls.jpg]]
+![[Face_pulls.png]]
 
 ## 🧠 Beschreibung
 Kurze Erklärung, was trainiert wird und wozu die Übung dient.
