@@ -9,3 +9,4 @@
 | Freitag    | [[04_Push_B]]    | Brust, Schulter, Trizeps |
 | Samstag    | [[05_Pull_B]]    | Rücken, Bizeps, Core     |
 | Sonntag    | ❌ Pause          | Erholung                 |
+
