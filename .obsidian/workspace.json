@@ -11,15 +11,42 @@
             "id": "e2ac6bf6f64c87a5",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "kanban",
               "state": {
-                "file": "Game Dev/Game Jam/Solodevelopment Halloween Jam #9/Drawing.md"
+                "file": "Game Dev/Game Jam/Solodevelopment Halloween Jam #9/Game.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": [
+                    false,
+                    false
+                  ]
+                }
               },
-              "icon": "excalidraw-icon",
-              "title": "Drawing"
+              "icon": "lucide-trello",
+              "title": "Game"
+            }
+          },
+          {
+            "id": "54c2e94b558a78f5",
+            "type": "leaf",
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "Game Dev/Game Jam/Solodevelopment Halloween Jam #9/Game.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": [
+                    false,
+                    false
+                  ]
+                }
+              },
+              "icon": "lucide-trello",
+              "title": "Game"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -187,12 +214,12 @@
       "obsidian-custom-frames:Open Merlin": false
     }
   },
-  "active": "e2ac6bf6f64c87a5",
+  "active": "54c2e94b558a78f5",
   "lastOpenFiles": [
-    "Game Dev/Game Jam/Solodevelopment Halloween Jam #9/GDD auf Wish bestellt.md",
-    "Game Dev/Game Jam/Solodevelopment Halloween Jam #9/Game.canvas",
     "Game Dev/Game Jam/Solodevelopment Halloween Jam #9/Drawing.md",
+    "Game Dev/Game Jam/Solodevelopment Halloween Jam #9/GDD auf Wish bestellt.md",
     "Game Dev/Game Jam/Solodevelopment Halloween Jam #9/Game.md",
+    "Game Dev/Game Jam/Solodevelopment Halloween Jam #9/Game.canvas",
     "DND/01_Faerun/02_People/01_NPC´s/01_Questgeber/Hauptquest/Corven Dargan.md",
     "DND/01_Faerun/02_People/01_NPC´s/01_Questgeber/Hauptquest/Hauptquest.md",
     "Game Dev/Game Jam/Solodevelopment Halloween Jam #9/Solodevelopment Halloween Jam #9.md",
