@@ -8,25 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e2ac6bf6f64c87a5",
-            "type": "leaf",
-            "state": {
-              "type": "kanban",
-              "state": {
-                "file": "Game Dev/Game Jam/Solodevelopment Halloween Jam #9/Game.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false
-                  ]
-                }
-              },
-              "icon": "lucide-trello",
-              "title": "Game"
-            }
-          },
-          {
             "id": "54c2e94b558a78f5",
             "type": "leaf",
             "state": {
@@ -37,6 +18,9 @@
                   "kanban-plugin": "board",
                   "list-collapse": [
                     false,
+                    false,
+                    false,
+                    false,
                     false
                   ]
                 }
@@ -45,8 +29,7 @@
               "title": "Game"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
