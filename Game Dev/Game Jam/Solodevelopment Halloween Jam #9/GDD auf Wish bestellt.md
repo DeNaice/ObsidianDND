@@ -2,9 +2,12 @@
 ---
 
 ### 🧠 1. Thema verstehen
-- Thema: 
+- Thema: Black and White
 - Assoziationen (Wörter, Emotionen, Bilder, Mechaniken):
-  - 
+  - Licht und Schatten
+  - Gut und Böse
+  - Himmel und Hölle 
+  - Taschenlampe -> Welt ist schwarz wenn man drauf scheint hell
   - 
   - 
 - Gegenteil oder Twist des Themas:
