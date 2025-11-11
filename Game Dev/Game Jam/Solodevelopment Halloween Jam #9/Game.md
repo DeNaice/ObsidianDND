@@ -8,6 +8,7 @@ kanban-plugin: board
 
 - [ ] Gegner besiegen
 - [ ] Gegner sind Schatten? Geister IDK
+- [ ] Environment als Waffe
 
 
 ## TODOS
