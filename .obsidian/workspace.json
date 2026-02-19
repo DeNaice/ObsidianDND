@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "Gym"
             }
+          },
+          {
+            "id": "c307ec80230f8811",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Gym/01_Workout/01_Push_A.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "01_Push_A"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -189,11 +204,16 @@
       "obsidian-custom-frames:Open Merlin": false
     }
   },
-  "active": "d1a142513227de49",
+  "active": "c307ec80230f8811",
   "lastOpenFiles": [
+    "Gym/01_Workout/02_Pull_A.md",
+    "Gym/01_Workout/03_Legs.md",
+    "Gym/01_Workout/04_Push_B.md",
+    "Gym/01_Workout/05_Pull_B.md",
+    "Gym/Gym.md",
+    "Gym/01_Workout/01_Push_A.md",
     "Gym.zip",
     "Untitled.md",
-    "Gym/Gym.md",
     "DND/DND.md",
     "Game Dev/Game Dev.md",
     "Excalidraw/Excalidraw.md",
@@ -211,12 +231,7 @@
     "Gym/01_Workout/01_Workout.md",
     "Game Dev/Game Jam",
     "Game Dev",
-    "Gym/01_Workout/02_Pull_A.md",
-    "Gym/01_Workout/03_Legs.md",
     "Gym/02_Übungen/02_Übungen.md",
-    "Gym/01_Workout/05_Pull_B.md",
-    "Gym/01_Workout/04_Push_B.md",
-    "Gym/01_Workout/01_Push_A.md",
     "Gym/02_Übungen/Schraegbankpresse.md",
     "Gym/02_Übungen/Trizepsdruecken.md",
     "Gym/02_Übungen/Beinpresse.md",
@@ -232,7 +247,6 @@
     "Gym/03_Bilder/Beinbeuger.png",
     "Gym/03_Bilder/Nicht bestätigt 370792.crdownload",
     "Gym/03_Bilder/Beinstrecker.png",
-    "Gym/03_Bilder/Nicht bestätigt 801587.crdownload",
     "Gym/03_Bilder/Beinpresse.png",
     "Gym/03_Bilder/Plank.png",
     "Gym/03_Bilder/Trizepsdrücken.png",
