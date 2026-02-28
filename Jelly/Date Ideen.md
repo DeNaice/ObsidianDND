@@ -1,4 +1,4 @@
 - Drink&Paint Aquarell Landschaft https://triviar.de/course/10067?cl=Giessen für 30€ p.P
 - Drink&Paint Banksy Street Art  Gießen https://triviar.de/course/10062?cl=Giessen für 30€ p.P
-- Stofftaschen mit Bleichmitteln bemalen
+- Stofftaschen mit Bleichmitteln bemalen -> Bleach Wasser und Pinsel 
 - 
