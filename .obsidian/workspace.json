@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Jelly/Tagebuch/26.02.2026.md",
+                "file": "Wedding/Wedding.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "26.02.2026"
+              "title": "Wedding"
             }
           }
         ],
@@ -59,7 +59,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Files"
+              "title": "Dateiexplorer"
             }
           },
           {
@@ -186,12 +186,12 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "bases:Create new base": true,
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "command-palette:Open command palette": false,
-      "canvas:Create new canvas": false,
-      "templates:Insert template": false,
+      "switcher:Schnellauswahl öffnen": false,
+      "graph:Graph-Ansicht öffnen": false,
+      "canvas:Neuen Canvas erstellen": false,
+      "templates:Vorlage einfügen": false,
+      "command-palette:Befehlspalette öffnen": false,
+      "bases:Neue Base erstellen": false,
       "templater-obsidian:Templater": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
@@ -204,15 +204,18 @@
       "obsidian-custom-frames:Open Merlin": false
     }
   },
-  "active": "c307ec80230f8811",
+  "active": "d1a142513227de49",
   "lastOpenFiles": [
     "Jelly/Todos.md",
-    "Jelly/Jelly Likes.md",
+    "Jelly/Date Ideen.md",
     "Jelly/Jelly.md",
+    "Jelly/Unbenannt/Unbenannt.md",
+    "Jelly/Unbenannt",
+    "Jelly/Jelly Likes.md",
+    "Jelly/Food.md",
     "Jelly/Tagebuch/26.02.2026.md",
     "Jelly/Tagebuch/Tagebuch.md",
     "Jelly/Tagebuch",
-    "Jelly/Food.md",
     "Gym/Therapeuten.md",
     "Wedding/Wedding.md",
     "01_LEBEN/01_LEBEN.md",
@@ -239,13 +242,10 @@
     "Game Dev/Game Jam/Solodevelopment Halloween Jam #9/GDD auf Wish bestellt.md",
     "Game Dev/Game Jam/Solodevelopment Halloween Jam #9/Game.canvas",
     "DND/01_Faerun/02_People/01_NPC´s/01_Questgeber/Hauptquest/Corven Dargan.md",
-    "DND/01_Faerun/02_People/01_NPC´s/01_Questgeber/Hauptquest/Hauptquest.md",
-    "Game Dev/Game Jam/Solodevelopment Halloween Jam #9/Solodevelopment Halloween Jam #9.md",
     "Excalidraw",
     "Game Dev/Game Jam/Solodevelopment Halloween Jam #9/Untitled.base",
     "Game Dev/Game Jam/Solodevelopment Halloween Jam #9",
     "Game Dev/Game Jam",
-    "Game Dev",
     "Gym/03_Bilder/Seitlicher_plank.png",
     "Gym/03_Bilder/Wadenheben.png",
     "Gym/03_Bilder/Hip_thrust.png",
