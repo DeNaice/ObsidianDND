@@ -1,4 +1,4 @@
-- [ ] Date Einladung vorbereiten -> https://www.youtube.com/watch?v=kzSQpfAxab4
-- [ ] Lieblings Drink holen -> Cassis -> GRATULATION ZUM JOB
+- [x] Date Einladung vorbereiten -> https://www.youtube.com/watch?v=kzSQpfAxab4
+- [x] Lieblings Drink holen -> Cassis -> GRATULATION ZUM JOB
 - [ ] Plan ausdrucken und unterschreiben
-- [ ] Date besser ausplanen 
+- [x] Date besser ausplanen 
